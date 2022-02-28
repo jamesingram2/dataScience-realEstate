@@ -1,0 +1,501 @@
+title,address,city,state,zip_code,price,beds,baths,area,region
+House For Sale,267 Rigi Ave,Syracuse ,NY ,13206,84900,3,1,1102,syracuse
+House For Sale,218 Lilac St,Syracuse ,NY ,13208,44900,3,1,1156,syracuse
+Auction,134 Claire Rd,Syracuse ,NY ,13214,,2,1,1100,syracuse
+House For Sale,178 Hickok Ave,Syracuse ,NY ,13206,164900,5,2,2080,syracuse
+Apartment For Sale,1036 Danforth St & Grant Blvd St,Syracuse ,NY ,13208,99900,5,2,2111,syracuse
+House For Sale,1133 N Glencove Rd,Syracuse ,NY ,13206,124900,4,2,1638,syracuse
+Apartment For Sale,1036 Danforth St,Syracuse ,NY ,13208,99900,5,2,2111,syracuse
+Apartment For Sale,800 Teall Ave,Syracuse ,NY ,13206,94900,4,2,1719,syracuse
+For Sale by Owner,239 Homecroft Rd,Syracuse ,NY ,13206,145000,3,2,1588,syracuse
+House For Sale,116 Dearborn Pl,Syracuse ,NY ,13205,5000,4,2,1966,syracuse
+House For Sale,201 Croyden Rd,Syracuse ,NY ,13224,187500,4,3,2662,syracuse
+House For Sale,190 Robineau Rd,Syracuse ,NY ,13207,249000,4,2,2481,syracuse
+House For Sale,865 Westmoreland Ave,Syracuse ,NY ,13210,134900,4,2,1825,syracuse
+House For Sale,116 White St,Syracuse ,NY ,13204,49500,4,2,1470,syracuse
+House For Sale,202 Sedgwick Dr,Syracuse ,NY ,13203,349900,6,4,2959,syracuse
+House For Sale,1616 Stolp Ave,Syracuse ,NY ,13207,119900,3,1,1573,syracuse
+For Sale by Owner,222 Longmeadow Dr,Syracuse ,NY ,13205,157900,3,3,1380,syracuse
+House For Sale,118 Hampshire Rd,Syracuse ,NY ,13203,329000,7,6,4387,syracuse
+For Sale by Owner,244 Nichols Ave,Syracuse ,NY ,13206,75000,3,2,1598,syracuse
+House For Sale,103 Milton Ave,Syracuse ,NY ,13204,115900,3,2,2310,syracuse
+House For Sale,479 Brattle Rd,Syracuse ,NY ,13203,154900,3,2,2048,syracuse
+House For Sale,261 Rider Ave,Syracuse ,NY ,13207,199900,3,2,1436,syracuse
+House For Sale,179 Jasper St,Syracuse ,NY ,13203,79900,5,1,2064,syracuse
+House For Sale,125 Goodrich Ave,Syracuse ,NY ,13210,84500,3,2,1758,syracuse
+House For Sale,908 Maryland Ave,Syracuse ,NY ,13210,189900,4,3,2100,syracuse
+Foreclosure,306 Willumae Dr,Syracuse ,NY ,13208,59900,2,1,970,syracuse
+House For Sale,152 Dawes Ave,Syracuse ,NY ,13205,39900,4,7,1188,syracuse
+House For Sale,1463 Comstock Ave,Syracuse ,NY ,13210,130000,3,1,1134,syracuse
+House For Sale,264 Robineau Rd,Syracuse ,NY ,13207,209900,4,4,2720,syracuse
+House For Sale,211 Summit Ave,Syracuse ,NY ,13207,249900,4,3,3006,syracuse
+House For Sale,1008 Emerson Ave,Syracuse ,NY ,13204,54900,4,1,1032,syracuse
+House For Sale,1017 Northway St,Syracuse ,NY ,13224,59900,6,2,1362,syracuse
+House For Sale,1504 James St,Syracuse ,NY ,13203,398000,6,6,3442,syracuse
+Apartment For Sale,1223 Jamesville Ave,Syracuse ,NY ,13210,179500,5,2,1484,syracuse
+House For Sale,202 Grant Blvd,Syracuse ,NY ,13206,84900,3,2,1872,syracuse
+House For Sale,2107 S State St,Syracuse ,NY ,13205,5000,4,2,1964,syracuse
+Apartment For Sale,1006 Lemoyne Ave,Syracuse ,NY ,13208,24900,5,3,2098,syracuse
+House For Sale,146 W Warrington Rd,Syracuse ,NY ,13205,105000,3,2,1362,syracuse
+House For Sale,142 Burns Ave,Syracuse ,NY ,13206,109900,3,2,1296,syracuse
+Apartment For Sale,402 Bradley St # 4,Syracuse ,NY ,13204,36000,6,2,3158,syracuse
+House For Sale,120 Huron St,Syracuse ,NY ,13207,27600,4,2,1152,syracuse
+House For Sale,203 Berkshire Ave,Syracuse ,NY ,13208,134900,3,3,1559,syracuse
+House For Sale,5 Brattle Rd,Syracuse ,NY ,13203,399900,4,6,3696,syracuse
+House For Sale,100 Dorset Rd,Syracuse ,NY ,13210,285000,5,4,3691,syracuse
+For Sale by Owner,242 Westminster Ave,Syracuse ,NY ,13210,209900,3,3,1500,syracuse
+House For Sale,449 Buckingham Ave,Syracuse ,NY ,13210,179000,4,2,1848,syracuse
+House For Sale,625 Glenwood Ave,Syracuse ,NY ,13207,124900,3,2,2262,syracuse
+House For Sale,226 Ridgewood Dr,Syracuse ,NY ,13206,117000,3,2,1296,syracuse
+Foreclosed,312 Summit Ave,Syracuse ,NY ,13207,,,,,syracuse
+House For Sale,200 Arden Dr,Syracuse ,NY ,13207,119900,4,2,1582,syracuse
+House For Sale,610 Meadowbrook Dr,Syracuse ,NY ,13210,129900,3,3,1334,syracuse
+House For Sale,106 Hilltop Rd,Syracuse ,NY ,13215,218900,4,3,2046,syracuse
+House For Sale,121 Lockwood Rd,Syracuse ,NY ,13214,165500,4,2,1753,syracuse
+House For Sale,117 Rugby Rd,Syracuse ,NY ,13206,144900,4,3,2424,syracuse
+House For Sale,1016 Glencove Rd,Syracuse ,NY ,13206,124900,4,2,1432,syracuse
+House For Sale,302 Mitchell Ave,Syracuse ,NY ,13207,79900,3,1,1008,syracuse
+House For Sale,329 Robinson St,Syracuse ,NY ,13203,79900,3,2,1326,syracuse
+House For Sale,108 Dorothy St,Syracuse ,NY ,13203,92000,3,3,1588,syracuse
+House For Sale,128 Pattison St,Syracuse ,NY ,13203,89900,4,1,1054,syracuse
+House For Sale,253 Rider Ave,Syracuse ,NY ,13207,169900,4,3,2311,syracuse
+Foreclosure,168 Kenwood Ave # 70,Syracuse ,NY ,13208,74900,3,1,1152,syracuse
+For Sale by Owner,425 Buckingham Ave,Syracuse ,NY ,13210,221900,3,2,1850,syracuse
+House For Sale,507 Hillsboro Pkwy,Syracuse ,NY ,13214,190000,3,2,1660,syracuse
+House For Sale,814 Avery Ave,Syracuse ,NY ,13204,64900,3,1,1504,syracuse
+House For Sale,217 Sunstruck Dr,Syracuse ,NY ,13206,74900,4,1,1320,syracuse
+House For Sale,109 Alden St,Syracuse ,NY ,13210,103500,2,1,1122,syracuse
+House For Sale,306 Scottholm Ter,Syracuse ,NY ,13224,194500,4,3,1872,syracuse
+House For Sale,142 Hampton Rd,Syracuse ,NY ,13203,199900,3,2,2046,syracuse
+Apartment For Sale,1027 Highland St # 29,Syracuse ,NY ,13203,299900,,,,syracuse
+House For Sale,301 Melrose Ave,Syracuse ,NY ,13206,149900,4,3,2308,syracuse
+House For Sale,1964 Caleb Ave,Syracuse ,NY ,13206,116000,4,2,1510,syracuse
+House For Sale,603 Dakin St,Syracuse ,NY ,13224,67000,3,1,900,syracuse
+House For Sale,147 Richfield Ave,Syracuse ,NY ,13205,95900,3,3,1320,syracuse
+Apartment For Sale,243 Grumbach Ave,Syracuse ,NY ,13203,74900,5,3,2177,syracuse
+House For Sale,358 Marlborough Rd # 58,Syracuse ,NY ,13206,82000,3,1,924,syracuse
+Condo For Sale,429 N Franklin St APT 507,Syracuse ,NY ,13204,599000,3,3,2638,syracuse
+House For Sale,108 Austin Ave,Syracuse ,NY ,13207,109900,3,2,1050,syracuse
+Condo For Sale,429 N Franklin St APT 101,Syracuse ,NY ,13204,649900,4,4,3700,syracuse
+Apartment For Sale,230 Cleveland Ave,Syracuse ,NY ,13208,21000,4,2,1273,syracuse
+House For Sale,501 Crawford Ave,Syracuse ,NY ,13224,155900,3,2,1598,syracuse
+House For Sale,105 Richard Rd,Syracuse ,NY ,13215,279900,4,3,2434,syracuse
+House For Sale,320 Greenwood Pl,Syracuse ,NY ,13210,144900,5,2,1678,syracuse
+For Sale by Owner,1173 Bellevue Ave,Syracuse ,NY ,13204,69900,9,3,3256,syracuse
+Apartment For Sale,523 Wendell Ter # 25,Syracuse ,NY ,13203,149900,6,2,2967,syracuse
+For Sale by Owner,156 Mary St,Syracuse ,NY ,13208,60000,5,2,2228,syracuse
+House For Sale,209 Hillsboro Pkwy,Syracuse ,NY ,13214,96900,5,3,1796,syracuse
+House For Sale,187 Parkside Ave,Syracuse ,NY ,13207,84900,3,1,1452,syracuse
+House For Sale,244 Lorraine Ave,Syracuse ,NY ,13210,109900,3,2,1298,syracuse
+Apartment For Sale,108 Armstrong Pl,Syracuse ,NY ,13207,159900,,,,syracuse
+For Sale by Owner,111 Sunnyside Rd,Syracuse ,NY ,13224,159500,3,2,1680,syracuse
+House For Sale,735 Stinard Ave,Syracuse ,NY ,13207,329900,4,5,3744,syracuse
+House For Sale,402 Craig St,Syracuse ,NY ,13208,14500,3,1,1276,syracuse
+For Sale by Owner,648 Helen St,Syracuse ,NY ,13203,115000,4,2,1698,syracuse
+House For Sale,600 Vine St,Syracuse ,NY ,13203,55000,3,2,1482,syracuse
+Foreclosure,419 Elm St,Syracuse ,NY ,13203,45000,2,1,1632,syracuse
+Foreclosure,907 Bellevue Ave,Syracuse ,NY ,13204,45500,4,2,2356,syracuse
+House For Sale,264 S Midler Ave,Syracuse ,NY ,13206,29900,3,1,1428,syracuse
+House For Sale,401 Stafford Ave,Syracuse ,NY ,13206,109900,3,2,1224,syracuse
+House For Sale,148 Parkside Ave,Syracuse ,NY ,13207,59900,3,1,1001,syracuse
+Foreclosure,159 Anderson Ave,Syracuse ,NY ,13205,70000,4,2,1568,syracuse
+House For Sale,400 Kimber Rd,Syracuse ,NY ,13224,249000,4,3,3033,syracuse
+For Sale by Owner,414 Avery Ave,Syracuse ,NY ,13204,139900,3,2,1414,syracuse
+Apartment For Sale,902 Willis Ave,Syracuse ,NY ,13204,79000,,,,syracuse
+House For Sale,133 Hatch St,Syracuse ,NY ,13205,3500,4,2,1824,syracuse
+Auction,401 S Edwards Ave,Syracuse ,NY ,13206,,3,,998,syracuse
+Auction,123 Seward St,Syracuse ,NY ,13203,,4,2,1858,syracuse
+Apartment For Sale,132 Eureka St,Syracuse ,NY ,13204,39900,,,,syracuse
+House For Sale,1005 Caleb Ave,Syracuse ,NY ,13206,139000,3,2,1535,syracuse
+House For Sale,108 Rugby Rd,Syracuse ,NY ,13206,205000,4,2,2268,syracuse
+House For Sale,305 Ferndale Dr,Syracuse ,NY ,13205,95500,3,3,1696,syracuse
+House For Sale,156 Hastings Pl,Syracuse ,NY ,13206,144900,3,2,1800,syracuse
+Apartment For Sale,803 N Mcbride St,Syracuse ,NY ,13203,9900,6,2,3272,syracuse
+Apartment For Sale,833 Sumner Ave # 35,Syracuse ,NY ,13210,209900,,,,syracuse
+House For Sale,117 Summit Ave,Syracuse ,NY ,13207,189900,5,3,3656,syracuse
+House For Sale,420 Stafford Ave,Syracuse ,NY ,13206,81900,4,1,1311,syracuse
+House For Sale,184 Harwood Ave,Syracuse ,NY ,13224,125900,4,2,1932,syracuse
+Auction,103 Edgemont Dr,Syracuse ,NY ,13214,,3,,1146,syracuse
+House For Sale,1303 James St,Syracuse ,NY ,13203,229900,4,4,3331,syracuse
+House For Sale,502 Boyden St,Syracuse ,NY ,13206,79900,3,2,1100,syracuse
+House For Sale,106 Sedgwick Dr,Syracuse ,NY ,13203,339900,4,4,2336,syracuse
+House For Sale,201 Gilbert Ave,Syracuse ,NY ,13208,65000,4,2,1760,syracuse
+House For Sale,224 Armstrong Pl,Syracuse ,NY ,13207,82500,4,2,1306,syracuse
+House For Sale,200 Ballantyne Rd,Syracuse ,NY ,13205,49500,3,2,1772,syracuse
+Apartment For Sale,316 Highland Ave,Syracuse ,NY ,13203,360000,6,4,4322,syracuse
+House For Sale,4362 South St,Dewitt ,NY ,13214,109900,4,1,1224,syracuse
+House For Sale,106 Rugby Rd,Syracuse ,NY ,13206,157500,4,2,2049,syracuse
+House For Sale,201 Mclennan Ave,Syracuse ,NY ,13205,20000,6,2,2870,syracuse
+House For Sale,123 Peck Ave,Syracuse ,NY ,13206,93000,3,2,1648,syracuse
+Townhouse For Sale,526 Plum St # 105,Syracuse ,NY ,13204,310000,2,3,1582,syracuse
+Apartment For Sale,420 Greenwood Pl,Syracuse ,NY ,13210,129900,,,,syracuse
+House For Sale,123 E Matson Ave,Syracuse ,NY ,13205,49900,4,1,1783,syracuse
+For Sale by Owner,133 Walton St APT 102,Syracuse ,NY ,13202,265000,2,2,1240,syracuse
+House For Sale,500 Mosley Dr,Syracuse ,NY ,13206,94900,2,1,768,syracuse
+House For Sale,105 Hancock Dr,Syracuse ,NY ,13207,139900,3,2,1532,syracuse
+Apartment For Sale,1103 Butternut St & Spring St,Syracuse ,NY ,13208,5000,6,2,1794,syracuse
+House For Sale,124 Oakley Dr E,Syracuse ,NY ,13205,81900,4,2,1764,syracuse
+Townhouse For Sale,108 W Jefferson St APT 601,Syracuse ,NY ,13202,194900,2,1,1703,syracuse
+Auction,109 John St,Syracuse ,NY ,13208,,3,2,1761,syracuse
+Townhouse For Sale,133 Walton St APT 130,Syracuse ,NY ,13202,205000,1,1,1150,syracuse
+House For Sale,146 Erickson St,Syracuse ,NY ,13206,94900,3,1,1152,syracuse
+Apartment For Sale,143-47 Kenmore Ave,Syracuse ,NY ,13205,3500,7,3,2256,syracuse
+House For Sale,107 Enfield Pl,Syracuse ,NY ,13214,174900,3,3,2261,syracuse
+Auction,100 Doll Pkwy,Syracuse ,NY ,13214,,3,,1858,syracuse
+House For Sale,162 Berkshire Ave,Syracuse ,NY ,13208,99900,3,1,1507,syracuse
+Townhouse For Sale,917 Madison St APT 14,Syracuse ,NY ,13210,164900,2,1,1455,syracuse
+House For Sale,238 Rider Ave,Syracuse ,NY ,13207,114900,3,,1176,syracuse
+House For Sale,211 Mariposa St,Syracuse ,NY ,13206,114900,3,2,1328,syracuse
+House For Sale,412 Roberts Ave,Syracuse ,NY ,13207,119900,4,1,1639,syracuse
+Apartment For Sale,2300 Burnet Ave,Syracuse ,NY ,13206,69900,4,,1504,syracuse
+Auction,173 Hopper Rd,Syracuse ,NY ,13207,,4,,2088,syracuse
+Townhouse For Sale,211 W Jefferson St APT 303,Syracuse ,NY ,13202,395000,2,4,1700,syracuse
+For Sale by Owner,1303 Lancaster Ave,Syracuse ,NY ,13210,152900,3,1,1150,syracuse
+House For Sale,123 Shirley Rd,Syracuse ,NY ,13224,239900,3,3,2526,syracuse
+House For Sale,201 Salt Springs Rd,Syracuse ,NY ,13224,159000,5,3,2729,syracuse
+House For Sale,252 Ashdale Ave,Syracuse ,NY ,13206,82500,3,1,912,syracuse
+House For Sale,316 Hillsboro Pkwy,Syracuse ,NY ,13214,145000,3,2,1288,syracuse
+Apartment For Sale,1026 Madison St # 28,Syracuse ,NY ,13210,1095000,12,5,3680,syracuse
+Foreclosure,205 Griffiths St,Syracuse ,NY ,13208,37179,3,2,1314,syracuse
+House For Sale,267 Mather St,Syracuse ,NY ,13203,168900,4,2,1727,syracuse
+House For Sale,132 Milburn Dr,Syracuse ,NY ,13207,48000,4,2,1430,syracuse
+Townhouse For Sale,133 Walton St APT 138,Syracuse ,NY ,13202,250000,2,2,1850,syracuse
+House For Sale,707 Maryland Ave,Syracuse ,NY ,13210,140000,4,2,2628,syracuse
+House For Sale,149 Lynn Cir,Syracuse ,NY ,13205,149900,3,3,2433,syracuse
+House For Sale,227 Hier Ave,Syracuse ,NY ,13203,62500,3,1,1400,syracuse
+Foreclosure,111 Robert Dr,Syracuse ,NY ,13210,79500,4,,2088,syracuse
+House For Sale,148 Clairmonte Ave,Syracuse ,NY ,13207,124000,4,3,3396,syracuse
+House For Sale,1304 Park St,Syracuse ,NY ,13208,99900,5,2,2056,syracuse
+House For Sale,220 Edgemont Dr,Syracuse ,NY ,13214,179000,3,2,1638,syracuse
+House For Sale,1210 Avery Ave,Syracuse ,NY ,13204,74900,3,1,1280,syracuse
+House For Sale,203 Dorwin Ave,Syracuse ,NY ,13205,104900,3,2,1294,syracuse
+House For Sale,116 Claire Rd,Syracuse ,NY ,13214,79900,2,1,885,syracuse
+Auction,406 Elliott St,Syracuse ,NY ,13204,,3,1,1176,syracuse
+Apartment For Sale,1107 Butternut St,Syracuse ,NY ,13208,5000,4,2,2002,syracuse
+House For Sale,503 Avery Ave,Syracuse ,NY ,13204,35400,3,2,1688,syracuse
+House For Sale,125 Champlin Dr,Syracuse ,NY ,13206,89900,3,1,1248,syracuse
+House For Sale,601 Rowland St & Hoefler St,Syracuse ,NY ,13204,6900,3,1,1029,syracuse
+Make Me Move®,310 Scott Ave,Syracuse ,NY ,13224,217000,4,3,2073,syracuse
+For Sale by Owner,204 Lorraine Ave,Syracuse ,NY ,13210,104900,3,2,1170,syracuse
+Apartment For Sale,414 Court St,Syracuse ,NY ,13208,69900,6,2,2175,syracuse
+House For Sale,416 Nichols Ave,Syracuse ,NY ,13206,149900,4,2,1512,syracuse
+Apartment For Sale,101 Mary St,Syracuse ,NY ,13208,54500,5,2,2312,syracuse
+House For Sale,118 Ramsey Ave,Syracuse ,NY ,13224,189000,4,3,2117,syracuse
+House For Sale,334 Forest Hill Dr,Syracuse ,NY ,13206,119900,3,2,1319,syracuse
+House For Sale,105 Byrne Pl,Syracuse ,NY ,13205,97000,3,1,1080,syracuse
+House For Sale,147 Sunhill Ter,Syracuse ,NY ,13207,79900,2,2,1180,syracuse
+House For Sale,112 Aberdeen Ter,Syracuse ,NY ,13206,147500,3,2,2101,syracuse
+House For Sale,217 Highland Ave,Syracuse ,NY ,13203,241000,5,,3888,syracuse
+Apartment For Sale,129 Spring St,Syracuse ,NY ,13208,9900,6,3,2112,syracuse
+House For Sale,338 Boston St,Syracuse ,NY ,13206,60000,3,1,1130,syracuse
+Apartment For Sale,717 Teall Ave # 19,Syracuse ,NY ,13206,69900,6,2,3016,syracuse
+House For Sale,2111 S Geddes St,Syracuse ,NY ,13207,57900,3,1,1568,syracuse
+House For Sale,401 Burdick Ave,Syracuse ,NY ,13208,34900,4,2,1545,syracuse
+Townhouse For Sale,526 Plum St # 309,Syracuse ,NY ,13204,248800,1,2,1086,syracuse
+House For Sale,3312 James St,Syracuse ,NY ,13206,349900,3,4,4190,syracuse
+Auction,100 Pierce Street & Rill Ave,Syracuse ,NY ,13205,,2,1,757,syracuse
+House For Sale,810 Court St,Syracuse ,NY ,13208,52900,4,1,1732,syracuse
+Apartment For Sale,1019 Madison St # 21,Syracuse ,NY ,13210,850000,9,4,2912,syracuse
+Condo For Sale,917 Madison St APT 114,Syracuse ,NY ,13210,164900,2,1,1065,syracuse
+New Construction,169 Xavier Cir,Syracuse ,NY ,13210,289900,2,2,1400,syracuse
+Townhouse For Sale,133 Walton St APT 134,Syracuse ,NY ,13202,309500,3,3,2320,syracuse
+House For Sale,500 Greenwood Pl,Syracuse ,NY ,13210,139900,5,2,2652,syracuse
+Make Me Move®,235 Bryant Ave,Syracuse ,NY ,13204,1249990,4,2,2400,syracuse
+House For Sale,310 Stratford St,Syracuse ,NY ,13210,284900,4,3,2400,syracuse
+House For Sale,124 Benedict Ave,Syracuse ,NY ,13210,9900,2,1,777,syracuse
+House For Sale,318 Goodrich Ave,Syracuse ,NY ,13210,126900,3,2,1672,syracuse
+Townhouse For Sale,2004 Genesee St E Westcott S # A,Syracuse ,NY ,13210,184500,1,2,1092,syracuse
+House For Sale,316 Scott Ave,Syracuse ,NY ,13224,169900,4,3,2040,syracuse
+For Sale by Owner,851-53 Ackerman Ave,Syracuse ,NY ,13210,295000,6,2,2636,syracuse
+House For Sale,211 Milton Ave,Syracuse ,NY ,13204,169000,4,2,1622,syracuse
+Townhouse For Sale,133 Walton St APT 131,Syracuse ,NY ,13202,265000,2,2,1150,syracuse
+Apartment For Sale,1246-48 Westcott St,Syracuse ,NY ,13210,217500,5,2,2109,syracuse
+House For Sale,174 Sunhill Ter,Syracuse ,NY ,13207,99000,2,1,912,syracuse
+Apartment For Sale,820 Court St,Syracuse ,NY ,13208,62000,7,2,2350,syracuse
+House For Sale,611 Plymouth Dr,Syracuse ,NY ,13206,129900,3,2,1296,syracuse
+House For Sale,1104 Bellevue Ave,Syracuse ,NY ,13204,69900,4,2,1633,syracuse
+House For Sale,701 Maryland Ave,Syracuse ,NY ,13210,175000,5,2,2104,syracuse
+House For Sale,1418 Teall Ave,Syracuse ,NY ,13206,34900,3,1,1500,syracuse
+House For Sale,1011 Grant Blvd,Syracuse ,NY ,13203,94900,2,2,1054,syracuse
+Apartment For Sale,223 Grace St,Syracuse ,NY ,13204,3500,6,2,2366,syracuse
+House For Sale,512 Whittier Ave,Syracuse ,NY ,13204,99900,3,1,1429,syracuse
+House For Sale,101 Windsor Pl,Syracuse ,NY ,13210,333900,5,4,2300,syracuse
+House For Sale,804 Teall Ave,Syracuse ,NY ,13206,84900,3,2,1326,syracuse
+Townhouse For Sale,108 W Jefferson St APT 705,Syracuse ,NY ,13202,155000,1,1,1088,syracuse
+House For Sale,167 Briggs St,Syracuse ,NY ,13208,77900,3,1,1115,syracuse
+For Sale by Owner,504 N Mcbride St APT 2,Syracuse ,NY ,13203,320000,7,6,6000,syracuse
+House For Sale,278 W Borden Ave,Syracuse ,NY ,13205,6900,4,2,2120,syracuse
+Apartment For Sale,119 Neutral Ct,Syracuse ,NY ,13208,22900,8,4,4650,syracuse
+Apartment For Sale,103 Judson St,Syracuse ,NY ,13210,149900,7,,2434,syracuse
+House For Sale,254 Jamesville Ave,Syracuse ,NY ,13210,44900,3,1,1248,syracuse
+House For Sale,367 Tennyson Ave,Syracuse ,NY ,13204,104900,3,1,1470,syracuse
+House For Sale,731 Ostrom Ave,Syracuse ,NY ,13210,465000,7,3,1924,syracuse
+For Sale by Owner,211 Elizabeth St,Syracuse ,NY ,13205,45000,4,2,2640,syracuse
+House For Sale,210 Pharis St,Syracuse ,NY ,13204,99900,3,2,2012,syracuse
+House For Sale,132 Lafayette Rd,Syracuse ,NY ,13205,115000,3,2,1200,syracuse
+Make Me Move®,1148 Cumberland Ave,Syracuse ,NY ,13210,157000,3,2,1404,syracuse
+House For Sale,104 Austin Ave,Syracuse ,NY ,13207,119900,4,,1656,syracuse
+House For Sale,316 Martin St,Syracuse ,NY ,13208,92900,3,1,1160,syracuse
+House For Sale,445 S Midler Ave,Syracuse ,NY ,13206,77900,3,1,954,syracuse
+House For Sale,325 Ballantyne Rd,Syracuse ,NY ,13205,74900,3,2,1326,syracuse
+Townhouse For Sale,429 N Franklin St APT 300,Syracuse ,NY ,13204,490000,2,2,1911,syracuse
+House For Sale,921 W Onondaga St,Syracuse ,NY ,13204,3500,4,1,2074,syracuse
+For Sale by Owner,215 Elliott St,Syracuse ,NY ,13204,39500,6,2,1936,syracuse
+Foreclosure,721 Hillside St,Syracuse ,NY ,13208,90100,3,1,1167,syracuse
+Foreclosure,301 Kenwood Ave,Syracuse ,NY ,13208,86130,3,,1920,syracuse
+For Sale by Owner,800 Stinard Ave,Syracuse ,NY ,13207,159000,4,2,2200,syracuse
+House For Sale,305 Burdick Ave,Syracuse ,NY ,13208,62000,3,,1111,syracuse
+Foreclosure,131 Roney Rd,Syracuse ,NY ,13205,35000,3,1,1584,syracuse
+House For Sale,304 Bruce St,Syracuse ,NY ,13224,40000,2,1,1192,syracuse
+House For Sale,408 Liberty St,Syracuse ,NY ,13204,5000,2,1,1124,syracuse
+House For Sale,616 Court St,Syracuse ,NY ,13208,59900,3,2,1264,syracuse
+Apartment For Sale,915 Court St,Syracuse ,NY ,13208,168000,7,2,2640,syracuse
+House For Sale,101 Spring St & Butternut St,Syracuse ,NY ,13208,5000,3,1,1246,syracuse
+House For Sale,125 Elmhurst Ave,Syracuse ,NY ,13207,5000,3,1,1378,syracuse
+Foreclosure,107 W Borden Ave,Syracuse ,NY ,13205,28900,3,,1584,syracuse
+Apartment For Sale,128 Mildred Ave # 30,Syracuse ,NY ,13206,135000,5,3,2254,syracuse
+Apartment For Sale,317 Erie St,Syracuse ,NY ,13204,65000,4,,1416,syracuse
+House For Sale,118 Willis Ave,Syracuse ,NY ,13204,49900,4,,1582,syracuse
+Foreclosure,320 Grant Ave,Syracuse ,NY ,13207,20000,4,2,1698,syracuse
+House For Sale,225 E Glen Ave,Syracuse ,NY ,13205,6900,3,1,840,syracuse
+House For Sale,136 Steuben St,Syracuse ,NY ,13208,26600,2,1,1308,syracuse
+Apartment For Sale,311 E Kennedy St,Syracuse ,NY ,13205,29900,7,4,2748,syracuse
+House For Sale,175 Dorwin Ave,Syracuse ,NY ,13205,84900,3,1,1271,syracuse
+House For Sale,921 Myrtle St,Syracuse ,NY ,13204,99999,4,2,1880,syracuse
+House For Sale,1159 Teall Ave,Syracuse ,NY ,13206,24900,4,2,1600,syracuse
+Apartment For Sale,226 Hillsdale Ave # 28,Syracuse ,NY ,13206,44900,2,2,1362,syracuse
+House For Sale,175 Fayette Blvd,Syracuse ,NY ,13224,95900,3,2,1419,syracuse
+Apartment For Sale,112 Charlotte St # 14,Syracuse ,NY ,13204,109900,4,2,2000,syracuse
+House For Sale,236-38 W Brighton Ave W,Syracuse ,NY ,13205,5000,5,2,1814,syracuse
+Apartment For Sale,1006 Carbon St,Syracuse ,NY ,13208,95000,5,2,2024,syracuse
+Apartment For Sale,1004 Carbon St,Syracuse ,NY ,13208,90000,4,3,1976,syracuse
+House For Sale,9 Nursery Ln,Syracuse ,NY ,13210,219900,2,3,2264,syracuse
+Townhouse For Sale,40 Nursery Ln # 40,Syracuse ,NY ,13210,298500,4,3,2796,syracuse
+Apartment For Sale,410 Pond St,Syracuse ,NY ,13208,43850,5,2,2400,syracuse
+Apartment For Sale,828 Oak St,Syracuse ,NY ,13203,65000,4,2,2112,syracuse
+Apartment For Sale,337 Park St,Syracuse ,NY ,13203,7900,6,3,2762,syracuse
+Auction,111 Ruskin Ave,Syracuse ,NY ,13207,,4,,2544,syracuse
+House For Sale,1622 Westmoreland Ave,Syracuse ,NY ,13210,159900,3,2,2184,syracuse
+House For Sale,115 Ames Ave & Kimber Ave,Syracuse ,NY ,13207,78500,3,2,1176,syracuse
+House For Sale,157 Worden Ave,Syracuse ,NY ,13208,64900,3,1,1296,syracuse
+House For Sale,148 S Collingwood Ave,Syracuse ,NY ,13206,115900,4,2,1352,syracuse
+For Sale by Owner,505 N State St,Syracuse ,NY ,13203,150000,3,3,1932,syracuse
+For Sale by Owner,2201 S State St,Syracuse ,NY ,13205,80000,7,3,3316,syracuse
+House For Sale,120 Mark Ave,Syracuse ,NY ,13205,3500,4,1,1344,syracuse
+For Sale by Owner,201 Allen St,Syracuse ,NY ,13210,4850,,,,syracuse
+House For Sale,228 Shuart Ave,Syracuse ,NY ,13203,159900,2,2,1288,syracuse
+Apartment For Sale,405 Temple St # 7,Syracuse ,NY ,13202,114900,12,4,8025,syracuse
+House For Sale,116 Walrath Rd,Syracuse ,NY ,13205,89900,3,1,1776,syracuse
+House For Sale,300 Norwood Ave,Syracuse ,NY ,13206,113500,3,2,1186,syracuse
+Apartment For Sale,216 Wall St,Syracuse ,NY ,13204,5000,6,3,1952,syracuse
+Apartment For Sale,735 N Alvord St,Syracuse ,NY ,13208,19900,4,2,2194,syracuse
+House For Sale,118 Colby Ave,Syracuse ,NY ,13206,118900,3,2,1620,syracuse
+House For Sale,407 Pond St,Syracuse ,NY ,13208,38250,2,2,1216,syracuse
+House For Sale,2515 Lodi St,Syracuse ,NY ,13208,44900,2,1,1106,syracuse
+House For Sale,1355 Oak St,Syracuse ,NY ,13203,79900,3,1,1179,syracuse
+Apartment For Sale,262 North Ave,Syracuse ,NY ,13206,125000,,,,syracuse
+House For Sale,208 Hixson Ave,Syracuse ,NY ,13206,92700,3,2,1236,syracuse
+House For Sale,5404 S Salina St,Syracuse ,NY ,13205,89900,4,2,1840,syracuse
+House For Sale,200 Stafford Ave,Syracuse ,NY ,13206,86900,3,1,1664,syracuse
+House For Sale,309 Arlington Ave,Syracuse ,NY ,13207,74000,3,1,1400,syracuse
+House For Sale,210 Hunt Ave,Syracuse ,NY ,13207,5000,3,1,1116,syracuse
+For Sale by Owner,152 Hillsdale Ave,Syracuse ,NY ,13206,134900,3,2,1955,syracuse
+House For Sale,211 Bennington Dr # 17,Syracuse ,NY ,13205,29900,2,1,868,syracuse
+House For Sale,222 Hazelwood Ave,Syracuse ,NY ,13224,84900,3,1,1272,syracuse
+Apartment For Sale,812 Highland St,Syracuse ,NY ,13203,65000,4,3,2342,syracuse
+House For Sale,130 Bishop Ave,Syracuse ,NY ,13207,19900,3,2,1374,syracuse
+Apartment For Sale,261 Stafford Ave # 63,Syracuse ,NY ,13206,99900,,,,syracuse
+House For Sale,1113 Avery Ave,Syracuse ,NY ,13204,74000,4,1,1248,syracuse
+House For Sale,1300 W Onondaga St,Syracuse ,NY ,13204,78900,4,2,1576,syracuse
+House For Sale,209 Kenmore Ave,Syracuse ,NY ,13205,5000,3,1,1318,syracuse
+House For Sale,1424 Court St,Syracuse ,NY ,13208,133500,4,2,1987,syracuse
+House For Sale,215 N Edwards Ave,Syracuse ,NY ,13206,76900,2,1,776,syracuse
+House For Sale,511 Glenwood Ave # 13,Syracuse ,NY ,13207,129900,3,2,912,syracuse
+Apartment For Sale,601 Teall Ave,Syracuse ,NY ,13206,520000,,,,syracuse
+House For Sale,945 Oak St,Syracuse ,NY ,13203,63000,4,2,1254,syracuse
+For Sale by Owner,1115 Carbon St,Syracuse ,NY ,13208,10000,3,1,1366,syracuse
+House For Sale,206 W Pleasant Ave,Syracuse ,NY ,13205,5000,3,2,1600,syracuse
+House For Sale,113 Byrne Pl,Syracuse ,NY ,13205,29900,2,1,896,syracuse
+House For Sale,112 Wolcott Ave,Syracuse ,NY ,13207,37000,2,1,850,syracuse
+Apartment For Sale,210 Davis St,Syracuse ,NY ,13204,7900,5,3,2434,syracuse
+House For Sale,215 Deforest Rd,Syracuse ,NY ,13214,164900,4,2,1600,syracuse
+Apartment For Sale,313 Chemung St # 15,Syracuse ,NY ,13204,129900,8,4,5838,syracuse
+Apartment For Sale,1225 W Onondaga St # 27,Syracuse ,NY ,13204,47900,6,2,2696,syracuse
+House For Sale,404 Pond St,Syracuse ,NY ,13208,42875,3,2,1771,syracuse
+Apartment For Sale,741 Maryland Ave # 43,Syracuse ,NY ,13210,340000,10,3,3536,syracuse
+House For Sale,114 Malverne Dr,Syracuse ,NY ,13208,49900,2,1,1721,syracuse
+Apartment For Sale,955-57 Ackerman Ave,Syracuse ,NY ,13210,245000,,,,syracuse
+Apartment For Sale,415 Clarendon St,Syracuse ,NY ,13210,500000,,,,syracuse
+Make Me Move®,300 Crawford Ave,Syracuse ,NY ,13224,175000,4,2,2172,syracuse
+For Sale by Owner,1110 Wolf St # 2,Syracuse ,NY ,13208,169900,6,4,2400,syracuse
+House For Sale,720 Hamilton St,Syracuse ,NY ,13204,94900,2,1,1120,syracuse
+House For Sale,180 Cook Ave,Syracuse ,NY ,13206,129900,3,2,1758,syracuse
+Apartment For Sale,926 Burnet Ave # 30,Syracuse ,NY ,13203,180000,,,,syracuse
+Apartment For Sale,928 Ackerman Ave # 30,Syracuse ,NY ,13210,595000,10,3,3274,syracuse
+House For Sale,905 1st North St,Syracuse ,NY ,13208,67900,4,2,2406,syracuse
+House For Sale,825 Willis Ave,Syracuse ,NY ,13204,44900,3,1,1720,syracuse
+House For Sale,319 W Pleasant Ave,Syracuse ,NY ,13205,5000,3,1,1275,syracuse
+Apartment For Sale,121 Gere Ave,Syracuse ,NY ,13204,5000,4,2,1768,syracuse
+House For Sale,244 Arlington Ave,Syracuse ,NY ,13207,119900,3,2,1358,syracuse
+House For Sale,736 Pond St,Syracuse ,NY ,13208,59900,2,1,1651,syracuse
+For Sale by Owner,1220 Avery Ave,Syracuse ,NY ,13204,45000,2,1,840,syracuse
+House For Sale,133 Rockland Ave,Syracuse ,NY ,13207,52900,5,3,1666,syracuse
+Apartment For Sale,1203 Court St # 5,Syracuse ,NY ,13208,159900,5,2,2544,syracuse
+Apartment For Sale,1631 W Onondaga St # 33,Syracuse ,NY ,13204,69800,8,3,3045,syracuse
+Foreclosed,269 Shotwell Park,Syracuse ,NY ,13206,,,,,syracuse
+Apartment For Sale,214 Hubbell Ave # 16,Syracuse ,NY ,13207,174900,6,2,2400,syracuse
+House For Sale,127 Marvin Rd,Syracuse ,NY ,13207,14900,3,1,1284,syracuse
+Auction,208 Hopper Rd,Syracuse ,NY ,13207,,4,2,1296,syracuse
+Apartment For Sale,400 Griffiths St,Syracuse ,NY ,13208,69900,,,,syracuse
+Make Me Move®,712 Stinard Ave,Syracuse ,NY ,13207,130000,4,2,1512,syracuse
+For Sale by Owner,968 Ackerman Ave,Syracuse ,NY ,13210,295000,7,3,2536,syracuse
+Apartment For Sale,126 Washington Sq,Syracuse ,NY ,13208,65000,4,2,2456,syracuse
+Auction,116 Swansea Dr,Syracuse ,NY ,13206,,2,1,864,syracuse
+Auction,209 Craton St,Syracuse ,NY ,13203,,6,2,2400,syracuse
+Apartment For Sale,341-43 Gertrude St,Syracuse ,NY ,13203,119500,5,2,2628,syracuse
+House For Sale,108 Strand Pl,Syracuse ,NY ,13208,39900,4,2,1335,syracuse
+House For Sale,1121 Park St To Neutral Ct,Syracuse ,NY ,13208,6900,3,1,1276,syracuse
+House For Sale,600 Ostrander Ave W & Wiman # A,Syracuse ,NY ,13205,5000,3,1,1296,syracuse
+For Sale by Owner,1018 Sunnycrest Rd,Syracuse ,NY ,13206,81500,2,1,792,syracuse
+Make Me Move®,1519 Lancaster Ave,Syracuse ,NY ,13210,175000,3,2,1508,syracuse
+Apartment For Sale,411 University Ave,Syracuse ,NY ,13210,275000,,,,syracuse
+Apartment For Sale,126 Gere Ave,Syracuse ,NY ,13204,6900,3,2,1432,syracuse
+House For Sale,402 Pond St,Syracuse ,NY ,13208,59900,3,1,1944,syracuse
+Apartment For Sale,200 Morton St,Syracuse ,NY ,13204,109900,2,2,1644,syracuse
+House For Sale,345 Forest Hill Dr,Syracuse ,NY ,13206,124900,3,1,1484,syracuse
+Apartment For Sale,1239 Park St,Syracuse ,NY ,13208,49900,4,3,2435,syracuse
+Apartment For Sale,417 Merriman Ave,Syracuse ,NY ,13204,6900,6,2,1946,syracuse
+House For Sale,138 Niven St,Syracuse ,NY ,13224,112000,3,2,1356,syracuse
+House For Sale,110 Fenway Dr,Syracuse ,NY ,13224,74900,3,1,1380,syracuse
+House For Sale,246 W Ostrander Ave,Syracuse ,NY ,13205,6900,4,2,1629,syracuse
+Apartment For Sale,1624 W Genesee St,Syracuse ,NY ,13204,270000,,,,syracuse
+House For Sale,261 W Ostrander Ave,Syracuse ,NY ,13205,5000,4,2,1780,syracuse
+For Sale by Owner,119-21 E Borden Ave E,Syracuse ,NY ,13205,4999,,,,syracuse
+House For Sale,1347 W Onondaga St,Syracuse ,NY ,13204,74900,4,1,1674,syracuse
+Apartment For Sale,424 Boyden St & Hixon Ave St,Syracuse ,NY ,13206,130000,5,2,2100,syracuse
+House For Sale,135 Dale St,Syracuse ,NY ,13208,107000,4,2,1460,syracuse
+House For Sale,120 E Lafayette Ave,Syracuse ,NY ,13205,7900,4,2,1736,syracuse
+House For Sale,1217 W Onondaga St,Syracuse ,NY ,13204,9900,4,,1606,syracuse
+Foreclosed,248 North Ave,Syracuse ,NY ,13206,,,,,syracuse
+House For Sale,225 Seymour St,Syracuse ,NY ,13204,39900,3,2,1500,syracuse
+House For Sale,2106 Court St,Syracuse ,NY ,13208,91900,3,2,1395,syracuse
+Apartment For Sale,1117 W Onondaga St # 21,Syracuse ,NY ,13204,99000,,,,syracuse
+House For Sale,249 Primrose Ave,Syracuse ,NY ,13205,9900,4,1,1434,syracuse
+Apartment For Sale,615 W Onondaga St,Syracuse ,NY ,13204,1150000,,,,syracuse
+House For Sale,517 Kirkpatrick St & Carbon S,Syracuse ,NY ,13208,54500,4,2,1917,syracuse
+Foreclosed,316 Dakin St,Syracuse ,NY ,13224,,,,,syracuse
+House For Sale,102 Menlo Dr,Syracuse ,NY ,13205,49900,2,1,676,syracuse
+House For Sale,535 W Colvin St,Syracuse ,NY ,13205,7900,4,2,2148,syracuse
+Apartment For Sale,112-14 Bishop Ave,Syracuse ,NY ,13207,5000,4,2,2236,syracuse
+House For Sale,429 Warner Ave,Syracuse ,NY ,13205,7900,2,1,1397,syracuse
+Auction,123 Orlando Ave,Syracuse ,NY ,13205,,3,,1320,syracuse
+For Sale by Owner,125 Burdick Ave,Syracuse ,NY ,13208,72000,4,2,1352,syracuse
+Apartment For Sale,1322 South Ave # 24,Syracuse ,NY ,13207,42900,7,2,2598,syracuse
+Apartment For Sale,1115 Park St,Syracuse ,NY ,13208,79000,7,4,5148,syracuse
+House For Sale,129 Neutral Ct,Syracuse ,NY ,13208,30750,4,2,1446,syracuse
+House For Sale,108 Orwood Pl,Syracuse ,NY ,13208,139900,3,2,1334,syracuse
+Apartment For Sale,410 Willumae Dr,Syracuse ,NY ,13208,67000,,,,syracuse
+New Construction,110 Xavier Cir,Syracuse ,NY ,13210,397000,3,,2300,syracuse
+Foreclosed,115 Didama St,Syracuse ,NY ,13224,,,,,syracuse
+For Sale by Owner,2816 Grant Blvd,Syracuse ,NY ,13208,134000,4,3,2064,syracuse
+Apartment For Sale,312 Craig St,Syracuse ,NY ,13208,62900,6,,2520,syracuse
+Apartment For Sale,252 Fitch St,Syracuse ,NY ,13204,27000,4,2,2000,syracuse
+Apartment For Sale,418 Merriman Ave,Syracuse ,NY ,13204,15000,5,2,1712,syracuse
+Foreclosure,218 Burdick Ave,Syracuse ,NY ,13208,1200,,,,syracuse
+Foreclosed,112 Charlotte St # 114,Syracuse ,NY ,13204,,,,,syracuse
+Apartment For Sale,317-19 Berkshire Ave # 19,Syracuse ,NY ,13208,175000,5,2,1828,syracuse
+House For Sale,110 Rider Ave,Syracuse ,NY ,13207,69900,3,1,1083,syracuse
+Apartment For Sale,3720 S Salina St,Syracuse ,NY ,13205,89900,4,3,2382,syracuse
+House For Sale,922 Lemoyne Ave,Syracuse ,NY ,13208,32900,2,1,1048,syracuse
+Apartment For Sale,1109 Spring St,Syracuse ,NY ,13208,104900,,,,syracuse
+Auction,228 Amherst Ave,Syracuse ,NY ,13205,,4,,1608,syracuse
+Apartment For Sale,101 Ballard Avenue & Martin Luthr W,Syracuse ,NY ,13205,38995,6,2,2080,syracuse
+Apartment For Sale,345-47 Gertrude St,Syracuse ,NY ,13203,139500,5,2,2540,syracuse
+House For Sale,633 E Division St,Syracuse ,NY ,13208,51500,4,1,1232,syracuse
+Auction,137 Charmouth Dr,Syracuse ,NY ,13207,,4,,,syracuse
+Apartment For Sale,101 E Ostrander Ave,Syracuse ,NY ,13205,84900,,,,syracuse
+Apartment For Sale,130 Spring St,Syracuse ,NY ,13208,128000,,,,syracuse
+Apartment For Sale,405 Rowland St,Syracuse ,NY ,13204,89900,8,3,2664,syracuse
+House For Sale,279 W Borden Ave,Syracuse ,NY ,13205,40000,5,2,2400,syracuse
+Auction,316 Douglas St,Syracuse ,NY ,13203,,4,,1372,syracuse
+Apartment For Sale,197 Jasper St,Syracuse ,NY ,13203,101000,,,,syracuse
+Apartment For Sale,302 Park St,Syracuse ,NY ,13203,134900,,,,syracuse
+Apartment For Sale,221-23 Warner Ave,Syracuse ,NY ,13205,37000,4,2,2112,syracuse
+House For Sale,122 Steuben St,Syracuse ,NY ,13208,59600,3,1,1124,syracuse
+Auction,906 First North Street Aka 906 1st North St,Syracuse ,NY ,13208,,,,,syracuse
+Apartment For Sale,411 Kirkpatrick St,Syracuse ,NY ,13208,84900,7,4,3426,syracuse
+House For Sale,1323-25 W Fayette St W,Syracuse ,NY ,13204,49900,4,,1625,syracuse
+Apartment For Sale,816 South Ave,Syracuse ,NY ,13207,54900,6,2,2552,syracuse
+For Sale by Owner,200 Griffiths St,Syracuse ,NY ,13208,149900,4,2,1800,syracuse
+Apartment For Sale,330-32 Primrose Ave,Syracuse ,NY ,13205,54900,6,2,2296,syracuse
+Apartment For Sale,204-06 State Fair Blvd,Syracuse ,NY ,13204,58000,4,,1608,syracuse
+House For Sale,409 Pond St,Syracuse ,NY ,13208,55236,2,1,1036,syracuse
+Apartment For Sale,317 S Midler Ave # 19,Syracuse ,NY ,13206,130000,,,,syracuse
+House For Sale,260 Primrose Ave,Syracuse ,NY ,13205,49900,3,1,1536,syracuse
+Apartment For Sale,950 Lemoyne Ave,Syracuse ,NY ,13208,159500,5,3,1966,syracuse
+Apartment For Sale,1609 N Salina St,Syracuse ,NY ,13208,84900,6,4,3744,syracuse
+Apartment For Sale,424 Liberty St,Syracuse ,NY ,13204,41000,4,2,1840,syracuse
+Apartment For Sale,1228 N State St,Syracuse ,NY ,13208,149900,,,,syracuse
+House For Sale,849 South Ave,Syracuse ,NY ,13207,29900,4,1,1386,syracuse
+Apartment For Sale,629 Lemoyne Ave # 31,Syracuse ,NY ,13208,116000,4,3,2537,syracuse
+House For Sale,2702 Midland Ave,Syracuse ,NY ,13205,24900,4,1,1666,syracuse
+For Sale by Owner,1206 Butternut St # 2,Syracuse ,NY ,13208,65000,4,2,2488,syracuse
+House For Sale,114 S Carbon St,Syracuse ,NY ,13203,28000,3,1,1179,syracuse
+Apartment For Sale,413 University Ave,Syracuse ,NY ,13210,385000,,,,syracuse
+House For Sale,138 W Ostrander Ave,Syracuse ,NY ,13205,24900,3,1,2892,syracuse
+House For Sale,201 Danforth St,Syracuse ,NY ,13208,70000,,,,syracuse
+Lot/Land For Sale,6168 Springdale Cir,Syracuse ,NY ,13224,99000,,,,syracuse
+House For Sale,3029 Grant Blvd,Syracuse ,NY ,13208,69900,3,,1448,syracuse
+House For Sale,734 Lemoyne Ave,Syracuse ,NY ,13208,50000,2,1,1100,syracuse
+House For Sale,316 Sunset Ave,Syracuse ,NY ,13208,59900,3,1,1144,syracuse
+Make Me Move®,222 Paul Ave,Syracuse ,NY ,13206,95000,3,1,1091,syracuse
+Apartment For Sale,604 Pond St,Syracuse ,NY ,13208,52000,,,,syracuse
+House For Sale,114 Hoefler St,Syracuse ,NY ,13204,14900,3,1,900,syracuse
+Apartment For Sale,154 Reed Ave # 56,Syracuse ,NY ,13207,78900,,,,syracuse
+House For Sale,131 Neutral Ct,Syracuse ,NY ,13208,69900,2,1,1026,syracuse
+House For Sale,316 W Matson Ave # 22,Syracuse ,NY ,13205,9900,4,1,1795,syracuse
+Apartment For Sale,307 Wadsworth St # 9,Syracuse ,NY ,13208,124900,,,,syracuse
+Apartment For Sale,946 Lemoyne Ave,Syracuse ,NY ,13208,129500,3,2,1448,syracuse
+Apartment For Sale,536 Court St,Syracuse ,NY ,13208,139900,,,,syracuse
+Apartment For Sale,226 Richmond Ave # 32,Syracuse ,NY ,13204,149900,,,,syracuse
+House For Sale,416 Willumae Dr,Syracuse ,NY ,13208,44900,2,,1065,syracuse
+House For Sale,1911 Midland Ave,Syracuse ,NY ,13205,6900,3,1,1293,syracuse
+House For Sale,125 Neutral Ct,Syracuse ,NY ,13208,31000,3,1,1092,syracuse
+House For Sale,2608 Midland Ave,Syracuse ,NY ,13205,19900,3,1,1554,syracuse
+House For Sale,1907 Lodi St,Syracuse ,NY ,13208,69900,3,1,1688,syracuse
+House For Sale,139 Walrath Rd,Syracuse ,NY ,13205,83000,2,1,1352,syracuse
+House For Sale,1624 W Colvin St,Syracuse ,NY ,13207,64900,3,1,1547,syracuse
+House For Sale,317 Elliott St,Syracuse ,NY ,13204,5900,3,1,968,syracuse
+House For Sale,120 Walrath Rd,Syracuse ,NY ,13205,59900,2,1,1152,syracuse
+House For Sale,202 Parkway Dr,Syracuse ,NY ,13207,79900,3,1,1548,syracuse
+Apartment For Sale,519 Richmond Ave,Syracuse ,NY ,13204,39999,6,2,1896,syracuse
+House For Sale,109 Rider Ave,Syracuse ,NY ,13207,49900,3,1,1701,syracuse
+New Construction,Malibu Hills Dr LOT 35,Camillus ,NY ,13208,254150,2,2,1377,syracuse
+Apartment For Sale,716 Wolf St # 18,Syracuse ,NY ,13208,69900,,,,syracuse
+Apartment For Sale,309 John St,Syracuse ,NY ,13208,39900,,,,syracuse
+Apartment For Sale,725 Butternut St # 27,Syracuse ,NY ,13208,52000,5,2,2072,syracuse
+For Sale by Owner,201 Rich St,Syracuse ,NY ,13204,58900,6,2,2600,syracuse
+For Sale by Owner,201 W Kennedy St,Syracuse ,NY ,13205,47900,4,2,2372,syracuse
+House For Sale,113 Murray Ave,Syracuse ,NY ,13208,77900,3,1,1365,syracuse
+Auction,121 Dewey Ave,Syracuse ,NY ,13204,,2,,,syracuse
+House For Sale,1102 Midland Ave,Syracuse ,NY ,13205,42900,4,2,1739,syracuse
+For Sale by Owner,121 Mayar St,Syracuse ,NY ,13208,60000,2,1,915,syracuse
+House For Sale,204 Davis St,Syracuse ,NY ,13204,9900,3,1,1208,syracuse
+House For Sale,262 W Corning Ave,Syracuse ,NY ,13205,7900,3,1,1226,syracuse
+Apartment For Sale,415 Lemoyne Ave # 19,Syracuse ,NY ,13208,49900,,,,syracuse
+Apartment For Sale,304 John St,Syracuse ,NY ,13208,56900,3,2,1158,syracuse
+House For Sale,4454 S Salina St,Syracuse ,NY ,13205,42900,4,1,1316,syracuse
+House For Sale,602 Bellevue Ave,Syracuse ,NY ,13204,42900,4,2,2076,syracuse
+House For Sale,118 Hudson St,Syracuse ,NY ,13204,49900,3,,1505,syracuse
+House For Sale,127 Neutral Ct,Syracuse ,NY ,13208,60200,3,1,1096,syracuse
+Apartment For Sale,300 Apple St,Syracuse ,NY ,13204,38000,,,,syracuse
+Apartment For Sale,121 Richardson Ave # 23,Syracuse ,NY ,13205,44900,6,2,2350,syracuse
+Apartment For Sale,532 Richmond Ave,Syracuse ,NY ,13204,58000,,,,syracuse
+Apartment For Sale,3505/3507 S Salina St,Syracuse ,NY ,13205,65000,,,,syracuse
+House For Sale,111 White St,Syracuse ,NY ,13204,62000,3,,1280,syracuse
+House For Sale,331 Fitch St,Syracuse ,NY ,13204,42900,4,2,1659,syracuse
+Apartment For Sale,3800 S Salina St # 2,Syracuse ,NY ,13205,39900,,,,syracuse
+House For Sale,419 W Ostrander Ave,Syracuse ,NY ,13205,42900,4,2,1332,syracuse
+Apartment For Sale,145 Wood Ave,Syracuse ,NY ,13205,39900,6,2,2694,syracuse
+Apartment For Sale,1905 Court St,Syracuse ,NY ,13208,70000,,,,syracuse
+House For Sale,322 Hatch St,Syracuse ,NY ,13205,39000,5,2,1656,syracuse

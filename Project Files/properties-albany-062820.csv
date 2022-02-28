@@ -1,0 +1,501 @@
+title,address,city,state,zip_code,price,beds,baths,area,region
+House For Sale,248 S Manning Blvd,Albany ,NY ,12208,229900,4,3,1920,albany
+New Construction,34 Andriana Ln # PB3AZ0,Albany ,NY ,12204,,3,3,,albany
+For Sale by Owner,23 Cambridge Rd,Albany ,NY ,12203,224500,3,2,1710,albany
+House For Sale,39 W Parkwood St,Albany ,NY ,12203,245000,4,2,1552,albany
+New Construction,34 Andriana Ln # DM5XZG,Albany ,NY ,12204,,3,3,,albany
+House For Sale,69 Quail St,Albany ,NY ,12206,90000,6,,2464,albany
+Apartment For Sale,118 Kent St,Albany ,NY ,12206,184900,6,2,2308,albany
+New Construction,25 Kent Ter,Albany ,NY ,12203,279000,3,3,1800,albany
+House For Sale,39 Orchard Ave,Albany ,NY ,12203,192900,3,2,1452,albany
+House For Sale,97 N Pine Ave,Albany ,NY ,12203,215000,4,2,1660,albany
+House For Sale,44 Fliegel Ave,Albany ,NY ,12203,158000,,,,albany
+House For Sale,93 Rose Ct,Albany ,NY ,12209,189900,3,3,1638,albany
+House For Sale,341 Sherman St,Albany ,NY ,12206,10000,,,,albany
+New Construction,34 Andriana Ln # KPFLYU,Albany ,NY ,12204,,3,3,,albany
+Lot/Land For Sale,308 1st St,Albany ,NY ,12206,500,,,,albany
+Lot/Land For Sale,26 Fairway Ct,Albany ,NY ,12208,75000,,,,albany
+Condo For Sale,73 Crestwood Ter,Albany ,NY ,12203,120000,4,3,1606,albany
+House For Sale,57 Liebel St,Albany ,NY ,12202,10000,,,,albany
+Lot/Land For Sale,66 N Lake Ave,Albany ,NY ,12206,5000,,,,albany
+House For Sale,44 Barrows St,Albany ,NY ,12209,225000,5,3,3180,albany
+Lot/Land For Sale,62 Lark St,Albany ,NY ,12210,500,,,,albany
+House For Sale,74 Hurlbut St,Albany ,NY ,12209,90000,,,,albany
+Condo For Sale,409 Madison Ave APT 203,Albany ,NY ,12210,145000,1,1,766,albany
+House For Sale,235 Davis Ave,Albany ,NY ,12208,195000,3,1,1456,albany
+House For Sale,88 Forest Ave,Albany ,NY ,12208,159900,3,1,1030,albany
+For Sale by Owner,80 Andriana Ln,Albany ,NY ,12204,289000,3,3,1776,albany
+Townhouse For Sale,55 Krumkill Rd,Albany ,NY ,12208,304900,3,3,2138,albany
+House For Sale,224 Hansen Ave,Albany ,NY ,12208,169900,3,2,1120,albany
+House For Sale,17 Woodlawn Ave,Albany ,NY ,12208,174000,3,,1959,albany
+House For Sale,111 Daytona Ave,Albany ,NY ,12203,199777,4,2,1470,albany
+House For Sale,7 Olive Tree Ln,Albany ,NY ,12208,395000,4,3,2895,albany
+House For Sale,428 Delaware Ave,Albany ,NY ,12209,72500,3,1,1456,albany
+House For Sale,15 Cardinal Ave,Albany ,NY ,12208,188500,3,1,1366,albany
+House For Sale,35 Clermont St,Albany ,NY ,12203,169900,3,2,1336,albany
+House For Sale,32 Providence St,Albany ,NY ,12203,169900,2,1,1100,albany
+House For Sale,201 Greenwich Dr,Albany ,NY ,12203,134900,2,1,1050,albany
+House For Sale,373 Partridge St,Albany ,NY ,12208,169900,3,1,1104,albany
+For Sale by Owner,2 Danker Ave,Albany ,NY ,12206,259900,3,2,1850,albany
+Apartment For Sale,347 2nd Ave,Albany ,NY ,12209,134900,6,2,2048,albany
+Apartment For Sale,113 N Allen St,Albany ,NY ,12203,205000,6,2,2756,albany
+House For Sale,32 Edgecomb St,Albany ,NY ,12209,289900,3,2,2100,albany
+Foreclosure,5 Villa Ave,Albany ,NY ,12203,169900,4,2,1600,albany
+House For Sale,688 Morris St,Albany ,NY ,12208,159900,3,2,1355,albany
+House For Sale,289 S Main Ave,Albany ,NY ,12208,249900,3,2,2016,albany
+House For Sale,96 Hollywood Ave,Albany ,NY ,12208,105000,3,1,1161,albany
+House For Sale,220 Woodsfield Dr,Guilderland ,NY ,12203,432497,4,3,3015,albany
+House For Sale,302 Westwoods Ct,Guilderland ,NY ,12203,398507,4,3,2589,albany
+House For Sale,500 Morris St,Albany ,NY ,12208,179000,6,2,1800,albany
+Lot/Land For Sale,683 Delaware Ave,Albany ,NY ,12209,100000,,,,albany
+House For Sale,16 Sand St,Albany ,NY ,12209,49900,3,2,1191,albany
+Apartment For Sale,675 Hudson Ave,Albany ,NY ,12203,264900,8,2,2784,albany
+Foreclosure,9 S Dove St,Albany ,NY ,12202,29900,6,2,2380,albany
+Auction,203 Sycamore Street F/k/a 201-203 Sycamore St,Albany ,NY ,12209,,4,2,1710,albany
+House For Sale,924 New Scotland Rd,Albany ,NY ,12208,290000,4,4,3200,albany
+House For Sale,125 Delaware Ave,Albany ,NY ,12202,139000,7,,2240,albany
+Apartment For Sale,15 2nd St,Albany ,NY ,12210,389900,,,,albany
+House For Sale,11 Ramsey Pl,Albany ,NY ,12208,189900,6,3,1600,albany
+House For Sale,188 Davis Ave,Albany ,NY ,12208,289900,3,3,1700,albany
+Apartment For Sale,488 Hamilton St,Albany ,NY ,12203,229000,8,2,3300,albany
+House For Sale,165 Whitehall Rd,Albany ,NY ,12209,199900,4,3,1768,albany
+Apartment For Sale,49 Watervliet Ave,Albany ,NY ,12206,199000,5,3,2235,albany
+House For Sale,34 Normanside Dr,Albany ,NY ,12208,224900,4,2,1734,albany
+House For Sale,177 Ridgefield St,Albany ,NY ,12208,189900,3,2,1250,albany
+House For Sale,10 Forest Ave,Albany ,NY ,12208,174900,3,2,1229,albany
+House For Sale,7 Ramsey Pl,Albany ,NY ,12208,189900,3,2,1518,albany
+Apartment For Sale,40 Morris St,Albany ,NY ,12208,192000,6,2,2828,albany
+For Sale by Owner,149 Vaughn Dr,Albany ,NY ,12203,205779,3,1,1050,albany
+House For Sale,135 Shaker Rd,Albany ,NY ,12211,239000,3,2,1945,albany
+Pre-Foreclosure (Auction),Kent St,Albany ,NY ,12206,,3,1,1160,albany
+Pre-Foreclosure (Auction),Madison Ave,Albany ,NY ,12210,,8,3,3177,albany
+House For Sale,36 Maple Ave,Albany ,NY ,12208,135000,2,1,1176,albany
+Apartment For Sale,47 Elm St,Albany ,NY ,12202,289000,4,4,2320,albany
+Apartment For Sale,1245 Western Ave,Albany ,NY ,12203,299999,,,,albany
+Condo For Sale,352 State St APT 1D,Albany ,NY ,12210,150000,3,2,973,albany
+Apartment For Sale,430 3rd St,Albany ,NY ,12206,125000,,,,albany
+House For Sale,599 3rd St,Albany ,NY ,12206,41000,6,,1932,albany
+Auction,2 Sligo St,Albany ,NY ,12209,,1,1,448,albany
+Apartment For Sale,615 Myrtle Ave,Albany ,NY ,12208,190000,7,3,2304,albany
+Apartment For Sale,364 Quail St,Albany ,NY ,12208,205000,5,2,2168,albany
+Lot/Land For Sale,542 Warren St,Albany ,NY ,12208,29900,,,,albany
+House For Sale,109 N Allen St,Albany ,NY ,12203,179500,4,2,1964,albany
+House For Sale,798 Old South Pearl St,Albany ,NY ,12202,79900,3,1,1300,albany
+House For Sale,796-798 Old South Pearl St,Albany ,NY ,12202,94900,3,1,1300,albany
+House For Sale,62 Maplewood Ave,Albany ,NY ,12203,199900,4,2,2100,albany
+House For Sale,138 Russell Rd,Albany ,NY ,12203,189900,4,2,1728,albany
+House For Sale,147 3rd Ave,Albany ,NY ,12202,51200,2,1,855,albany
+House For Sale,16 Birchwood Ct,Albany ,NY ,12211,336000,3,3,2386,albany
+Lot/Land For Sale,645 2nd St,Albany ,NY ,12206,3500,,,,albany
+Apartment For Sale,60 Benson St,Albany ,NY ,12206,189800,,,,albany
+Apartment For Sale,64 Hollywood Ave,Albany ,NY ,12208,235000,4,2,2128,albany
+Apartment For Sale,575 Myrtle Ave,Albany ,NY ,12208,179000,7,,2310,albany
+House For Sale,36 Edenburg Ave,Albany ,NY ,12203,107500,3,1,936,albany
+Pre-Foreclosure (Auction),Walter St,Albany ,NY ,12204,,4,,1628,albany
+For Sale by Owner,141 Jay St,Albany ,NY ,12210,358000,6,6,,albany
+Condo For Sale,1003 Greenwich Dr,Albany ,NY ,12203,124900,2,2,1050,albany
+House For Sale,53 Oakwood St,Albany ,NY ,12208,189900,3,2,1384,albany
+Foreclosure,44 Mercer St,Albany ,NY ,12203,150000,2,1,768,albany
+House For Sale,37 Wood Ter,Albany ,NY ,12208,242900,3,2,1600,albany
+House For Sale,489 Western Ave,Albany ,NY ,12203,255000,6,4,3600,albany
+House For Sale,32 Hoffman Ave,Albany ,NY ,12209,75000,3,1,982,albany
+House For Sale,8 Pines Ct,Albany ,NY ,12203,255900,3,2,1804,albany
+House For Sale,45 W Erie St,Albany ,NY ,12208,219900,4,2,1725,albany
+Apartment For Sale,62 Pinewood Ave,Albany ,NY ,12208,254900,4,2,2232,albany
+House For Sale,174 Berkshire Blvd,Albany ,NY ,12203,164900,3,1,1126,albany
+House For Sale,202 Benson St,Albany ,NY ,12206,159900,3,2,1212,albany
+Foreclosed,295 Lark St,Albany ,NY ,12210,,,,,albany
+House For Sale,1 Daisy Ln,Albany ,NY ,12211,264900,5,4,2732,albany
+Apartment For Sale,146 Clinton St,Albany ,NY ,12202,115000,,,,albany
+Apartment For Sale,131 Clinton St,Albany ,NY ,12202,75000,5,2,2048,albany
+Pre-Foreclosure (Auction),Sligo St,Albany ,NY ,12209,,1,1,448,albany
+Pre-Foreclosure (Auction),Catherine St,Albany ,NY ,12202,,4,,1438,albany
+Pre-Foreclosure (Auction),Mereline Ave,Albany ,NY ,12209,,3,1,1158,albany
+Pre-Foreclosure (Auction),2nd St,Albany ,NY ,12206,,4,2,1386,albany
+Foreclosed,4 Judson St,Albany ,NY ,12206,,,,,albany
+House For Sale,201 Shaker Park Dr,Albany ,NY ,12211,199900,3,1,1176,albany
+Apartment For Sale,637 Myrtle Ave,Albany ,NY ,12208,185000,6,2,2296,albany
+Apartment For Sale,23 S Main Ave,Albany ,NY ,12208,374900,5,,,albany
+House For Sale,1175 New Scotland Rd,Albany ,NY ,12208,429900,3,4,2384,albany
+House For Sale,115 Woodlawn Ave,Albany ,NY ,12208,259900,6,,2340,albany
+House For Sale,3 Victor St,Albany ,NY ,12206,189900,3,2,1394,albany
+Lot/Land For Sale,Woodside Dr,Albany ,NY ,12208,40000,,,,albany
+Foreclosed,476 West St,Albany ,NY ,12206,,,,,albany
+Pre-Foreclosure (Auction),Little Ln,Albany ,NY ,12202,,3,,1320,albany
+Pre-Foreclosure (Auction),Tampa Ave,Albany ,NY ,12208,,2,1,1804,albany
+Pre-Foreclosure (Auction),E Highland Dr,Albany ,NY ,12203,,3,2,1240,albany
+Condo For Sale,17 Chapel St APT 701,Albany ,NY ,12210,825000,2,3,2165,albany
+Apartment For Sale,546 Cortland St,Albany ,NY ,12208,259000,4,,1624,albany
+Foreclosure,34 Stephen St,Albany ,NY ,12202,10500,6,3,2520,albany
+Foreclosure,50 2nd Ave,Albany ,NY ,12202,10500,5,2,3002,albany
+Apartment For Sale,460 West St,Albany ,NY ,12206,59900,5,2,2260,albany
+House For Sale,193 Homestead Ave,Albany ,NY ,12206,235000,3,2,1968,albany
+Apartment For Sale,575 Washington Ave,Albany ,NY ,12206,184900,8,2,2506,albany
+Townhouse For Sale,117 Knollwood Ter,Albany ,NY ,12203,162500,4,3,1472,albany
+House For Sale,83 Clermont St,Albany ,NY ,12203,179500,2,1,1498,albany
+House For Sale,118 Jefferson St,Albany ,NY ,12210,229000,2,2,1444,albany
+For Sale by Owner,181 Sheridan Ave,Albany ,NY ,12210,105000,7,2,2200,albany
+Townhouse For Sale,17 S Lake Ave,Albany ,NY ,12203,339900,3,2,2320,albany
+Apartment For Sale,77 Elizabeth St,Albany ,NY ,12202,30000,6,2,2000,albany
+House For Sale,403 Whitehall Rd,Albany ,NY ,12208,165000,3,2,1150,albany
+House For Sale,23 Home Ave,Albany ,NY ,12208,225000,3,2,1582,albany
+Pre-Foreclosure (Auction),Swartson Ct,Albany ,NY ,12209,,3,2,1657,albany
+Pre-Foreclosure (Auction),Garden Ave,Albany ,NY ,12203,,3,1,1000,albany
+Pre-Foreclosure (Auction),Lark St,Albany ,NY ,12210,,3,3,2160,albany
+Pre-Foreclosure (Auction),Slingerland St,Albany ,NY ,12202,,2,2,1856,albany
+Pre-Foreclosure (Auction),Myrtle Ave,Albany ,NY ,12202,,5,2,2122,albany
+Pre-Foreclosure (Auction),Madison Ave,Albany ,NY ,12210,,5,3,3000,albany
+House For Sale,47 Myrtle Ave,Albany ,NY ,12202,218000,4,3,2000,albany
+House For Sale,32 Miller Ave,Albany ,NY ,12203,184900,3,1,1227,albany
+Apartment For Sale,291 1st St,Albany ,NY ,12206,44000,,,,albany
+Apartment For Sale,88 Madison Ave,Albany ,NY ,12202,249000,5,4,3462,albany
+Apartment For Sale,72 Ontario St,Albany ,NY ,12206,78000,,,,albany
+Apartment For Sale,5 Tremont St,Albany ,NY ,12205,189900,2,,1232,albany
+House For Sale,121 3rd Ave,Albany ,NY ,12202,59900,2,1,1012,albany
+House For Sale,119 3rd Ave,Albany ,NY ,12202,49900,3,1,1200,albany
+House For Sale,124 Terrace Ave,Albany ,NY ,12203,249900,3,3,2148,albany
+Apartment For Sale,35 Marshall St,Albany ,NY ,12209,169900,6,2,2010,albany
+Apartment For Sale,9 Barrows St,Albany ,NY ,12209,189900,6,2,2200,albany
+Lot/Land For Sale,179 3rd Ave,Albany ,NY ,12202,12500,,,,albany
+Lot/Land For Sale,181 3rd Ave,Albany ,NY ,12202,12500,,,,albany
+House For Sale,154 Cardinal Ave,Albany ,NY ,12209,258000,3,2,1572,albany
+House For Sale,396 Greenway,Albany ,NY ,12208,225000,3,3,1750,albany
+House For Sale,856 Myrtle Ave,Albany ,NY ,12208,174900,4,3,1663,albany
+Condo For Sale,399 State St APT 703,Albany ,NY ,12210,139500,1,1,613,albany
+Foreclosure,513 Hamilton St,Albany ,NY ,12203,64900,4,1,1273,albany
+Condo For Sale,907 Greenwich Dr,Albany ,NY ,12203,125000,2,1,1050,albany
+House For Sale,30 E Parkwood St,Albany ,NY ,12203,179900,3,1,1121,albany
+Foreclosed,393 Livingston Ave,Albany ,NY ,12206,,,,,albany
+For Sale by Owner,49 Dove St,Albany ,NY ,12210,289000,3,3,2307,albany
+Apartment For Sale,238 Morris St,Albany ,NY ,12208,111600,6,2,2616,albany
+House For Sale,30 Kelton Ct,Albany ,NY ,12209,164900,3,1,1053,albany
+Condo For Sale,355 State St APT 2W,Albany ,NY ,12210,329900,3,2,2376,albany
+Foreclosure,37 Park Ave,Albany ,NY ,12203,199900,4,3,2236,albany
+Apartment For Sale,60 Ontario St,Albany ,NY ,12206,79900,4,2,1932,albany
+House For Sale,43 Tryon Ct,Albany ,NY ,12203,145000,3,2,1254,albany
+Apartment For Sale,330 Madison Ave,Albany ,NY ,12210,449900,,,,albany
+Apartment For Sale,330 Madison Ave,Albany ,NY ,12210,449900,,,,albany
+House For Sale,365 Sherman St # 367,Albany ,NY ,12206,84900,2,2,1168,albany
+New Construction,34 Andriana Ln # P5YGIX,Albany ,NY ,12204,,3,3,,albany
+House For Sale,72 Ormond St,Albany ,NY ,12203,159900,3,2,1040,albany
+Apartment For Sale,60 Holmes Ct,Albany ,NY ,12209,194900,3,2,1494,albany
+House For Sale,66 Orlando Ave,Albany ,NY ,12203,160000,3,1,1075,albany
+Apartment For Sale,236 Quail St,Albany ,NY ,12203,194900,5,2,2124,albany
+Pre-Foreclosure (Auction),2nd St,Albany ,NY ,12206,,4,2,1920,albany
+Pre-Foreclosure (Auction),2nd St,Albany ,NY ,12206,,,,,albany
+Pre-Foreclosure (Auction),Marwood St,Albany ,NY ,12209,,3,,1576,albany
+House For Sale,11 Justin St,Latham ,NY ,12210,405135,2,2,1610,albany
+House For Sale,27 Park Ave,Albany ,NY ,12203,179900,3,2,1152,albany
+Lot/Land For Sale,0 Wadsworth Hill & Old Gale Hill Rd,New Lebanon ,NY ,12212,395000,,,,albany
+House For Sale,8 Ramsey Pl,Albany ,NY ,12208,169999,3,2,1200,albany
+House For Sale,9 Shady Ln,Albany ,NY ,12203,240000,3,2,1620,albany
+Lot/Land For Sale,0 Old Gale Hill Rd,New Lebanon ,NY ,12212,100000,,,,albany
+Apartment For Sale,437 State St,Albany ,NY ,12203,359900,4,4,2352,albany
+Apartment For Sale,436 State St,Albany ,NY ,12203,389900,,,,albany
+Apartment For Sale,108 Southern Blvd,Albany ,NY ,12209,1000000,,,,albany
+House For Sale,117 Berkshire Blvd,Albany ,NY ,12203,164900,3,1,1188,albany
+Apartment For Sale,15 Arcadia Ave,Albany ,NY ,12209,229000,5,,2016,albany
+House For Sale,5 Gage Ave,Albany ,NY ,12203,169900,3,2,980,albany
+Pre-Foreclosure (Auction),Eagle St,Albany ,NY ,12202,,3,3,2706,albany
+Pre-Foreclosure (Auction),Mount Hope Dr,Albany ,NY ,12202,,3,,1080,albany
+House For Sale,27 Mohican Pl,Albany ,NY ,12208,244900,3,2,2040,albany
+Apartment For Sale,259 Lark St,Albany ,NY ,12210,1999000,,,,albany
+House For Sale,657 Morris St,Albany ,NY ,12208,174900,4,2,1652,albany
+Apartment For Sale,177 Eagle St,Albany ,NY ,12202,269900,5,3,2898,albany
+House For Sale,195 Livingston Ave,Albany ,NY ,12210,84900,,,2784,albany
+House For Sale,57 Beacon Ave,Albany ,NY ,12203,175000,3,2,1057,albany
+Condo For Sale,58 Westerlo St,Albany ,NY ,12202,59999,1,1,564,albany
+House For Sale,343 2nd Ave,Albany ,NY ,12209,199900,4,2,2372,albany
+House For Sale,329 Orange St,Albany ,NY ,12210,5000,,,,albany
+House For Sale,309 Orange St,Albany ,NY ,12210,1000,,,,albany
+Apartment For Sale,52 Philip St,Albany ,NY ,12207,224900,,,,albany
+House For Sale,36 Kelton Ct,Albany ,NY ,12209,162000,3,3,1418,albany
+House For Sale,67 N Manning Blvd,Albany ,NY ,12206,110000,6,,1880,albany
+Apartment For Sale,151 Benson St,Albany ,NY ,12206,174900,6,2,2144,albany
+Foreclosed,23 Benjamin St,Albany ,NY ,12202,,,,,albany
+House For Sale,336 State St,Albany ,NY ,12210,334900,3,3,2772,albany
+Apartment For Sale,48 Matilda St,Albany ,NY ,12209,199900,4,2,2774,albany
+House For Sale,7 Wood Ter,Albany ,NY ,12208,169900,3,1,1393,albany
+House For Sale,75 Lenox Ave,Albany ,NY ,12203,339000,3,3,1974,albany
+House For Sale,226 Woodscape Dr,Albany ,NY ,12203,284900,3,2,2072,albany
+Foreclosed,401 2nd Ave,Albany ,NY ,12209,,,,,albany
+Townhouse For Sale,279 1/2 Hudson Ave,Albany ,NY ,12210,324900,4,4,2572,albany
+Pre-Foreclosure (Auction),Hoffman Ave,Albany ,NY ,12209,,3,1,982,albany
+For Sale by Owner,323 S Main Ave,Albany ,NY ,12209,239900,3,2,1986,albany
+House For Sale,269 S Manning Blvd,Albany ,NY ,12208,295000,3,2,1797,albany
+House For Sale,114 Russell Rd,Albany ,NY ,12203,189900,3,2,2037,albany
+Pre-Foreclosure (Auction),Daytona Ave,Albany ,NY ,12203,,3,,1624,albany
+Pre-Foreclosure (Auction),N Bridge Dr,Albany ,NY ,12203,,2,1,1024,albany
+Pre-Foreclosure (Auction),Corlear St,Albany ,NY ,12209,,2,1,852,albany
+Pre-Foreclosure (Auction),Grandview Ter,Albany ,NY ,12202,,3,1,1408,albany
+House For Sale,71 S Lake Ave,Albany ,NY ,12203,359900,4,3,2400,albany
+Apartment For Sale,9 Daytona Ave,Albany ,NY ,12203,245000,4,2,2128,albany
+Apartment For Sale,5 Daytona Ave,Albany ,NY ,12203,245000,4,2,2128,albany
+Apartment For Sale,189 S Allen St,Albany ,NY ,12208,245000,4,2,2262,albany
+House For Sale,63 Cardinal Ave,Albany ,NY ,12208,189900,3,2,1302,albany
+House For Sale,55 Hawthorne Ave,Albany ,NY ,12203,198555,3,2,1296,albany
+House For Sale,115 N Pine Ave,Albany ,NY ,12203,177400,4,2,1571,albany
+House For Sale,51 N Main Ave,Albany ,NY ,12203,177500,3,2,1520,albany
+Apartment For Sale,89 N Pine Ave,Albany ,NY ,12203,284500,4,3,2960,albany
+House For Sale,8 Birchwood Ct,Albany ,NY ,12211,379900,3,3,2539,albany
+House For Sale,68 Hawthorne Ave,Albany ,NY ,12203,189999,3,2,1052,albany
+House For Sale,35 Academy Rd,Albany ,NY ,12208,249000,5,3,2670,albany
+Apartment For Sale,412 Madison Ave,Albany ,NY ,12210,235000,7,2,2400,albany
+House For Sale,267 Schoolhouse Rd,Albany ,NY ,12203,139900,4,1,1732,albany
+Lot/Land For Sale,51 3rd Ave,Albany ,NY ,12202,30000,,,,albany
+Lot/Land For Sale,283 3rd St,Albany ,NY ,12206,500,,,,albany
+Lot/Land For Sale,285 3rd St,Albany ,NY ,12206,500,,,,albany
+House For Sale,382 1st St,Albany ,NY ,12206,5500,,,,albany
+Lot/Land For Sale,105 Clinton Ave,Albany ,NY ,12210,2500,,,,albany
+Lot/Land For Sale,213 Sheridan Ave,Albany ,NY ,12210,1500,,,,albany
+House For Sale,812 New Scotland Ave,Albany ,NY ,12208,194900,3,2,1273,albany
+House For Sale,812 New Scotland Ave,Albany ,NY ,12208,194900,3,2,1273,albany
+House For Sale,24 Thatcher St,Albany ,NY ,12207,530000,3,2,2036,albany
+For Sale by Owner,530 1st St,Albany ,NY ,12206,82500,6,2,2384,albany
+Condo For Sale,17 Chapel St APT 504,Albany ,NY ,12210,479000,2,2,1590,albany
+House For Sale,23 Fullerton St,Albany ,NY ,12209,149900,3,2,1344,albany
+Lot/Land For Sale,Woodside Dr,Albany ,NY ,12208,40000,,,,albany
+Apartment For Sale,644 Myrtle Ave,Albany ,NY ,12208,169900,6,2,2200,albany
+Apartment For Sale,117 Hillcrest Ave # 119,Albany ,NY ,12203,162500,2,2,1300,albany
+House For Sale,11 Jeanette St,Albany ,NY ,12209,49900,4,1,1244,albany
+Pre-Foreclosure (Auction),3rd St,Albany ,NY ,12210,,3,,1920,albany
+Pre-Foreclosure (Auction),Green St,Albany ,NY ,12202,,4,2,1648,albany
+House For Sale,6 Grandview Ter,Albany ,NY ,12202,89900,3,2,1400,albany
+Foreclosure,1427 Western Ave,Albany ,NY ,12203,196100,4,2,2398,albany
+Apartment For Sale,70 2nd St,Albany ,NY ,12210,60000,,,,albany
+House For Sale,39 Benson St,Albany ,NY ,12206,125000,2,1,1525,albany
+House For Sale,200 Kent St,Albany ,NY ,12206,106000,2,2,1224,albany
+House For Sale,114 S Manning Blvd,Albany ,NY ,12203,310000,4,3,2100,albany
+House For Sale,200 Benson St,Albany ,NY ,12206,169900,3,1,1183,albany
+Pre-Foreclosure (Auction),Oakwood St,Albany ,NY ,12208,,4,,1728,albany
+Foreclosure,S Dove St,Albany ,NY ,12202,,6,2,2380,albany
+Condo For Sale,17 Chapel St APT 603,Albany ,NY ,12210,299900,1,2,1190,albany
+Condo For Sale,311 State St,Albany ,NY ,12210,519000,4,6,4440,albany
+House For Sale,154 2nd St,Albany ,NY ,12210,51900,4,2,1672,albany
+House For Sale,498 Livingston Ave,Albany ,NY ,12206,105000,3,1,1008,albany
+Apartment For Sale,31 Main St,Albany ,NY ,12204,45500,4,2,2450,albany
+Apartment For Sale,1067 Madison Ave,Albany ,NY ,12208,279900,5,2,2739,albany
+House For Sale,27 Pinewood Ave,Albany ,NY ,12203,374900,3,4,2362,albany
+House For Sale,42 Bower St,Albany ,NY ,12208,235500,3,3,1449,albany
+House For Sale,716 Western Ave,Albany ,NY ,12203,499000,5,4,4303,albany
+House For Sale,6 Coral Berry Cir,Albany ,NY ,12203,229950,4,3,2300,albany
+House For Sale,366 Partridge St,Albany ,NY ,12208,149900,3,1,1513,albany
+Pre-Foreclosure (Auction),Walter St,Albany ,NY ,12204,,5,2,2162,albany
+House For Sale,205 Russell Rd,Albany ,NY ,12203,495000,5,3,3500,albany
+Apartment For Sale,1028 Central Ave,Albany ,NY ,12205,179777,5,2,1837,albany
+Apartment For Sale,679 Myrtle Ave,Albany ,NY ,12208,249900,6,2,2232,albany
+Apartment For Sale,76 3rd Ave # 82,Albany ,NY ,12202,499900,,,,albany
+House For Sale,12 Brookwood Ave,Albany ,NY ,12203,179900,4,2,1422,albany
+House For Sale,307 S Manning Blvd,Albany ,NY ,12208,279900,4,3,2556,albany
+House For Sale,220 Hansen Ave,Albany ,NY ,12208,294900,4,4,2704,albany
+House For Sale,620 Myrtle Ave,Albany ,NY ,12208,209900,6,,2036,albany
+Lot/Land For Sale,315 Orange St,Albany ,NY ,12210,500,,,,albany
+Lot/Land For Sale,128 4th Ave,Albany ,NY ,12202,1500,,,,albany
+House For Sale,157 Hawk St S,Albany ,NY ,12202,15000,,,,albany
+House For Sale,361 Orange St,Albany ,NY ,12206,15000,,,,albany
+House For Sale,268 Livingston Ave,Albany ,NY ,12210,5000,,,,albany
+Lot/Land For Sale,51 Ontario St,Albany ,NY ,12206,1000,,,,albany
+House For Sale,303 S Manning Blvd,Albany ,NY ,12208,259900,4,2,1694,albany
+House For Sale,61 Grand St,Albany ,NY ,12207,99900,6,3,2856,albany
+House For Sale,5 Brookwood Ave,Albany ,NY ,12203,215000,3,2,1470,albany
+Condo For Sale,18 Andriana Ln,Albany ,NY ,12204,315000,2,,2282,albany
+House For Sale,82 Whitehall Rd,Albany ,NY ,12209,149500,3,2,1232,albany
+Apartment For Sale,137 4th Ave,Albany ,NY ,12202,164900,,,,albany
+For Sale by Owner,569 3rd St,Albany ,NY ,12206,30000,4,2,2031,albany
+House For Sale,999 New Scotland Rd,Albany ,NY ,12208,245000,4,2,2154,albany
+Apartment For Sale,27 Mckinley St,Albany ,NY ,12206,199900,2,2,1160,albany
+House For Sale,479 Elk St,Albany ,NY ,12206,70000,3,2,1680,albany
+Apartment For Sale,316 1st St,Albany ,NY ,12206,13000,4,2,1950,albany
+House For Sale,240 Ontario St,Albany ,NY ,12203,99000,6,3,1496,albany
+Apartment For Sale,241 1st St,Albany ,NY ,12206,52500,4,2,1980,albany
+Apartment For Sale,201 Catherine St,Albany ,NY ,12202,45000,5,2,1540,albany
+Apartment For Sale,243 1st St,Albany ,NY ,12206,52500,5,2,2080,albany
+Apartment For Sale,526 Morris St,Albany ,NY ,12208,209000,6,2,2352,albany
+House For Sale,16 Kensington Pl,Albany ,NY ,12209,179000,2,3,1682,albany
+House For Sale,121 Daytona Ave,Albany ,NY ,12203,204900,3,2,1400,albany
+House For Sale,20 Fairlawn Ave,Albany ,NY ,12203,180000,3,2,1367,albany
+Pre-Foreclosure (Auction),State St APT 4E,Albany ,NY ,12210,,1,1,626,albany
+Pre-Foreclosure (Auction),Cuyler St,Albany ,NY ,12202,,4,1,900,albany
+Pre-Foreclosure (Auction),S Pearl St,Albany ,NY ,12202,,9,3,3024,albany
+Apartment For Sale,761 Madison Ave,Albany ,NY ,12208,525000,,,,albany
+House For Sale,900 Myrtle Ave,Albany ,NY ,12208,139000,3,2,1248,albany
+House For Sale,252 Yates St,Albany ,NY ,12208,125000,3,1,980,albany
+Apartment For Sale,165 Cottage Ave,Albany ,NY ,12203,159000,3,2,1515,albany
+House For Sale,74 Ormond St,Albany ,NY ,12203,47000,3,2,1012,albany
+House For Sale,45 Holmes Ct,Albany ,NY ,12209,219900,5,,2457,albany
+House For Sale,111 2nd Ave # 113,Albany ,NY ,12202,79900,6,,1952,albany
+House For Sale,111 2nd Ave # 113,Albany ,NY ,12202,79900,6,,1952,albany
+House For Sale,110 2nd St APT 112,Albany ,NY ,12210,79900,5,,2340,albany
+House For Sale,65 2nd Ave,Albany ,NY ,12202,49000,3,1,1100,albany
+House For Sale,536 Mercer St,Albany ,NY ,12208,189900,3,,1750,albany
+Apartment For Sale,206 Jay St,Albany ,NY ,12210,249900,4,3,1890,albany
+House For Sale,227 Jay St,Albany ,NY ,12210,250000,2,2,1710,albany
+Lot/Land For Sale,86 West St,Albany ,NY ,12206,1000,,,,albany
+Lot/Land For Sale,88 West St,Albany ,NY ,12206,1000,,,,albany
+House For Sale,312 Hackett Blvd,Albany ,NY ,12208,279900,4,3,2755,albany
+Condo For Sale,355 State St 1 E,Albany ,NY ,12210,329900,3,2,2153,albany
+Apartment For Sale,15 Ash Grove Pl,Albany ,NY ,12202,189900,,,,albany
+Apartment For Sale,70 Central Ave,Albany ,NY ,12206,299997,,,,albany
+Lot/Land For Sale,211 Livingston Ave,Albany ,NY ,12210,13000,,,,albany
+House For Sale,476 Clinton Ave,Albany ,NY ,12206,67000,4,,2174,albany
+House For Sale,768 New Scotland Ave,Albany ,NY ,12208,184900,3,3,1526,albany
+Pre-Foreclosure (Auction),Clinton Ave,Albany ,NY ,12206,,6,3,2174,albany
+Pre-Foreclosure (Auction),Marshall St,Albany ,NY ,12209,,6,2,2072,albany
+House For Sale,612 Livingston Ave,Albany ,NY ,12206,17000,,,,albany
+House For Sale,810 Livingston Ave,Albany ,NY ,12206,105000,5,2,1450,albany
+Apartment For Sale,35 West St,Albany ,NY ,12206,99000,4,2,2350,albany
+Condo For Sale,12 Bryn Mawr Ct,Albany ,NY ,12211,439900,3,,2448,albany
+Apartment For Sale,235 Elm St # A,Albany ,NY ,12202,375000,,,,albany
+Apartment For Sale,32 1st St,Albany ,NY ,12210,120000,6,3,2728,albany
+Apartment For Sale,54 Philip St,Albany ,NY ,12202,220000,4,2,2750,albany
+Lot/Land For Sale,194-196 Delaware Ave,Albany ,NY ,12209,30000,,,,albany
+House For Sale,65 Crescent Dr,Albany ,NY ,12208,154900,4,2,1573,albany
+Pre-Foreclosure (Auction),Barrows St,Albany ,NY ,12209,,3,,1393,albany
+House For Sale,103 Orlando Ave,Albany ,NY ,12203,199000,4,,1400,albany
+Make Me Move®,366 Hudson Ave,Albany ,NY ,12210,285000,4,2,1900,albany
+House For Sale,220 Morris St,Albany ,NY ,12208,220000,3,1,1092,albany
+Lot/Land For Sale,3 Albany St,Albany ,NY ,12204,500,,,,albany
+Pre-Foreclosure (Auction),Hurlbut St,Albany ,NY ,12209,,4,2,2012,albany
+Pre-Foreclosure (Auction),3rd Ave,Albany ,NY ,12202,,3,1,1166,albany
+House For Sale,11 Western Ave,Albany ,NY ,12203,167000,3,1,1116,albany
+Condo For Sale,254 Hudson Ave # B,Albany ,NY ,12210,125000,2,1,764,albany
+For Sale by Owner,655 3rd St,Albany ,NY ,12206,49900,2,2,1550,albany
+House For Sale,50 Emmett St,Albany ,NY ,12204,8500,,,,albany
+House For Sale,423 Clinton Ave,Albany ,NY ,12206,15000,,,,albany
+House For Sale,633 Clinton Ave,Albany ,NY ,12206,17000,2,1,2100,albany
+Foreclosure,386 1st St,Albany ,NY ,12206,24900,6,2,2370,albany
+For Sale by Owner,12 Edenburg Ave,Albany ,NY ,12203,135000,3,3,1170,albany
+House For Sale,351 2nd Ave,Albany ,NY ,12209,75500,3,,1528,albany
+House For Sale,281 Myrtle Ave,Albany ,NY ,12208,199900,,,4071,albany
+Apartment For Sale,512 Yates St,Albany ,NY ,12208,154900,6,2,2170,albany
+Pre-Foreclosure (Auction),Madison Ave,Albany ,NY ,12210,,2,,1200,albany
+Lot/Land For Sale,751 New Scotland Ave,Albany ,NY ,12208,69000,,,,albany
+Townhouse For Sale,343 State St,Albany ,NY ,12210,539000,5,4,4248,albany
+Condo For Sale,17 Chapel St APT 703,Albany ,NY ,12210,549900,2,2,1590,albany
+House For Sale,75 Euclid Ave,Albany ,NY ,12203,259000,4,,1892,albany
+House For Sale,387 2nd Ave,Albany ,NY ,12209,14900,3,2,882,albany
+Apartment For Sale,117 Philip St,Albany ,NY ,12202,119000,5,3,1600,albany
+Foreclosure,316 Sheridan Ave,Albany ,NY ,12206,5000,2,2,850,albany
+Lot/Land For Sale,164-172 Lancaster St,Albany ,NY ,12210,260000,,,,albany
+Condo For Sale,2 1st St,Albany ,NY ,12210,249900,5,3,3300,albany
+Apartment For Sale,516 Washington Ave,Albany ,NY ,12203,99750,6,2,1760,albany
+Lot/Land For Sale,130 Wellington Ave,Albany ,NY ,12203,29900,,,,albany
+Condo For Sale,17 Chapel St APT 602,Albany ,NY ,12210,359900,1,2,1270,albany
+House For Sale,218 Morris St,Albany ,NY ,12208,230000,4,,1568,albany
+Lot/Land For Sale,13 Oriole St,Albany ,NY ,12209,5000,,,,albany
+Lot/Land For Sale,53 Ontario St,Albany ,NY ,12206,2500,,,,albany
+Lot/Land For Sale,219 Colonie St,Albany ,NY ,12210,1000,,,,albany
+Lot/Land For Sale,215 Colonie St,Albany ,NY ,12210,500,,,,albany
+Lot/Land For Sale,15 Hartman Rd,Albany ,NY ,12208,75000,,,,albany
+Lot/Land For Sale,19 Hartman Rd,Albany ,NY ,12208,65000,,,,albany
+House For Sale,32 Van Zandt St,Albany ,NY ,12207,95000,3,,2300,albany
+Pre-Foreclosure (Auction),Ridgefield St,Albany ,NY ,12208,,3,,1250,albany
+House For Sale,316 2nd St,Albany ,NY ,12206,12500,3,1,850,albany
+Pre-Foreclosure (Auction),Barclay St,Albany ,NY ,12209,,6,2,2016,albany
+Pre-Foreclosure (Auction),N Lake Ave,Albany ,NY ,12206,,,,,albany
+Pre-Foreclosure (Auction),Dove St,Albany ,NY ,12202,,6,3,2865,albany
+Pre-Foreclosure (Auction),N Lake Ave,Albany ,NY ,12206,,,,,albany
+Pre-Foreclosure (Auction),Lenox Ave,Albany ,NY ,12208,,4,,2495,albany
+House For Sale,9 Thurlow Ter,Albany ,NY ,12203,995000,,,,albany
+Apartment For Sale,7 Wilbur St,Albany ,NY ,12202,134900,7,2,2070,albany
+House For Sale,478 Clinton Ave,Albany ,NY ,12206,90000,4,,1450,albany
+House For Sale,5 Alden Ave,Albany ,NY ,12209,79000,2,1,856,albany
+Apartment For Sale,185 Lancaster St,Albany ,NY ,12210,283900,,,,albany
+House For Sale,175 Broad St,Albany ,NY ,12202,4250,,,,albany
+House For Sale,34 2nd Ave,Albany ,NY ,12202,4000,,,,albany
+House For Sale,436 3rd St,Albany ,NY ,12206,6500,,,,albany
+House For Sale,598 3rd St,Albany ,NY ,12206,5000,,,,albany
+House For Sale,378 2nd St,Albany ,NY ,12206,8000,,,,albany
+House For Sale,479 1st St,Albany ,NY ,12206,10000,,,,albany
+Pre-Foreclosure (Auction),Leonard Pl,Albany ,NY ,12202,,4,,1648,albany
+House For Sale,213 Livingston Ave,Albany ,NY ,12210,75000,3,1,1100,albany
+Foreclosure,8 Alexander St,Albany ,NY ,12202,9900,,,,albany
+Apartment For Sale,291 Lark St,Albany ,NY ,12210,274900,3,3,2520,albany
+Lot/Land For Sale,73 N Manning Blvd,Albany ,NY ,12206,5900,,,,albany
+Pre-Foreclosure (Auction),Elk St,Albany ,NY ,12206,,2,1,1064,albany
+House For Sale,34 Marshall St,Albany ,NY ,12209,110000,3,,168,albany
+Pre-Foreclosure (Auction),Manning Blvd,Albany ,NY ,12206,,6,2,2464,albany
+Pre-Foreclosure (Auction),2nd Ave,Albany ,NY ,12202,,,,,albany
+Apartment For Sale,261 State St,Albany ,NY ,12210,595000,,,,albany
+Apartment For Sale,328 Madison Ave,Albany ,NY ,12210,1050000,,,,albany
+Pre-Foreclosure (Auction),Madison Ave,Albany ,NY ,12208,,,,,albany
+Pre-Foreclosure (Auction),Dana Ave,Albany ,NY ,12208,,6,2,2584,albany
+House For Sale,41 Judson St,Albany ,NY ,12206,20000,3,1,1152,albany
+House For Sale,263 Tampa Ave,Albany ,NY ,12208,157777,3,2,1100,albany
+House For Sale,21 Greyledge Dr,Albany ,NY ,12211,378000,4,3,2727,albany
+Pre-Foreclosure (Auction),Ontario St,Albany ,NY ,12208,,5,2,2156,albany
+Condo For Sale,352 State St APT 6A,Albany ,NY ,12210,239900,2,2,1143,albany
+Pre-Foreclosure (Auction),Grant Ave,Albany ,NY ,12206,,2,1,1344,albany
+House For Sale,196 Shaker Rd,Albany ,NY ,12211,274900,5,4,3581,albany
+Apartment For Sale,164-66 Madison Ave,Albany ,NY ,12202,369900,,,,albany
+House For Sale,852 Myrtle Ave,Albany ,NY ,12208,185900,4,,1503,albany
+Pre-Foreclosure (Auction),Trinity Pl,Albany ,NY ,12202,,8,3,3276,albany
+Pre-Foreclosure (Auction),Elm St,Albany ,NY ,12202,,5,3,2320,albany
+Pre-Foreclosure (Auction),Clinton Ave,Albany ,NY ,12206,,3,3,1400,albany
+Pre-Foreclosure (Auction),Hackett Blvd,Albany ,NY ,12208,,3,,1800,albany
+Pre-Foreclosure (Auction),Kenosha St,Albany ,NY ,12209,,,,,albany
+Apartment For Sale,21 Myrtle Ave,Albany ,NY ,12202,39000,,,,albany
+House For Sale,11 Stanwix St,Albany ,NY ,12209,114000,5,,1936,albany
+Pre-Foreclosure (Auction),Lancaster St,Albany ,NY ,12203,,5,,2172,albany
+Pre-Foreclosure (Auction),O Connell St,Albany ,NY ,12209,,3,2,2068,albany
+Pre-Foreclosure (Auction),Lancaster St,Albany ,NY ,12203,,,,,albany
+Pre-Foreclosure (Auction),Clare Ave,Albany ,NY ,12202,,,,,albany
+Pre-Foreclosure (Auction),Pine Ln,Albany ,NY ,12203,,,,,albany
+House For Sale,2961 W Old State Rd,Guilderland ,NY ,12203,429000,4,2,2200,albany
+Foreclosed,452 New Scotland Ave # 5,Albany ,NY ,12208,,,,,albany
+Pre-Foreclosure (Auction),2nd Ave,Albany ,NY ,12202,,6,2,2472,albany
+Pre-Foreclosure (Auction),Benjamin St,Albany ,NY ,12202,,4,2,1512,albany
+House For Sale,282 Morris St,Albany ,NY ,12208,152500,5,,2019,albany
+Foreclosure,1 Warbler Way,Albany ,NY ,12203,219900,4,3,1812,albany
+Pre-Foreclosure (Auction),N Pine Ave,Albany ,NY ,12203,,,,,albany
+House For Sale,702 Delaware Ave,Albany ,NY ,12209,130000,5,2,1986,albany
+Pre-Foreclosure (Auction),Central Ave,Albany ,NY ,12205,,,,,albany
+Lot/Land For Sale,527 S Pearl St,Albany ,NY ,12202,143900,,,,albany
+House For Sale,22 Cross St,Albany ,NY ,12203,135000,3,1,826,albany
+Pre-Foreclosure (Auction),Albany St,Albany ,NY ,12204,,3,1,912,albany
+Pre-Foreclosure (Auction),Schoolhouse Rd,Albany ,NY ,12203,,3,1,1852,albany
+New Construction,38 Andriana Ln,Albany ,NY ,12204,299900,3,3,2306,albany
+New Construction,44 Andriana Ln,Albany ,NY ,12204,299900,3,3,2306,albany
+New Construction,40 Andriana Ln,Albany ,NY ,12204,289900,3,3,2281,albany
+Pre-Foreclosure (Auction),W Van Vechten St,Albany ,NY ,12209,,3,2,1380,albany
+Pre-Foreclosure (Auction),Lancaster St,Albany ,NY ,12203,,6,2,2456,albany
+Foreclosure,206 Kent St,Albany ,NY ,12206,71400,3,2,1224,albany
+Pre-Foreclosure (Auction),Villa Rd,Albany ,NY ,12204,,,,,albany
+Foreclosure,Villa Ave,Albany ,NY ,12203,,4,2,1600,albany
+Pre-Foreclosure (Auction),Beach Ave,Albany ,NY ,12203,,3,,1642,albany
+Pre-Foreclosure (Auction),Delaware Ave,Albany ,NY ,12209,,6,2,2528,albany
+Pre-Foreclosure (Auction),Brookline Ave,Albany ,NY ,12203,,4,,2232,albany
+Pre-Foreclosure (Auction),Terrace Ave,Albany ,NY ,12203,,3,3,1980,albany
+Foreclosed,90 Benson St,Albany ,NY ,12206,,,,,albany
+Pre-Foreclosure (Auction),2nd St,Albany ,NY ,12206,,4,1,858,albany
+Foreclosed,28 Marwood St,Albany ,NY ,12209,,,,,albany
+Pre-Foreclosure (Auction),Spring St,Albany ,NY ,12203,,,,,albany
+Pre-Foreclosure (Auction),Spring St,Albany ,NY ,12203,,6,2,1520,albany
+Pre-Foreclosure (Auction),Orange St,Albany ,NY ,12210,,9,3,2898,albany
+Pre-Foreclosure (Auction),Broad St,Albany ,NY ,12202,,9,3,2997,albany
+Pre-Foreclosure (Auction),Dana Ave,Albany ,NY ,12208,,6,2,2344,albany
+Pre-Foreclosure (Auction),Livingston Ave,Albany ,NY ,12210,,6,2,2270,albany
+Pre-Foreclosure (Auction),Delaware Ter,Albany ,NY ,12209,,3,,1804,albany
+Pre-Foreclosure (Auction),Colonial Ave,Albany ,NY ,12203,,4,,1901,albany
+Pre-Foreclosure (Auction),Woodlawn Ave,Albany ,NY ,12208,,6,2,2226,albany
+Pre-Foreclosure (Auction),Morris St,Albany ,NY ,12208,,4,3,2420,albany
+Pre-Foreclosure (Auction),Elm St,Albany ,NY ,12202,,2,,1440,albany
+Pre-Foreclosure (Auction),N Swan St,Albany ,NY ,12210,,,,,albany
+Pre-Foreclosure (Auction),Mount Hope Dr,Albany ,NY ,12202,,3,1,1008,albany
+Pre-Foreclosure (Auction),Lark St,Albany ,NY ,12210,,4,3,2520,albany
+Pre-Foreclosure (Auction),Broadway,Albany ,NY ,12204,,,,,albany
+House For Sale,5 Briar Ave,Albany ,NY ,12203,175000,4,2,2400,albany
+Foreclosed,11 Berncliff Ave,Albany ,NY ,12208,,,,,albany
+Pre-Foreclosure (Auction),Brookline Ave,Albany ,NY ,12203,,3,1,1754,albany
+Pre-Foreclosure (Auction),Southern Blvd,Albany ,NY ,12209,,3,1,1088,albany
+Pre-Foreclosure (Auction),Hudson Ave,Albany ,NY ,12210,,2,2,2172,albany
+Townhouse For Sale,137 Green St,Albany ,NY ,12202,50000,4,3,2075,albany
+Pre-Foreclosure (Auction),Central Ave,Albany ,NY ,12206,,6,2,2068,albany
+Pre-Foreclosure (Auction),Broadway,Menands ,NY ,12204,,6,2,2508,albany
+Pre-Foreclosure (Auction),Beverly Dr,Albany ,NY ,12203,,4,,1200,albany
+Foreclosed,298 2nd St,Albany ,NY ,12206,,6,2,1800,albany
+Foreclosed,48 Swinton St,Albany ,NY ,12206,,,,,albany
+Pre-Foreclosure (Auction),Regent St,Albany ,NY ,12202,,3,2,1340,albany
+Pre-Foreclosure (Auction),Rapp Rd,Albany ,NY ,12203,,,,,albany
+Pre-Foreclosure (Auction),S Pearl St,Albany ,NY ,12202,,4,,1426,albany
+Pre-Foreclosure (Auction),N Pearl St,Albany ,NY ,12207,,,,,albany

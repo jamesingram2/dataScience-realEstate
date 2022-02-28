@@ -1,0 +1,501 @@
+title,address,city,state,zip_code,price,beds,baths,area,region
+Apartment For Sale,56 Sweeney St,Buffalo ,NY ,14211,64900,5,2,2105,buffalo
+House For Sale,59 Wyandotte Ave,Buffalo ,NY ,14207,149000,5,2,1250,buffalo
+Apartment For Sale,55 Reservation St,Buffalo ,NY ,14207,109900,4,2,1584,buffalo
+For Sale by Owner,280 Roslyn St,Buffalo ,NY ,14215,79900,3,1,920,buffalo
+House For Sale,151 Woodward Ave,Buffalo ,NY ,14214,299900,4,3,2300,buffalo
+Apartment For Sale,338 Longnecker St,Buffalo ,NY ,14206,54900,5,2,1770,buffalo
+House For Sale,38 Hallam Rd,Buffalo ,NY ,14216,899000,5,4,3840,buffalo
+House For Sale,57 Manhattan Ave,Buffalo ,NY ,14215,69900,4,1,1354,buffalo
+House For Sale,311 Sanders Rd,Buffalo ,NY ,14216,189900,3,2,1540,buffalo
+House For Sale,12 Greenfield St,Buffalo ,NY ,14214,229000,3,2,1738,buffalo
+House For Sale,137 Hamlin Rd,Buffalo ,NY ,14208,149900,5,2,1872,buffalo
+Apartment For Sale,290 Lexington Ave,Buffalo ,NY ,14222,424900,4,3,2965,buffalo
+House For Sale,5 Butler Ave,Buffalo ,NY ,14208,69900,8,2,2991,buffalo
+House For Sale,38 Deer St,Buffalo ,NY ,14207,80000,4,1,988,buffalo
+House For Sale,209 Wellington Rd,Buffalo ,NY ,14216,295000,5,2,2604,buffalo
+Apartment For Sale,222 Jewett Ave,Buffalo ,NY ,14214,99900,6,,2400,buffalo
+House For Sale,136 Meadow Rd,Buffalo ,NY ,14216,589000,3,4,2801,buffalo
+Apartment For Sale,35 Tuxedo Pl,Buffalo ,NY ,14207,119900,5,2,2339,buffalo
+Townhouse For Sale,900 Delaware Ave APT 105,Buffalo ,NY ,14209,269900,2,2,1255,buffalo
+House For Sale,20 Glendale Pl,Buffalo ,NY ,14208,225000,4,2,1400,buffalo
+House For Sale,35 Robins St,Buffalo ,NY ,14220,175000,3,1,1418,buffalo
+For Sale by Owner,253 Whitney Pl,Buffalo ,NY ,14201,169999,2,1,1000,buffalo
+Apartment For Sale,61 Bird Ave,Buffalo ,NY ,14213,85000,5,2,1511,buffalo
+House For Sale,788 Abbott Rd,Buffalo ,NY ,14220,159900,3,1,1369,buffalo
+House For Sale,71 Deshler St,Buffalo ,NY ,14212,35000,3,1,1320,buffalo
+House For Sale,86 Deshler St,Buffalo ,NY ,14212,35000,3,1,1564,buffalo
+Apartment For Sale,327 Saint Lawrence Ave,Buffalo ,NY ,14216,159900,4,2,1860,buffalo
+Apartment For Sale,214 Monroe St,Buffalo ,NY ,14206,35000,5,2,2200,buffalo
+House For Sale,24 Hirschbeck St,Buffalo ,NY ,14212,39900,4,1,1354,buffalo
+Apartment For Sale,94 Germain St,Buffalo ,NY ,14207,20000,6,2,3622,buffalo
+Apartment For Sale,16 Roma Ave,Buffalo ,NY ,14215,74900,6,2,2002,buffalo
+House For Sale,645 S Ogden St,Buffalo ,NY ,14206,89900,3,1,1134,buffalo
+House For Sale,21 Poultney Ave,Buffalo ,NY ,14215,61900,3,1,1179,buffalo
+House For Sale,23 Park St,Buffalo ,NY ,14201,329900,4,2,2444,buffalo
+House For Sale,195 Barnard St,Buffalo ,NY ,14206,89900,3,1,1239,buffalo
+House For Sale,27 University Ave,Buffalo ,NY ,14214,199900,4,2,1953,buffalo
+House For Sale,103 Lang Ave,Buffalo ,NY ,14215,59000,3,1,936,buffalo
+House For Sale,474 Weimar St,Buffalo ,NY ,14206,89900,2,1,912,buffalo
+House For Sale,1085 Tifft St,Buffalo ,NY ,14220,132900,3,2,1524,buffalo
+Apartment For Sale,456 Plymouth Ave,Buffalo ,NY ,14213,164900,6,2,2259,buffalo
+House For Sale,35 Mandan St,Buffalo ,NY ,14216,139900,3,2,1578,buffalo
+House For Sale,292 15th St,Buffalo ,NY ,14213,199900,3,2,1600,buffalo
+House For Sale,731 W Ferry St APT 6KL,Buffalo ,NY ,14222,229000,2,2,1105,buffalo
+Townhouse For Sale,731 W Ferry,Buffalo ,NY ,14222,229000,2,2,1105,buffalo
+Apartment For Sale,374 Davidson Ave,Buffalo ,NY ,14215,54900,4,2,1672,buffalo
+Apartment For Sale,88 W Delavan Ave,Buffalo ,NY ,14213,75000,6,,2000,buffalo
+Apartment For Sale,89 Burgard Pl,Buffalo ,NY ,14211,59900,6,3,2476,buffalo
+Apartment For Sale,59 Marigold Ave,Buffalo ,NY ,14215,45000,6,2,2440,buffalo
+House For Sale,1302 Kensington Ave,Buffalo ,NY ,14215,74900,3,1,1239,buffalo
+Apartment For Sale,145 Hudson St,Buffalo ,NY ,14201,69900,,,,buffalo
+House For Sale,122 Auburn Ave,Buffalo ,NY ,14213,84900,,,,buffalo
+House For Sale,103 Crescent Ave,Buffalo ,NY ,14214,624900,5,4,3643,buffalo
+House For Sale,277 Depew Ave,Buffalo ,NY ,14214,479900,5,4,2856,buffalo
+House For Sale,35 Wadsworth St,Buffalo ,NY ,14201,295000,2,2,1768,buffalo
+Apartment For Sale,648 Lasalle Ave,Buffalo ,NY ,14215,95000,,,,buffalo
+House For Sale,35 Standish Rd,Buffalo ,NY ,14216,189900,3,2,1272,buffalo
+House For Sale,10 Geary St,Buffalo ,NY ,14210,99900,3,1,1063,buffalo
+House For Sale,343 Crowley Ave,Buffalo ,NY ,14207,64900,4,1,1020,buffalo
+House For Sale,43 Seabrook St,Buffalo ,NY ,14207,119900,3,1,864,buffalo
+Townhouse For Sale,925 Delaware Ave APT 2C,Buffalo ,NY ,14209,539900,3,3,2230,buffalo
+Apartment For Sale,78 Saint James Pl,Buffalo ,NY ,14222,409900,,,,buffalo
+Apartment For Sale,246 W Delavan Ave,Buffalo ,NY ,14213,178000,6,2,2555,buffalo
+House For Sale,128 Weston Ave,Buffalo ,NY ,14215,89900,3,2,1248,buffalo
+Townhouse For Sale,134 Zelmer St,Buffalo ,NY ,14211,49900,5,2,1478,buffalo
+House For Sale,88 Amber St,Buffalo ,NY ,14220,79900,3,1,1056,buffalo
+Apartment For Sale,290 Bedford Ave,Buffalo ,NY ,14216,429900,8,3,3900,buffalo
+House For Sale,251 Breckenridge St,Buffalo ,NY ,14213,129900,4,2,1242,buffalo
+House For Sale,330 Busti Ave,Buffalo ,NY ,14201,69900,3,1,1376,buffalo
+Apartment For Sale,80 Humason Ave,Buffalo ,NY ,14211,39900,,,,buffalo
+Apartment For Sale,110 Domedion Ave,Buffalo ,NY ,14211,69999,5,,1980,buffalo
+Apartment For Sale,42 Kane St,Buffalo ,NY ,14204,59900,4,2,1920,buffalo
+House For Sale,100 Custer St,Buffalo ,NY ,14214,124900,2,1,814,buffalo
+House For Sale,117 Domedion Ave,Buffalo ,NY ,14211,69999,3,1,1063,buffalo
+Apartment For Sale,18 Rees St # 30,Buffalo ,NY ,14213,399900,,,,buffalo
+Apartment For Sale,87 Prospect Ave,Buffalo ,NY ,14201,369900,4,3,3010,buffalo
+Apartment For Sale,306 Hartwell Rd,Buffalo ,NY ,14216,260000,6,2,2592,buffalo
+Apartment For Sale,301 Pennsylvania St,Buffalo ,NY ,14201,100000,5,2,2108,buffalo
+For Sale by Owner,168 W Woodside Ave,Buffalo ,NY ,14220,139000,4,2,1878,buffalo
+Townhouse For Sale,132 Lakefront Blvd UNIT 106,Buffalo ,NY ,14202,415000,2,2,1583,buffalo
+For Sale by Owner,104 Roanoke Pkwy,Buffalo ,NY ,14210,159000,6,2,2552,buffalo
+Apartment For Sale,95 Lakeview Ave,Buffalo ,NY ,14201,79900,,,,buffalo
+House For Sale,52 Spann St,Buffalo ,NY ,14206,85000,4,2,1323,buffalo
+Apartment For Sale,36 Granger Pl,Buffalo ,NY ,14222,432500,5,3,2596,buffalo
+For Sale by Owner,683 Tonawanda St,Buffalo ,NY ,14207,84900,5,1,1430,buffalo
+House For Sale,173 Bloomfield Ave,Buffalo ,NY ,14220,199900,3,2,1595,buffalo
+For Sale by Owner,54 Mariner St,Buffalo ,NY ,14201,459000,8,3,3674,buffalo
+Apartment For Sale,712 Hopkins St,Buffalo ,NY ,14220,82500,,,,buffalo
+Apartment For Sale,610 Hertel Ave,Buffalo ,NY ,14207,125000,,,,buffalo
+Apartment For Sale,336 N Park Ave,Buffalo ,NY ,14216,250000,5,2,2560,buffalo
+Apartment For Sale,48 Laurel St,Buffalo ,NY ,14209,189900,5,2,2760,buffalo
+Foreclosure,87 Freund St,Buffalo ,NY ,14215,53000,4,2,1740,buffalo
+House For Sale,92 Armbruster St,Buffalo ,NY ,14212,29900,3,1,1112,buffalo
+House For Sale,104 Larchmont Rd,Buffalo ,NY ,14214,299000,5,2,2400,buffalo
+Apartment For Sale,790 Mckinley Pkwy,Buffalo ,NY ,14220,209900,6,2,3004,buffalo
+Lot/Land For Sale,539 E Ferry St,Buffalo ,NY ,14208,9900,,,,buffalo
+Apartment For Sale,160 Benzinger St,Buffalo ,NY ,14206,199900,6,,2288,buffalo
+Apartment For Sale,47 Reiman St,Buffalo ,NY ,14206,79900,5,2,1638,buffalo
+House For Sale,203 Highgate Ave,Buffalo ,NY ,14215,149900,3,2,1784,buffalo
+Apartment For Sale,237 Rounds Ave,Buffalo ,NY ,14215,89000,5,2,1778,buffalo
+Apartment For Sale,23 Pembina St,Buffalo ,NY ,14220,67000,6,2,1800,buffalo
+Apartment For Sale,23 Pembina St,Buffalo ,NY ,14220,67000,6,2,1800,buffalo
+Apartment For Sale,144 Shoshone St,Buffalo ,NY ,14214,279900,6,2,2868,buffalo
+Apartment For Sale,646 Elmwood Ave,Buffalo ,NY ,14222,375000,8,3,3178,buffalo
+Apartment For Sale,112 Rodney Ave,Buffalo ,NY ,14214,75000,6,2,2250,buffalo
+House For Sale,56 Hidden Creek Ct,Amherst ,NY ,14221,548300,2,3,2567,buffalo
+Townhouse For Sale,83 Bryant St APT 1A,Buffalo ,NY ,14209,189900,2,1,850,buffalo
+House For Sale,118 Verplanck St,Buffalo ,NY ,14208,44900,4,1,1220,buffalo
+Pre-Foreclosure (Auction),Genesee St,Buffalo ,NY ,14211,,,,,buffalo
+Pre-Foreclosure (Auction),Kelburn St,Buffalo ,NY ,14206,,4,,1122,buffalo
+Pre-Foreclosure (Auction),Rounds Ave,Buffalo ,NY ,14215,,4,2,1932,buffalo
+Pre-Foreclosure (Auction),Lockwood Ave,Buffalo ,NY ,14220,,3,1,1232,buffalo
+Pre-Foreclosure (Auction),Norfolk Ave,Buffalo ,NY ,14215,,4,2,1878,buffalo
+House For Sale,79 Cheltenham Dr,Buffalo ,NY ,14216,149900,3,1,1066,buffalo
+Apartment For Sale,301 North Dr,Buffalo ,NY ,14216,239900,6,2,2716,buffalo
+House For Sale,47 Ashton Pl,Buffalo ,NY ,14220,159900,3,2,1700,buffalo
+House For Sale,29 Donaldson Rd,Buffalo ,NY ,14208,117900,2,2,1121,buffalo
+For Sale by Owner,22 Delham Ave,Buffalo ,NY ,14216,325000,6,4,3239,buffalo
+House For Sale,268 Breckenridge St,Buffalo ,NY ,14213,130000,,,,buffalo
+House For Sale,98 Tillinghast Pl,Buffalo ,NY ,14216,319900,4,2,1568,buffalo
+House For Sale,203 Chester St,Buffalo ,NY ,14208,114900,2,2,960,buffalo
+House For Sale,435 Woodbridge Ave,Buffalo ,NY ,14214,629900,5,4,2560,buffalo
+House For Sale,450 N Division St,Buffalo ,NY ,14204,132900,3,2,1687,buffalo
+Make Me Move®,93 Crescent Ave,Buffalo ,NY ,14214,335000,6,2,3277,buffalo
+Apartment For Sale,76 Lovering Ave,Buffalo ,NY ,14216,249900,6,2,2565,buffalo
+Apartment For Sale,334 Herman St,Buffalo ,NY ,14211,105000,,,,buffalo
+House For Sale,107 Durham Ave,Buffalo ,NY ,14215,74900,4,2,1664,buffalo
+Townhouse For Sale,900 Delaware Ave APT 102,Buffalo ,NY ,14209,334900,2,2,1059,buffalo
+Apartment For Sale,376 Norfolk Ave,Buffalo ,NY ,14215,59000,4,2,1536,buffalo
+For Sale by Owner,216 Keystone St,Buffalo ,NY ,14211,65000,3,2,1380,buffalo
+House For Sale,102 Lang Ave,Buffalo ,NY ,14215,47900,3,1,2002,buffalo
+Pre-Foreclosure (Auction),Marilla St,Buffalo ,NY ,14220,,4,1,1936,buffalo
+Lot/Land For Sale,93 Clarence Ave,Buffalo ,NY ,14215,8000,,,,buffalo
+Lot/Land For Sale,99 Clarence Ave,Buffalo ,NY ,14215,8000,,,,buffalo
+Lot/Land For Sale,117 Clarence Ave,Buffalo ,NY ,14215,8000,,,,buffalo
+Apartment For Sale,44 Lester St,Buffalo ,NY ,14210,69900,5,2,2254,buffalo
+Apartment For Sale,87 Greeley St,Buffalo ,NY ,14207,149900,6,,1915,buffalo
+For Sale by Owner,112 Masten Ave,Buffalo ,NY ,14209,45000,4,1,1223,buffalo
+House For Sale,350 Bristol St,Buffalo ,NY ,14206,55900,3,1,1065,buffalo
+Apartment For Sale,47 Deshler St,Buffalo ,NY ,14212,39900,7,3,4236,buffalo
+House For Sale,124 Harding Rd,Buffalo ,NY ,14220,134900,4,1,1349,buffalo
+House For Sale,242 Southampton St,Buffalo ,NY ,14208,45000,4,1,1135,buffalo
+Pre-Foreclosure,Glor St,Buffalo ,NY ,14207,,3,1,1388,buffalo
+Apartment For Sale,77 Hughes Ave,Buffalo ,NY ,14208,229000,8,2,2612,buffalo
+House For Sale,7 Voorhees Ave,Buffalo ,NY ,14214,389000,3,2,2402,buffalo
+House For Sale,96 North Dr,Buffalo ,NY ,14216,429000,4,3,2605,buffalo
+Condo For Sale,304 Admirals Walk,Buffalo ,NY ,14202,219900,1,1,740,buffalo
+House For Sale,36 Culver Rd,Buffalo ,NY ,14220,115900,3,1,1145,buffalo
+House For Sale,166 Ludington St,Buffalo ,NY ,14206,85000,3,1,1524,buffalo
+Condo For Sale,304 Admirals Walk # 304,Buffalo ,NY ,14202,219900,1,1,740,buffalo
+House For Sale,22 Garfield St,Buffalo ,NY ,14207,154900,5,2,1409,buffalo
+House For Sale,165 Breckenridge St,Buffalo ,NY ,14213,119500,4,2,1876,buffalo
+House For Sale,105 Donaldson Rd,Buffalo ,NY ,14208,225000,4,2,2062,buffalo
+Pre-Foreclosure,Richfield Ave,Buffalo ,NY ,14220,,6,2,3004,buffalo
+House For Sale,436 Baynes St,Buffalo ,NY ,14213,259900,3,2,1732,buffalo
+House For Sale,247 Hazelwood Ave,Buffalo ,NY ,14215,89900,3,1,1620,buffalo
+Apartment For Sale,496 Niagara St,Buffalo ,NY ,14201,395000,,,,buffalo
+House For Sale,102 Massachusetts Ave,Buffalo ,NY ,14213,349000,,,,buffalo
+House For Sale,490 Niagara St,Buffalo ,NY ,14201,299000,,,,buffalo
+Apartment For Sale,47 Weber Ave # 51,Buffalo ,NY ,14215,84900,6,2,2300,buffalo
+House For Sale,1562 S Park Ave,Buffalo ,NY ,14220,79900,2,2,1769,buffalo
+Apartment For Sale,136 N Pearl St,Buffalo ,NY ,14202,499900,,,,buffalo
+House For Sale,78 Saint Marys Rd,Buffalo ,NY ,14211,75000,2,2,864,buffalo
+House For Sale,297 Taunton Pl,Buffalo ,NY ,14216,159900,3,2,1275,buffalo
+House For Sale,239 Herkimer St,Buffalo ,NY ,14213,129900,3,2,1348,buffalo
+Lot/Land For Sale,V/l 44 Cottage St,Buffalo ,NY ,14201,225577,,,,buffalo
+Apartment For Sale,188 Sprenger Ave,Buffalo ,NY ,14211,59900,5,2,2054,buffalo
+Pre-Foreclosure,Eden St,Buffalo ,NY ,14220,,4,2,1083,buffalo
+Auction,130 Kelburn St,Buffalo ,NY ,14206,,4,,1326,buffalo
+Lot/Land For Sale,V/l 42 Cottage St,Buffalo ,NY ,14201,225577,,,,buffalo
+Condo For Sale,356 Lakefront Blvd,Buffalo ,NY ,14202,499900,2,3,1532,buffalo
+Pre-Foreclosure,Hewitt Ave,Buffalo ,NY ,14215,,3,1,1473,buffalo
+Pre-Foreclosure,Manhattan Ave,Buffalo ,NY ,14215,,4,1,1712,buffalo
+House For Sale,219 Stockbridge Ave,Buffalo ,NY ,14215,74900,3,1,1600,buffalo
+Foreclosure,81 Pennsylvania St,Buffalo ,NY ,14201,45000,3,1,1012,buffalo
+House For Sale,21 Fisher St,Buffalo ,NY ,14211,59921,3,1,1331,buffalo
+House For Sale,387 Gold St,Buffalo ,NY ,14206,140000,4,2,1753,buffalo
+House For Sale,391 Marilla St,Buffalo ,NY ,14220,70000,4,1,1770,buffalo
+House For Sale,203 Morris Ave,Buffalo ,NY ,14214,499900,3,5,2941,buffalo
+For Sale by Owner,831 E Ferry St,Buffalo ,NY ,14211,154000,4,2,1400,buffalo
+House For Sale,20 Jones St,Buffalo ,NY ,14206,39900,4,1,1528,buffalo
+House For Sale,282 East St,Buffalo ,NY ,14207,79900,3,2,1458,buffalo
+Pre-Foreclosure,Seneca St,Buffalo ,NY ,14204,,3,1,1028,buffalo
+Pre-Foreclosure,Fordham Dr,Buffalo ,NY ,14216,,4,2,2379,buffalo
+Pre-Foreclosure,Dartmouth Ave,Buffalo ,NY ,14215,,3,,1611,buffalo
+Pre-Foreclosure,Atlantic Ave,Buffalo ,NY ,14222,,4,2,2592,buffalo
+Pre-Foreclosure,Grace St,Buffalo ,NY ,14207,,5,1,1088,buffalo
+House For Sale,964 West Ave,Buffalo ,NY ,14213,104900,4,2,1188,buffalo
+House For Sale,72 Taunton Pl,Buffalo ,NY ,14216,169900,3,1,1412,buffalo
+House For Sale,44 Barton St,Buffalo ,NY ,14213,65000,5,2,1192,buffalo
+House For Sale,481 W Utica St,Buffalo ,NY ,14213,399888,3,4,2056,buffalo
+For Sale by Owner,148 Fordham Dr,Buffalo ,NY ,14216,399000,4,3,2200,buffalo
+House For Sale,262 Grape St,Buffalo ,NY ,14204,115000,3,2,1160,buffalo
+House For Sale,45 Spiess St,Buffalo ,NY ,14211,39900,4,1,1302,buffalo
+Apartment For Sale,39 Barry Pl,Buffalo ,NY ,14213,264500,10,3,3108,buffalo
+Apartment For Sale,521 Cambridge Ave,Buffalo ,NY ,14215,80000,,,,buffalo
+Apartment For Sale,110 Virgil Ave,Buffalo ,NY ,14216,224900,6,2,2741,buffalo
+Pre-Foreclosure (Auction),Kane St,Buffalo ,NY ,14204,,3,1,1048,buffalo
+Pre-Foreclosure (Auction),Admiral Rd,Buffalo ,NY ,14216,,4,1,2300,buffalo
+Pre-Foreclosure (Auction),Weimar St,Buffalo ,NY ,14206,,2,1,1290,buffalo
+Pre-Foreclosure (Auction),Avondale Pl,Buffalo ,NY ,14210,,3,1,1490,buffalo
+Pre-Foreclosure (Auction),Norman Ave,Buffalo ,NY ,14210,,3,1,1592,buffalo
+Pre-Foreclosure (Auction),Brinton St,Buffalo ,NY ,14216,,4,1,1326,buffalo
+Pre-Foreclosure (Auction),Poultney Ave,Buffalo ,NY ,14215,,3,1,1489,buffalo
+Pre-Foreclosure (Auction),Admiral Rd,Buffalo ,NY ,14216,,4,1,2300,buffalo
+Pre-Foreclosure (Auction),Bailey Ave,Buffalo ,NY ,14215,,,,,buffalo
+For Sale by Owner,284 Locust St,Buffalo ,NY ,14204,9599,,,,buffalo
+For Sale by Owner,265 Lakefront Blvd,Buffalo ,NY ,14202,649000,2,3,1700,buffalo
+House For Sale,219 Lakefront Blvd,Buffalo ,NY ,14202,450000,2,3,1700,buffalo
+Apartment For Sale,132 Lakeview Ave,Buffalo ,NY ,14201,8500000,5,,70987,buffalo
+House For Sale,455 Richmond Ave,Buffalo ,NY ,14222,318000,3,2,2414,buffalo
+House For Sale,29 Forman St,Buffalo ,NY ,14211,79900,4,2,1443,buffalo
+Apartment For Sale,222 Gold St,Buffalo ,NY ,14206,54900,3,2,1421,buffalo
+Apartment For Sale,418 Dearborn St,Buffalo ,NY ,14207,69900,5,,2208,buffalo
+Apartment For Sale,187 Jersey St,Buffalo ,NY ,14201,199900,,,,buffalo
+Apartment For Sale,250 Humboldt Pkwy,Buffalo ,NY ,14214,149900,,,,buffalo
+House For Sale,208 Thompson St,Buffalo ,NY ,14207,35000,2,1,1160,buffalo
+For Sale by Owner,118 Jersey St,Buffalo ,NY ,14201,700000,3,1,1976,buffalo
+Apartment For Sale,48 Traymore St,Buffalo ,NY ,14216,249900,6,2,2668,buffalo
+Lot/Land For Sale,522 Dorrance Ave,Buffalo ,NY ,14218,39900,,,,buffalo
+Pre-Foreclosure,Beverly Rd,Buffalo ,NY ,14208,,6,2,2585,buffalo
+Pre-Foreclosure,Eureka Pl,Buffalo ,NY ,14204,,3,,1308,buffalo
+Townhouse For Sale,132 Lakefront Blvd UNIT 501,Buffalo ,NY ,14202,659000,2,2,1844,buffalo
+House For Sale,230 Potomac Ave,Buffalo ,NY ,14213,209900,4,2,1992,buffalo
+House For Sale,93 Thatcher Ave,Buffalo ,NY ,14215,74000,3,2,1524,buffalo
+For Sale by Owner,288 Massachusetts Ave,Buffalo ,NY ,14213,50000,4,2,1750,buffalo
+Pre-Foreclosure (Auction),Weiss St,Buffalo ,NY ,14206,,4,2,1739,buffalo
+Pre-Foreclosure (Auction),Wakefield Ave,Buffalo ,NY ,14214,,6,2,2068,buffalo
+Pre-Foreclosure (Auction),Voorhees Ave,Buffalo ,NY ,14216,,3,,2222,buffalo
+Pre-Foreclosure,17th St,Buffalo ,NY ,14213,,4,2,1602,buffalo
+Pre-Foreclosure (Auction),Holmes St,Buffalo ,NY ,14207,,6,2,2304,buffalo
+Pre-Foreclosure (Auction),Huntington Ave,Buffalo ,NY ,14214,,4,1,2194,buffalo
+Pre-Foreclosure (Auction),Parker Ave,Buffalo ,NY ,14214,,4,,2201,buffalo
+Pre-Foreclosure (Auction),Harlow Pl,Buffalo ,NY ,14208,,2,,1040,buffalo
+Pre-Foreclosure (Auction),Best St,Buffalo ,NY ,14204,,6,2,2779,buffalo
+Pre-Foreclosure (Auction),Main St,Buffalo ,NY ,14214,,4,2,2896,buffalo
+Pre-Foreclosure (Auction),Century Rd,Cheektowaga ,NY ,14215,,3,,1546,buffalo
+Pre-Foreclosure (Auction),Weimar St,Buffalo ,NY ,14206,,3,1,1206,buffalo
+Pre-Foreclosure (Auction),French St,Buffalo ,NY ,14211,,6,2,2574,buffalo
+Pre-Foreclosure (Auction),Ontario St,Buffalo ,NY ,14207,,3,1,985,buffalo
+Pre-Foreclosure (Auction),Highgate Ave,Buffalo ,NY ,14215,,4,1,1626,buffalo
+Apartment For Sale,36 Guernsey St,Buffalo ,NY ,14207,109900,5,2,2048,buffalo
+Apartment For Sale,179 Butler Ave,Buffalo ,NY ,14208,85000,6,,2809,buffalo
+House For Sale,46 Treehaven Rd,Buffalo ,NY ,14215,129900,2,1,996,buffalo
+House For Sale,77 Pries Ave,Buffalo ,NY ,14220,64900,2,1,1252,buffalo
+Apartment For Sale,165 Colvin Ave,Buffalo ,NY ,14216,279900,6,2,2754,buffalo
+House For Sale,236 Villa Ave,Buffalo ,NY ,14216,164900,3,2,1408,buffalo
+Pre-Foreclosure,Brunswick Blvd,Buffalo ,NY ,14208,,6,2,2601,buffalo
+Foreclosed,165 Stevenson St,Buffalo ,NY ,14210,,,,,buffalo
+Foreclosed,251 Merrimac St,Buffalo ,NY ,14214,,,,,buffalo
+House For Sale,144 Northampton St,Buffalo ,NY ,14209,49900,3,2,1801,buffalo
+For Sale by Owner,475 Linwood Ave,Buffalo ,NY ,14209,390000,4,2,8982,buffalo
+For Sale by Owner,135 Newburgh Ave,Buffalo ,NY ,14211,70000,4,2,1512,buffalo
+Apartment For Sale,75 Deshler St,Buffalo ,NY ,14212,58000,6,2,1528,buffalo
+House For Sale,38 Frontenac Ave,Buffalo ,NY ,14216,249900,3,2,1623,buffalo
+House For Sale,60 Summit Ave,Buffalo ,NY ,14214,259900,4,2,1700,buffalo
+House For Sale,64 Radcliffe Rd,Buffalo ,NY ,14214,179900,3,2,1937,buffalo
+Apartment For Sale,120 West Ave,Buffalo ,NY ,14201,224900,6,2,2340,buffalo
+House For Sale,97 Texas St,Buffalo ,NY ,14215,54900,4,1,1008,buffalo
+Apartment For Sale,157 Goembel Ave,Buffalo ,NY ,14211,50000,5,2,1350,buffalo
+House For Sale,179 Columbus Ave,Buffalo ,NY ,14220,129900,3,1,1664,buffalo
+House For Sale,241 Monroe St,Buffalo ,NY ,14206,109000,3,5,1204,buffalo
+House For Sale,59 Aldrich Pl,Buffalo ,NY ,14220,85000,3,1,1280,buffalo
+Pre-Foreclosure,Morris Ave,Buffalo ,NY ,14214,,6,3,2708,buffalo
+Apartment For Sale,337 Lasalle Ave,Buffalo ,NY ,14215,124900,3,2,1796,buffalo
+House For Sale,37 Middlesex Rd,Buffalo ,NY ,14216,1590000,7,7,6923,buffalo
+Apartment For Sale,188 Fougeron St,Buffalo ,NY ,14211,70000,5,2,1786,buffalo
+Pre-Foreclosure,Cumberland Ave,Buffalo ,NY ,14220,,4,2,2231,buffalo
+House For Sale,36 Robins St,Buffalo ,NY ,14220,130000,3,1,1478,buffalo
+Condo For Sale,125 Edward St APT 2E,Buffalo ,NY ,14201,179900,1,1,976,buffalo
+Apartment For Sale,52 Newburgh Ave,Buffalo ,NY ,14211,65000,4,2,1902,buffalo
+For Sale by Owner,15 Rugby Rd,Buffalo ,NY ,14216,319000,6,2,2876,buffalo
+Apartment For Sale,72 Central Ave,Buffalo ,NY ,14206,79900,6,2,2112,buffalo
+Apartment For Sale,172 Albany St,Buffalo ,NY ,14213,199000,9,3,3308,buffalo
+Apartment For Sale,170 Selkirk St,Buffalo ,NY ,14210,100000,7,3,2029,buffalo
+Apartment For Sale,127 Fougeron St,Buffalo ,NY ,14211,70000,3,2,1682,buffalo
+Pre-Foreclosure,Sumner Pl,Buffalo ,NY ,14211,,3,1,1496,buffalo
+Apartment For Sale,267 Laurel St,Buffalo ,NY ,14208,64900,5,2,1848,buffalo
+House For Sale,349 Auburn Ave,Buffalo ,NY ,14213,219900,4,2,1796,buffalo
+Apartment For Sale,221 Sprenger Ave,Buffalo ,NY ,14211,74900,6,2,1968,buffalo
+House For Sale,674 Mckinley Pkwy,Buffalo ,NY ,14220,179900,5,2,2410,buffalo
+House For Sale,387 Huntington Ave,Buffalo ,NY ,14214,499000,5,4,2638,buffalo
+Apartment For Sale,93 Wyoming Ave,Buffalo ,NY ,14215,65000,4,2,1408,buffalo
+House For Sale,28 Townsend St,Buffalo ,NY ,14206,43000,3,1,1028,buffalo
+House For Sale,182 Colvin Ave,Buffalo ,NY ,14216,479900,,,,buffalo
+House For Sale,31 University Ave,Buffalo ,NY ,14214,399900,4,4,2391,buffalo
+Apartment For Sale,488 Cambridge Ave,Buffalo ,NY ,14215,43000,3,2,1419,buffalo
+House For Sale,92 Royal Ave,Buffalo ,NY ,14207,44900,3,1,1212,buffalo
+Townhouse For Sale,345 Lakefront Blvd,Buffalo ,NY ,14202,339900,2,3,1532,buffalo
+Foreclosure,84 Pierce St,Buffalo ,NY ,14206,99900,4,2,1581,buffalo
+House For Sale,16 Arkansas St,Buffalo ,NY ,14213,114900,3,2,1398,buffalo
+House For Sale,144 Freund St,Buffalo ,NY ,14215,54900,3,1,1014,buffalo
+House For Sale,210 Thompson St,Buffalo ,NY ,14207,45900,3,1,1200,buffalo
+Apartment For Sale,223 Wood Ave,Buffalo ,NY ,14211,65000,6,2,2024,buffalo
+Apartment For Sale,410 Cornwall Ave,Buffalo ,NY ,14215,74900,6,2,2280,buffalo
+Apartment For Sale,30 Peace St,Buffalo ,NY ,14211,74900,5,2,2156,buffalo
+Pre-Foreclosure (Auction),Central Ave,Buffalo ,NY ,14206,,6,2,2898,buffalo
+Pre-Foreclosure,Benzinger St,Buffalo ,NY ,14206,,4,2,1728,buffalo
+Pre-Foreclosure (Auction),Kensington Ave,Buffalo ,NY ,14215,,2,1,1044,buffalo
+Pre-Foreclosure (Auction),Moselle St,Buffalo ,NY ,14215,,3,1,1170,buffalo
+Pre-Foreclosure (Auction),Moreland St,Buffalo ,NY ,14206,,3,,1286,buffalo
+House For Sale,355 Parkdale Ave,Buffalo ,NY ,14213,169000,3,1,1203,buffalo
+House For Sale,15 Dempster St,Buffalo ,NY ,14206,74900,3,1,1147,buffalo
+Apartment For Sale,255 Dewey Ave,Buffalo ,NY ,14214,57000,6,2,2070,buffalo
+House For Sale,20 Amber St,Buffalo ,NY ,14220,79900,3,1,1069,buffalo
+Foreclosed,439 Shirley Ave,Buffalo ,NY ,14215,,,,,buffalo
+Condo For Sale,176 Chapin Pkwy APT 20,Buffalo ,NY ,14209,239900,2,1,1264,buffalo
+House For Sale,110 E Ferry St,Buffalo ,NY ,14209,30000,4,2,1480,buffalo
+House For Sale,366 Lincoln Pkwy,Buffalo ,NY ,14216,524900,4,4,3867,buffalo
+Apartment For Sale,560 Spring St,Buffalo ,NY ,14204,50000,4,2,2200,buffalo
+House For Sale,47 Van Gorder St,Buffalo ,NY ,14214,49000,3,2,1012,buffalo
+Pre-Foreclosure (Auction),Grote St,Buffalo ,NY ,14207,,4,2,1227,buffalo
+Pre-Foreclosure (Auction),Zittel St,Buffalo ,NY ,14210,,2,1,832,buffalo
+Pre-Foreclosure,Auburn Ave,Buffalo ,NY ,14222,,4,,1776,buffalo
+Pre-Foreclosure (Auction),Villa Ave,Buffalo ,NY ,14216,,3,1,1908,buffalo
+Pre-Foreclosure (Auction),Zelmer St,Buffalo ,NY ,14211,,4,1,1000,buffalo
+Pre-Foreclosure (Auction),Howard St,Buffalo ,NY ,14206,,3,1,960,buffalo
+Pre-Foreclosure (Auction),Cambridge Ave,Buffalo ,NY ,14215,,3,1,1186,buffalo
+Pre-Foreclosure (Auction),Lafayette Ave,Buffalo ,NY ,14222,,6,4,4266,buffalo
+House For Sale,83 Olcott Ave,Buffalo ,NY ,14220,149900,4,2,1138,buffalo
+Apartment For Sale,211 Waverly St,Buffalo ,NY ,14208,70000,4,2,2302,buffalo
+Apartment For Sale,41 Heward Ave,Buffalo ,NY ,14207,20000,,,,buffalo
+Apartment For Sale,11 Granger Pl,Buffalo ,NY ,14222,479000,4,4,3551,buffalo
+For Sale by Owner,84 Carlyle Ave,Buffalo ,NY ,14220,149900,2,1,948,buffalo
+Apartment For Sale,585 Lafayette Ave,Buffalo ,NY ,14222,649000,,,,buffalo
+Pre-Foreclosure,Highgate Ave,Buffalo ,NY ,14214,,3,,2273,buffalo
+House For Sale,102 Potomac Ave,Buffalo ,NY ,14213,124900,4,2,1314,buffalo
+House For Sale,21 Kofler Ave,Buffalo ,NY ,14207,45000,3,1,1221,buffalo
+House For Sale,90 Ideal St,Buffalo ,NY ,14206,119900,5,2,1824,buffalo
+House For Sale,70 Hempstead Ave,Buffalo ,NY ,14215,74900,3,1,1168,buffalo
+House For Sale,64 Hempstead Ave,Buffalo ,NY ,14215,74900,3,1,1168,buffalo
+For Sale by Owner,242 Maryland St,Buffalo ,NY ,14201,65000,4,2,1868,buffalo
+House For Sale,35 Pries Ave,Buffalo ,NY ,14220,129500,3,2,1656,buffalo
+House For Sale,224 Normal Ave,Buffalo ,NY ,14213,89000,,,,buffalo
+Pre-Foreclosure,Porter Ave,Buffalo ,NY ,14201,,6,2,4661,buffalo
+Pre-Foreclosure,Carlyle Ave,Buffalo ,NY ,14220,,4,2,2202,buffalo
+Lot/Land For Sale,26 Minton St,Buffalo ,NY ,14210,9000,,,,buffalo
+House For Sale,706 Auburn Ave,Buffalo ,NY ,14222,419000,4,3,2106,buffalo
+Apartment For Sale,898 E Delavan Ave,Buffalo ,NY ,14215,26000,6,,2405,buffalo
+House For Sale,102 Turner Ave,Buffalo ,NY ,14220,149000,3,2,1485,buffalo
+House For Sale,2234 Main St,Buffalo ,NY ,14214,265000,5,3,2241,buffalo
+House For Sale,103 Clay St,Buffalo ,NY ,14207,45000,3,1,924,buffalo
+Apartment For Sale,264 Whitney Pl,Buffalo ,NY ,14201,264900,6,4,2748,buffalo
+House For Sale,476 Winslow Ave,Buffalo ,NY ,14211,40000,3,1,1390,buffalo
+Townhouse For Sale,217 Pine St,Buffalo ,NY ,14204,114900,3,2,1540,buffalo
+Apartment For Sale,47 Krettner St,Buffalo ,NY ,14206,70000,7,2,2758,buffalo
+Apartment For Sale,49 California St,Buffalo ,NY ,14213,59900,3,2,1610,buffalo
+Apartment For Sale,272 Parkdale Ave,Buffalo ,NY ,14213,84900,7,2,2318,buffalo
+House For Sale,100 Pacific St,Buffalo ,NY ,14207,39900,3,1,1286,buffalo
+House For Sale,263 Parkdale Ave,Buffalo ,NY ,14213,64900,5,2,1964,buffalo
+House For Sale,256 Whitney Pl,Buffalo ,NY ,14201,119900,4,1,1168,buffalo
+House For Sale,500 E Utica St,Buffalo ,NY ,14208,74900,5,3,1523,buffalo
+Apartment For Sale,83 Kimberly Ave,Buffalo ,NY ,14220,159900,4,2,1633,buffalo
+Apartment For Sale,19 Gibson St,Buffalo ,NY ,14206,68000,,,,buffalo
+House For Sale,86 Juniata Pl,Buffalo ,NY ,14210,74900,3,1,960,buffalo
+Pre-Foreclosure,Saint Lawrence Ave,Buffalo ,NY ,14216,,3,1,1152,buffalo
+For Sale by Owner,519 Winspear Ave,Buffalo ,NY ,14215,98000,5,2,1646,buffalo
+House For Sale,360 Ashland Ave,Buffalo ,NY ,14222,264500,4,2,2512,buffalo
+Apartment For Sale,79 Wex Ave,Buffalo ,NY ,14211,44900,4,2,1356,buffalo
+House For Sale,532 Norwood Ave,Buffalo ,NY ,14222,319900,3,1,2032,buffalo
+House For Sale,222 Cable St,Buffalo ,NY ,14206,149900,4,2,2366,buffalo
+House For Sale,67 Chadduck Ave,Buffalo ,NY ,14207,89900,4,1,1216,buffalo
+House For Sale,104 Fordham Dr,Buffalo ,NY ,14216,299900,4,3,2004,buffalo
+Pre-Foreclosure,West Ave,Buffalo ,NY ,14213,,4,2,1926,buffalo
+Pre-Foreclosure,Pomona Pl,Buffalo ,NY ,14210,,4,,2143,buffalo
+Pre-Foreclosure (Auction),Dunlop Ave,Buffalo ,NY ,14215,,3,1,1006,buffalo
+Apartment For Sale,540 Willett St,Buffalo ,NY ,14206,79900,6,2,2658,buffalo
+Apartment For Sale,804 S Park Ave,Buffalo ,NY ,14210,70000,6,2,2194,buffalo
+House For Sale,25 Colton Dr,Buffalo ,NY ,14216,199900,3,2,1833,buffalo
+Apartment For Sale,499 Crescent Ave,Buffalo ,NY ,14214,279900,6,2,2602,buffalo
+Pre-Foreclosure (Auction),Herkimer St,Buffalo ,NY ,14213,,4,2,1566,buffalo
+House For Sale,277 Barnard St,Buffalo ,NY ,14206,45900,4,1,1600,buffalo
+House For Sale,8 Union Pl,Buffalo ,NY ,14213,224900,4,2,1432,buffalo
+Pre-Foreclosure,Burke Dr,Buffalo ,NY ,14215,,3,,1612,buffalo
+Apartment For Sale,61 W Delavan Ave,Buffalo ,NY ,14213,169900,6,2,2471,buffalo
+Apartment For Sale,76 Montrose Ave,Buffalo ,NY ,14214,165000,4,2,1531,buffalo
+Apartment For Sale,92 Hastings Ave,Buffalo ,NY ,14215,65000,4,2,1358,buffalo
+House For Sale,449 Benzinger St,Buffalo ,NY ,14206,69900,4,1,1897,buffalo
+Pre-Foreclosure,Adams St,Buffalo ,NY ,14206,,6,2,2700,buffalo
+Pre-Foreclosure,Harriet Ave,Buffalo ,NY ,14215,,2,1,1375,buffalo
+Pre-Foreclosure,Peter St,Buffalo ,NY ,14207,,4,2,1873,buffalo
+House For Sale,403 Hampshire St,Buffalo ,NY ,14213,129000,,,,buffalo
+House For Sale,60 Schuele Ave,Buffalo ,NY ,14215,65000,3,1,1378,buffalo
+House For Sale,16 Fisher St,Buffalo ,NY ,14211,51900,3,1,1113,buffalo
+House For Sale,65 Saint Joseph Ave,Buffalo ,NY ,14211,20000,3,1,1148,buffalo
+Condo For Sale,40 Waterfront Cir # 306,Buffalo ,NY ,14202,299999,1,1,1110,buffalo
+Pre-Foreclosure,Auburn Ave,Buffalo ,NY ,14213,,6,2,2316,buffalo
+House For Sale,72 Oakland Pl,Buffalo ,NY ,14222,930000,3,5,2360,buffalo
+Apartment For Sale,90 Virgil Ave,Buffalo ,NY ,14216,249900,6,2,2616,buffalo
+Apartment For Sale,14 Pembina St,Buffalo ,NY ,14220,159999,,,,buffalo
+For Sale by Owner,235 Courtland Ave,Buffalo ,NY ,14215,59900,4,1,1354,buffalo
+House For Sale,786 Auburn Ave,Buffalo ,NY ,14222,419000,4,3,2144,buffalo
+Pre-Foreclosure (Auction),Phyllis Ave,Buffalo ,NY ,14215,,4,1,1328,buffalo
+Pre-Foreclosure (Auction),Crescent Ave,Buffalo ,NY ,14214,,6,2,4202,buffalo
+Pre-Foreclosure (Auction),Huntington Ave,Buffalo ,NY ,14214,,4,2,2236,buffalo
+Pre-Foreclosure (Auction),Brunswick Blvd,Buffalo ,NY ,14208,,6,2,3121,buffalo
+Pre-Foreclosure (Auction),Abbott Rd,Buffalo ,NY ,14220,,,,,buffalo
+Pre-Foreclosure (Auction),Wellington Rd,Buffalo ,NY ,14216,,4,2,1266,buffalo
+Pre-Foreclosure (Auction),Dartmouth Ave,Buffalo ,NY ,14215,,3,1,876,buffalo
+For Sale by Owner,237 Hutchinson Ave,Buffalo ,NY ,14215,128000,5,4,1836,buffalo
+For Sale by Owner,297 Lakefront Blvd,Buffalo ,NY ,14202,389000,2,3,1700,buffalo
+House For Sale,486 E Ferry St,Buffalo ,NY ,14208,89900,,,,buffalo
+Apartment For Sale,23 Archer Ave,Buffalo ,NY ,14210,84900,6,2,1840,buffalo
+Pre-Foreclosure,Susan Ln,Buffalo ,NY ,14220,,3,1,1274,buffalo
+Pre-Foreclosure,Hartwell Rd,Buffalo ,NY ,14216,,4,1,1323,buffalo
+Apartment For Sale,25 Shields Ave,Buffalo ,NY ,14213,99900,5,2,1610,buffalo
+House For Sale,10 Starin Ave,Buffalo ,NY ,14214,499000,2,2,1645,buffalo
+Apartment For Sale,142 Kilhoffer St,Buffalo ,NY ,14211,59900,6,2,1806,buffalo
+House For Sale,223 Normal Ave,Buffalo ,NY ,14213,149000,4,2,1932,buffalo
+For Sale by Owner,45 Bennett Village Ter,Buffalo ,NY ,14214,55000,3,1,1008,buffalo
+House For Sale,235 Wallace Ave,Buffalo ,NY ,14216,204900,4,2,2039,buffalo
+Apartment For Sale,295 Bryant St,Buffalo ,NY ,14222,449900,9,,4095,buffalo
+House For Sale,3 Saybrook Pl,Buffalo ,NY ,14209,369900,3,3,2618,buffalo
+Pre-Foreclosure,Kensington Ave,Buffalo ,NY ,14214,,6,2,2760,buffalo
+For Sale by Owner,111 Baitz Ave,Buffalo ,NY ,14206,155000,7,3,3024,buffalo
+House For Sale,186 Middlesex Rd,Buffalo ,NY ,14216,1699900,4,5,5600,buffalo
+Apartment For Sale,23 Wilbury Pl,Buffalo ,NY ,14216,239900,6,2,2448,buffalo
+Pre-Foreclosure (Auction),Humboldt Pkwy,Buffalo ,NY ,14208,,5,,2332,buffalo
+Pre-Foreclosure,Willett St,Buffalo ,NY ,14206,,4,1,1698,buffalo
+Pre-Foreclosure (Auction),Roseville St,Buffalo ,NY ,14210,,3,1,1067,buffalo
+For Sale by Owner,207 Vermont St,Buffalo ,NY ,14213,35000,,,,buffalo
+For Sale by Owner,121 Newfield St,Buffalo ,NY ,14207,75000,4,1,1200,buffalo
+Apartment For Sale,46 Glendale Pl,Buffalo ,NY ,14208,995900,,,,buffalo
+House For Sale,25 Fordham Dr,Buffalo ,NY ,14216,319900,4,2,2379,buffalo
+House For Sale,53 Hartman Pl,Buffalo ,NY ,14207,74900,3,1,1092,buffalo
+Apartment For Sale,25 Meriden St,Buffalo ,NY ,14220,158900,6,2,2448,buffalo
+House For Sale,42 Days Park,Buffalo ,NY ,14201,299900,3,2,1992,buffalo
+House For Sale,528 Marilla St,Buffalo ,NY ,14220,99900,3,2,1344,buffalo
+For Sale by Owner,178 Freund St,Buffalo ,NY ,14215,85000,6,2,1848,buffalo
+Apartment For Sale,48 Oxford Ave,Buffalo ,NY ,14209,199900,5,3,3362,buffalo
+Apartment For Sale,324 Watson St,Buffalo ,NY ,14212,89900,9,3,3082,buffalo
+House For Sale,15 Tennyson Ave,Buffalo ,NY ,14216,239900,3,1,2320,buffalo
+House For Sale,99 Chauncey St,Buffalo ,NY ,14206,64900,4,2,1596,buffalo
+House For Sale,43 Ashton Pl,Buffalo ,NY ,14220,72900,4,2,1487,buffalo
+Pre-Foreclosure (Auction),Dartmouth Ave,Buffalo ,NY ,14215,,3,2,1521,buffalo
+Pre-Foreclosure,Meriden St,Buffalo ,NY ,14220,,6,1,2100,buffalo
+Townhouse For Sale,309 North St APT 24,Buffalo ,NY ,14201,157900,1,1,960,buffalo
+House For Sale,96 Middlesex Rd,Buffalo ,NY ,14216,699000,4,5,3055,buffalo
+Apartment For Sale,305 15th St,Buffalo ,NY ,14213,229900,11,4,4218,buffalo
+House For Sale,50 Roosevelt Ave,Buffalo ,NY ,14215,75000,3,2,1606,buffalo
+House For Sale,120 Gatchell St,Buffalo ,NY ,14212,30000,4,1,1076,buffalo
+New Construction,121 School St,Buffalo ,NY ,14213,229500,3,3,1654,buffalo
+Apartment For Sale,66 Pomona Pl,Buffalo ,NY ,14210,104900,6,2,2600,buffalo
+House For Sale,85 Gorton St,Buffalo ,NY ,14207,69900,3,1,1150,buffalo
+House For Sale,1199 Elmwood Ave,Buffalo ,NY ,14222,265000,4,2,1878,buffalo
+Apartment For Sale,481 Highgate Ave,Buffalo ,NY ,14215,89000,4,2,1712,buffalo
+Apartment For Sale,546 Winspear Ave,Buffalo ,NY ,14215,89000,3,2,1880,buffalo
+Pre-Foreclosure (Auction),Delaware Ave,Buffalo ,NY ,14216,,,,,buffalo
+Pre-Foreclosure,Sage Ave,Buffalo ,NY ,14210,,3,2,2102,buffalo
+Pre-Foreclosure,Auburn Ave,Buffalo ,NY ,14213,,6,2,2342,buffalo
+Pre-Foreclosure (Auction),Ashton Pl,Buffalo ,NY ,14220,,3,1,1320,buffalo
+Pre-Foreclosure (Auction),Skillen St,Buffalo ,NY ,14207,,4,2,1417,buffalo
+Pre-Foreclosure,Auburn Ave,Buffalo ,NY ,14213,,6,2,2342,buffalo
+Pre-Foreclosure (Auction),Ashton Pl,Buffalo ,NY ,14220,,3,1,1320,buffalo
+House For Sale,63 Hallam Rd,Buffalo ,NY ,14216,845000,4,4,2769,buffalo
+Apartment For Sale,36 Swinburne St,Buffalo ,NY ,14212,39900,5,2,1728,buffalo
+Pre-Foreclosure,Thomas St,Buffalo ,NY ,14206,,1,1,1000,buffalo
+House For Sale,121 Norwood Ave,Buffalo ,NY ,14222,279900,4,2,2098,buffalo
+Foreclosed,63 Ashley St,Buffalo ,NY ,14212,,,,,buffalo
+Pre-Foreclosure,Davidson Ave,Buffalo ,NY ,14215,,2,1,908,buffalo
+Pre-Foreclosure (Auction),Walden Ave,Buffalo ,NY ,14211,,3,2,1758,buffalo
+Apartment For Sale,579 E Delavan Ave,Buffalo ,NY ,14211,129000,8,4,4800,buffalo
+Apartment For Sale,110 Playter St,Buffalo ,NY ,14212,28000,6,3,2156,buffalo
+House For Sale,27 Ada Pl,Buffalo ,NY ,14208,84900,3,1,1148,buffalo
+House For Sale,502 Linden Ave,Buffalo ,NY ,14216,218000,4,3,1856,buffalo
+Apartment For Sale,29 Duerstein St,Buffalo ,NY ,14210,69900,6,2,2523,buffalo
+House For Sale,73 Barnard St,Buffalo ,NY ,14206,67500,5,1,1731,buffalo
+Lot/Land For Sale,65 Reiman St,Buffalo ,NY ,14206,12900,,,,buffalo
+House For Sale,198 Hoyt St,Buffalo ,NY ,14213,329900,3,2,1863,buffalo
+Pre-Foreclosure (Auction),Kamper Ave,Buffalo ,NY ,14210,,6,2,2244,buffalo
+Pre-Foreclosure (Auction),Bidwell Pkwy,Buffalo ,NY ,14222,,5,6,6060,buffalo
+Pre-Foreclosure (Auction),Sprenger Ave,Buffalo ,NY ,14211,,3,1,897,buffalo
+Pre-Foreclosure (Auction),Sattler Ave,Buffalo ,NY ,14211,,5,2,2008,buffalo
+Pre-Foreclosure (Auction),Weston Ave,Buffalo ,NY ,14215,,3,1,1248,buffalo
+Pre-Foreclosure (Auction),Weston Ave,Buffalo ,NY ,14215,,,,,buffalo
+For Sale by Owner,258 7th St,Buffalo ,NY ,14201,145000,6,3,2488,buffalo
+House For Sale,9 Hidden Creek Ct,Amherst ,NY ,14221,445000,3,3,2443,buffalo
+Apartment For Sale,251 Maryland St,Buffalo ,NY ,14201,225000,10,4,4738,buffalo
+Apartment For Sale,284 E Delavan Ave,Buffalo ,NY ,14208,99900,6,2,2286,buffalo
+For Sale by Owner,20 Remoleno St,Buffalo ,NY ,14220,92500,6,2,2454,buffalo
+Auction,15 Evelyn St,Buffalo ,NY ,14207,,6,,,buffalo
+Pre-Foreclosure,Shirley Ave,Buffalo ,NY ,14215,,3,1,1140,buffalo
+Pre-Foreclosure,Culver Rd,Buffalo ,NY ,14220,,3,,1784,buffalo
+Pre-Foreclosure,Massachusetts Ave,Buffalo ,NY ,14213,,5,3,3200,buffalo
+Pre-Foreclosure,Sheridan Ave,Buffalo ,NY ,14211,,2,1,1100,buffalo
+Pre-Foreclosure,Northumberland Ave,Buffalo ,NY ,14215,,3,1,1080,buffalo
+House For Sale,1043 Smith St,Buffalo ,NY ,14212,46000,4,1,772,buffalo
+For Sale by Owner,38 Alma Ave,Buffalo ,NY ,14215,6000,,,,buffalo
+House For Sale,38 Frankfort Ave,Buffalo ,NY ,14211,40000,4,1,990,buffalo
+Pre-Foreclosure,Hazel Pl,Buffalo ,NY ,14211,,4,,1680,buffalo
+Pre-Foreclosure,Plymouth Ave,Buffalo ,NY ,14213,,3,1,1104,buffalo
+Pre-Foreclosure,Hopkins St,Buffalo ,NY ,14220,,4,1,1687,buffalo
+For Sale by Owner,127 Humber Ave,Buffalo ,NY ,14215,77900,6,2,2696,buffalo
+Apartment For Sale,220 Loring Ave,Buffalo ,NY ,14214,85000,7,2,2978,buffalo
+Townhouse For Sale,309 North St APT 11,Buffalo ,NY ,14201,149900,2,1,960,buffalo
+Condo For Sale,600 Main St UNIT 802,Buffalo ,NY ,14202,319000,2,2,1286,buffalo
+Pre-Foreclosure,Timon St,Buffalo ,NY ,14208,,5,2,2404,buffalo
+Pre-Foreclosure,Riverside Ave,Buffalo ,NY ,14207,,3,1,1107,buffalo
+Townhouse For Sale,751 W Ferry St APT 2F,Buffalo ,NY ,14222,181900,1,1,800,buffalo
+Lot/Land For Sale,1818 Clinton St,Buffalo ,NY ,14206,19900,,,,buffalo
+Foreclosure,36 Herkimer St,Buffalo ,NY ,14213,45500,5,2,2004,buffalo

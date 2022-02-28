@@ -1,0 +1,453 @@
+title,address,city,state,zip_code,price,beds,baths,area,region
+House For Sale,4187 Cheryl Dr,Binghamton ,NY ,13903,132900,3,1,1170,binghamton
+Lot/Land For Sale,50 Hotchkiss St,Binghamton ,NY ,13903,25000,,,,binghamton
+For Sale by Owner,201 Murray St,Binghamton ,NY ,13905,65000,6,2,2248,binghamton
+House For Sale,79 Mary St,Binghamton ,NY ,13903,64900,3,1,1152,binghamton
+Apartment For Sale,157 Hawley St,Binghamton ,NY ,13901,34900,,,,binghamton
+House For Sale,32 Highland Ave,Binghamton ,NY ,13905,119900,4,2,1908,binghamton
+House For Sale,54 Lincoln Ave,Binghamton ,NY ,13905,139000,3,2,1778,binghamton
+House For Sale,121 Schubert St,Binghamton ,NY ,13905,140000,4,2,2340,binghamton
+House For Sale,69 Highland Ave,Binghamton ,NY ,13905,65000,3,2,16088,binghamton
+House For Sale,244 Bevier St,Binghamton ,NY ,13904,117000,2,2,1033,binghamton
+Apartment For Sale,18 Morgan St,Binghamton ,NY ,13901,37500,,,,binghamton
+House For Sale,42 Spring Forest Ave,Binghamton ,NY ,13905,44516,3,10,1386,binghamton
+Foreclosure,10 Bellevue Ave,Binghamton ,NY ,13905,142500,,,,binghamton
+Apartment For Sale,61 Lake Ave,Binghamton ,NY ,13905,72500,,,,binghamton
+House For Sale,87 Tompkins St,Binghamton ,NY ,13903,60000,2,1,1407,binghamton
+Auction,20 Bigelow St,Binghamton ,NY ,13904,,3,1,1624,binghamton
+House For Sale,6 Schiller St,Binghamton ,NY ,13905,114900,4,2,1560,binghamton
+House For Sale,166 Broad Ave,Binghamton ,NY ,13904,69900,3,1,1043,binghamton
+House For Sale,4163 Brady Hill Rd,Binghamton ,NY ,13903,179000,3,2,1402,binghamton
+Auction,5 Carhart Ave,Binghamton ,NY ,13905,,3,2,1732,binghamton
+House For Sale,133 Seminary Ave,Binghamton ,NY ,13905,124900,4,2,1690,binghamton
+House For Sale,16 Bennett Ave,Binghamton ,NY ,13905,149900,3,2,1480,binghamton
+Auction,57 Bevier St,Binghamton ,NY ,13901,,3,2,2610,binghamton
+House For Sale,4 Gordon Pl,Binghamton ,NY ,13905,89900,3,2,1512,binghamton
+For Sale by Owner,10 Foland Rd,Binghamton ,NY ,13903,725000,5,5,5600,binghamton
+House For Sale,2 Spurr Ave,Binghamton ,NY ,13903,130000,4,2,2017,binghamton
+House For Sale,85 Kneeland Ave,Binghamton ,NY ,13905,107085,3,2,1422,binghamton
+House For Sale,206 Old Pennsylvania Ave,Binghamton ,NY ,13903,145000,3,2,1902,binghamton
+House For Sale,8 Gold St,Binghamton ,NY ,13904,45000,3,1,1627,binghamton
+Lot/Land For Sale,94 Felters Rd,Binghamton ,NY ,13903,98500,,,,binghamton
+House For Sale,38 Oakridge Dr,Binghamton ,NY ,13903,169900,4,3,2421,binghamton
+House For Sale,209 E Frederick St,Binghamton ,NY ,13904,89900,4,1,1702,binghamton
+House For Sale,102 Chapin St,Binghamton ,NY ,13905,85000,5,2,1218,binghamton
+House For Sale,16 Linda Dr,Binghamton ,NY ,13905,119900,3,3,2302,binghamton
+Apartment For Sale,16 Parsons St,Binghamton ,NY ,13903,69900,,,,binghamton
+House For Sale,12 Duane Ave,Binghamton ,NY ,13903,84200,4,2,1554,binghamton
+House For Sale,155 Mary St,Binghamton ,NY ,13903,49400,3,1,1280,binghamton
+House For Sale,6 Sherwood Ave,Binghamton ,NY ,13903,120000,2,2,1126,binghamton
+House For Sale,76 Kneeland Ave,Binghamton ,NY ,13905,169900,4,2,1944,binghamton
+Pre-Foreclosure (Auction),E Frederick St,Binghamton ,NY ,13904,,6,,2280,binghamton
+House For Sale,97 Burr Ave,Binghamton ,NY ,13903,139000,4,2,3168,binghamton
+House For Sale,52 Bigelow St,Binghamton ,NY ,13904,79900,3,2,1800,binghamton
+House For Sale,69 Kendall Ave,Binghamton ,NY ,13903,123900,4,1,1141,binghamton
+House For Sale,28 Brookfield Rd,Binghamton ,NY ,13903,179900,3,2,1883,binghamton
+Lot/Land For Sale,1997 Kimball St,Binghamton ,NY ,13903,7400,,,,binghamton
+House For Sale,111 Beethoven St,Binghamton ,NY ,13905,125000,5,2,2016,binghamton
+House For Sale,55 Morgan Rd,Binghamton ,NY ,13903,72500,2,1,700,binghamton
+House For Sale,155 E Frederick St,Binghamton ,NY ,13904,134000,6,2,2560,binghamton
+House For Sale,154 Crary Ave,Binghamton ,NY ,13905,139900,4,2,1248,binghamton
+House For Sale,25 High St,Binghamton ,NY ,13903,57500,3,2,1352,binghamton
+House For Sale,25 High St,Binghamton ,NY ,13903,57500,3,2,1352,binghamton
+House For Sale,87 89 91 Decatur St,Binghamton ,NY ,13903,76000,3,1,1160,binghamton
+Auction,88 Merrill St,Binghamton ,NY ,13905,,5,2,1872,binghamton
+Pre-Foreclosure (Auction),Conklin Ave,Binghamton ,NY ,13903,,2,1,850,binghamton
+Pre-Foreclosure (Auction),Crestmont Rd,Binghamton ,NY ,13905,,2,1,916,binghamton
+Apartment For Sale,2 Linden St,Binghamton ,NY ,13901,89900,,,,binghamton
+For Sale by Owner,1279 Vestal Ave,Binghamton ,NY ,13903,69900,6,2,2220,binghamton
+Foreclosure,253 Robinson St,Binghamton ,NY ,13904,46900,2,1,2450,binghamton
+Pre-Foreclosure (Auction),Mcnamara Ave,Binghamton ,NY ,13903,,6,2,2222,binghamton
+House For Sale,36 Felters Rd,Binghamton ,NY ,13903,69900,2,1,1716,binghamton
+Apartment For Sale,41 Broome St # 43,Binghamton ,NY ,13903,89900,3,1,2912,binghamton
+House For Sale,217 Old Pennsylvania Ave,Binghamton ,NY ,13903,193000,3,2,1850,binghamton
+Pre-Foreclosure (Auction),Bevier St,Binghamton ,NY ,13901,,3,2,2610,binghamton
+House For Sale,32 Cleveland Ave,Binghamton ,NY ,13905,119900,4,2,1800,binghamton
+Apartment For Sale,28 Mason Ave,Binghamton ,NY ,13904,62000,5,2,2056,binghamton
+House For Sale,191 Murray St,Binghamton ,NY ,13905,49900,2,2,1246,binghamton
+Pre-Foreclosure (Auction),Burr Ave,Binghamton ,NY ,13903,,,,,binghamton
+House For Sale,54 Hayes St,Binghamton ,NY ,13903,64500,3,1,1321,binghamton
+Apartment For Sale,3478 Margery St,Binghamton ,NY ,13903,129900,,,,binghamton
+House For Sale,17 Sheldon St,Binghamton ,NY ,13903,67900,4,1,1345,binghamton
+House For Sale,82 Chapin St,Binghamton ,NY ,13905,64500,2,1,812,binghamton
+Apartment For Sale,5 High St,Binghamton ,NY ,13903,84900,,,,binghamton
+Apartment For Sale,32 Walnut St # 34,Binghamton ,NY ,13905,335000,,,,binghamton
+Apartment For Sale,16 Jerome Ave,Binghamton ,NY ,13905,89900,3,1,1753,binghamton
+Apartment For Sale,192 Conklin Ave,Binghamton ,NY ,13903,31000,3,1,2253,binghamton
+Pre-Foreclosure (Auction),Mulberry St,Binghamton ,NY ,13901,,3,1,2268,binghamton
+House For Sale,12 Cypress St,Binghamton ,NY ,13905,94000,6,2,2078,binghamton
+House For Sale,36 Cypress St,Binghamton ,NY ,13905,89000,5,2,2500,binghamton
+House For Sale,20 Lincoln Ave,Binghamton ,NY ,13905,128000,4,3,1321,binghamton
+Apartment For Sale,90 Gaylord St,Binghamton ,NY ,13904,69900,4,2,1630,binghamton
+House For Sale,21 Division St,Binghamton ,NY ,13905,119642,4,2,1912,binghamton
+House For Sale,94 La Grange St,Binghamton ,NY ,13905,229900,3,3,2997,binghamton
+House For Sale,184 Leroy St,Binghamton ,NY ,13905,189900,2,2,1816,binghamton
+Apartment For Sale,34 Doubleday St,Binghamton ,NY ,13901,65000,2,1,2714,binghamton
+House For Sale,310 Riverside Dr,Binghamton ,NY ,13905,149900,3,2,1482,binghamton
+Apartment For Sale,20 Doubleday St,Binghamton ,NY ,13901,115000,1,1,4788,binghamton
+House For Sale,211 Pennsylvania Ave,Binghamton ,NY ,13903,195000,3,4,2084,binghamton
+House For Sale,18 Lincoln Ave,Binghamton ,NY ,13905,179900,4,2,2790,binghamton
+House For Sale,6 Espial Dr,Binghamton ,NY ,13903,149900,3,2,1778,binghamton
+Apartment For Sale,110 Walnut St,Binghamton ,NY ,13905,79900,,,,binghamton
+Apartment For Sale,40 Walnut St # 42,Binghamton ,NY ,13905,84500,,,,binghamton
+Apartment For Sale,97 Chestnut St,Binghamton ,NY ,13905,299000,12,3,5586,binghamton
+House For Sale,132 Leroy St,Binghamton ,NY ,13905,121900,3,2,2510,binghamton
+Apartment For Sale,1210 Vestal Ave,Binghamton ,NY ,13903,86400,,,,binghamton
+Apartment For Sale,48 North St,Binghamton ,NY ,13905,73000,,,,binghamton
+House For Sale,15 Margaret St,Binghamton ,NY ,13905,109000,3,2,1811,binghamton
+For Sale by Owner,29 Seminary Ave,Binghamton ,NY ,13905,174900,6,2,2000,binghamton
+Foreclosed,3 Deforest St,Binghamton ,NY ,13901,,,,,binghamton
+House For Sale,67 Morgan Rd,Binghamton ,NY ,13903,69700,2,2,1050,binghamton
+House For Sale,325 Riverside Dr,Binghamton ,NY ,13905,129900,4,2,2281,binghamton
+Pre-Foreclosure (Auction),Blanchard Ave,Binghamton ,NY ,13901,,4,2,1266,binghamton
+House For Sale,24 Dellwood Rd,Binghamton ,NY ,13903,295000,4,4,3614,binghamton
+Apartment For Sale,153 Crary Ave,Binghamton ,NY ,13905,179000,,,,binghamton
+House For Sale,30 Stuyvesant St,Binghamton ,NY ,13901,135000,11,5,4852,binghamton
+Pre-Foreclosure (Auction),Park Ave,Binghamton ,NY ,13903,,3,1,2162,binghamton
+House For Sale,38 Saratoga Ave,Binghamton ,NY ,13903,95000,3,2,1450,binghamton
+Apartment For Sale,28 Grace St,Binghamton ,NY ,13905,60000,,,,binghamton
+House For Sale,7 Mcnamara Ave,Binghamton ,NY ,13903,119900,3,2,1440,binghamton
+House For Sale,24 Tracy St,Binghamton ,NY ,13905,59900,3,2,936,binghamton
+House For Sale,31 Amsbry St,Binghamton ,NY ,13901,75000,3,2,1454,binghamton
+House For Sale,23 Bennett Ave,Binghamton ,NY ,13905,95000,4,3,1825,binghamton
+Pre-Foreclosure (Auction),Pennsylvania Ave,Binghamton ,NY ,13903,,4,2,2424,binghamton
+Pre-Foreclosure (Auction),Home Ave,Binghamton ,NY ,13903,,4,,2639,binghamton
+Foreclosed,5 W End Ave,Binghamton ,NY ,13905,,,,,binghamton
+Foreclosed,25 Park St,Binghamton ,NY ,13905,,,,,binghamton
+Foreclosed,12 Brownell Ave,Binghamton ,NY ,13905,,,,,binghamton
+Apartment For Sale,39 Sheldon St,Binghamton ,NY ,13903,109000,,,,binghamton
+Apartment For Sale,119 Park Ave,Binghamton ,NY ,13903,129900,,,,binghamton
+House For Sale,62 Howard Ave,Binghamton ,NY ,13904,74900,1,1,720,binghamton
+House For Sale,2033 Cheshire Rd,Binghamton ,NY ,13903,395000,4,3,3926,binghamton
+For Sale by Owner,23 Nash St,Binghamton ,NY ,13904,79500,3,2,1152,binghamton
+Apartment For Sale,3 Hayden St,Binghamton ,NY ,13905,104000,,,,binghamton
+House For Sale,74 Crestmont Rd,Binghamton ,NY ,13905,123000,3,1,1551,binghamton
+Apartment For Sale,97 Helen St,Binghamton ,NY ,13905,159900,,,,binghamton
+House For Sale,6 Brintnall Pl,Binghamton ,NY ,13905,144900,3,1,2172,binghamton
+Apartment For Sale,56 Pine St,Binghamton ,NY ,13901,47900,,,,binghamton
+House For Sale,37 Lathrop Ave,Binghamton ,NY ,13905,129900,3,2,2039,binghamton
+Foreclosure,20 Lorraine Ave,Binghamton ,NY ,13905,49999,3,1,1160,binghamton
+House For Sale,37 Fairview Ave,Binghamton ,NY ,13904,60900,2,1,1020,binghamton
+House For Sale,5 Berwick Ave,Binghamton ,NY ,13904,33000,2,1,1080,binghamton
+House For Sale,32 Vestal Ave,Binghamton ,NY ,13903,89000,3,1,1214,binghamton
+House For Sale,5 Spring St,Binghamton ,NY ,13903,74000,3,1,1810,binghamton
+House For Sale,82 Mary St,Binghamton ,NY ,13903,17000,4,2,2068,binghamton
+Apartment For Sale,25 Colfax Ave,Binghamton ,NY ,13905,73750,3,2,2314,binghamton
+House For Sale,67 Aldrich Ave,Binghamton ,NY ,13903,184900,3,3,1755,binghamton
+House For Sale,3210 Hance Rd,Binghamton ,NY ,13903,176000,3,2,2016,binghamton
+House For Sale,5 Evans St,Binghamton ,NY ,13903,34000,3,2,1521,binghamton
+House For Sale,113 Mason Ave,Binghamton ,NY ,13904,54900,3,1,1350,binghamton
+House For Sale,1347 Hawleyton Rd,Binghamton ,NY ,13903,139900,4,2,1568,binghamton
+Lot/Land For Sale,773 Saddlemire,Binghamton ,NY ,13903,34000,,,,binghamton
+House For Sale,20 Lourdes Rd,Binghamton ,NY ,13905,149900,3,2,1577,binghamton
+Foreclosed,68 Thorp St,Binghamton ,NY ,13905,,,,,binghamton
+House For Sale,13 Orton Ave,Binghamton ,NY ,13905,32000,3,2,1164,binghamton
+Foreclosure,3 N Louisa St,Binghamton ,NY ,13901,119900,3,2,2380,binghamton
+House For Sale,5 Evelyn Pl,Binghamton ,NY ,13903,70000,2,1,885,binghamton
+Apartment For Sale,41 Park Ave,Binghamton ,NY ,13903,74900,,,,binghamton
+House For Sale,5 Zane Rd,Binghamton ,NY ,13903,119900,3,1,1532,binghamton
+House For Sale,14 Lathrop Ave,Binghamton ,NY ,13905,174500,3,2,1998,binghamton
+Apartment For Sale,26 Doubleday St,Binghamton ,NY ,13901,79000,,,,binghamton
+Apartment For Sale,5 Herman Ave,Binghamton ,NY ,13905,62085,,,,binghamton
+House For Sale,101 Upper Vine St,Binghamton ,NY ,13903,55000,3,1,1029,binghamton
+House For Sale,16 Elisabeth Ln,Binghamton ,NY ,13903,78000,3,2,1718,binghamton
+House For Sale,63 Windy Hill Rd,Binghamton ,NY ,13904,98500,2,2,984,binghamton
+House For Sale,22 Amsbry St,Binghamton ,NY ,13901,79500,3,2,1200,binghamton
+House For Sale,15 Chapin St,Binghamton ,NY ,13905,244900,4,3,2548,binghamton
+Apartment For Sale,94 Park Ave,Binghamton ,NY ,13903,49900,,,,binghamton
+Lot/Land For Sale,47 & 49 Grand St,Binghamton ,NY ,13903,6000,,,,binghamton
+Lot/Land For Sale,1644 Hawleyton Rd,Binghamton ,NY ,13903,359000,,,,binghamton
+Apartment For Sale,92 Robinson St,Binghamton ,NY ,13901,75000,1,1,3128,binghamton
+Apartment For Sale,36 Downs Ave,Binghamton ,NY ,13905,65000,4,1,2184,binghamton
+House For Sale,62 Dickinson St,Binghamton ,NY ,13905,279000,8,4,4760,binghamton
+House For Sale,26 Sheldon St,Binghamton ,NY ,13903,74900,2,2,1419,binghamton
+House For Sale,3 Macon St,Binghamton ,NY ,13903,92000,3,1,1104,binghamton
+House For Sale,19 Weslar Ct,Binghamton ,NY ,13903,199000,3,4,2424,binghamton
+Foreclosed,59 Bigelow St,Binghamton ,NY ,13904,,,,,binghamton
+House For Sale,26 Ogden St,Binghamton ,NY ,13901,42000,2,2,1627,binghamton
+House For Sale,47 Colfax Ave,Binghamton ,NY ,13905,73900,4,1,1616,binghamton
+Apartment For Sale,30 Holland St,Binghamton ,NY ,13905,79900,,,,binghamton
+Apartment For Sale,13 Miles St,Binghamton ,NY ,13905,69900,,,,binghamton
+House For Sale,9 Green St,Binghamton ,NY ,13901,68500,4,1,2200,binghamton
+House For Sale,3 Millard Ave,Binghamton ,NY ,13905,179900,3,3,2000,binghamton
+House For Sale,219 Leroy St,Binghamton ,NY ,13905,149900,3,2,1768,binghamton
+Lot/Land For Sale,37 N Ely St,Binghamton ,NY ,13901,7000,,,,binghamton
+House For Sale,357 Ahern Rd,Binghamton ,NY ,13903,44500,3,2,1170,binghamton
+Foreclosure,44 Riverside St,Binghamton ,NY ,13904,46750,3,2,1298,binghamton
+Apartment For Sale,13 Holland St,Binghamton ,NY ,13905,65000,,,,binghamton
+House For Sale,20 Rotary Ave,Binghamton ,NY ,13905,124900,3,2,2236,binghamton
+House For Sale,6 Minerva Ave,Binghamton ,NY ,13905,129000,3,2,1440,binghamton
+House For Sale,23 Yager St,Binghamton ,NY ,13901,69900,3,1,1212,binghamton
+Apartment For Sale,82 Pine St,Binghamton ,NY ,13901,67000,,,,binghamton
+Lot/Land For Sale,43 Mohawk St,Binghamton ,NY ,13903,70000,,,,binghamton
+House For Sale,26 Timberland Dr,Binghamton ,NY ,13903,299000,5,4,4360,binghamton
+House For Sale,210 Robinson St,Binghamton ,NY ,13904,94000,3,3,2160,binghamton
+Apartment For Sale,152 Murray St,Binghamton ,NY ,13905,129900,9,2,3700,binghamton
+House For Sale,11 Everett St,Binghamton ,NY ,13905,54900,2,1,1106,binghamton
+Apartment For Sale,11 North St,Binghamton ,NY ,13905,425000,,,,binghamton
+House For Sale,11 Oak St,Binghamton ,NY ,13905,211900,4,3,2615,binghamton
+House For Sale,60 Mygatt St,Binghamton ,NY ,13905,59900,3,2,1315,binghamton
+House For Sale,24 Rotary Ave,Binghamton ,NY ,13905,169500,4,2,2290,binghamton
+House For Sale,13 Midway Dr,Binghamton ,NY ,13903,39500,3,1,1224,binghamton
+Apartment For Sale,13 Carlton St,Binghamton ,NY ,13903,139900,,,,binghamton
+House For Sale,6 Gary St,Binghamton ,NY ,13905,95000,4,2,1989,binghamton
+Foreclosure,4 College St,Binghamton ,NY ,13905,30700,4,1,1381,binghamton
+Pre-Foreclosure (Auction),Merrill St,Binghamton ,NY ,13905,,4,2,1824,binghamton
+House For Sale,227 Riverside Dr,Binghamton ,NY ,13905,275000,4,4,3960,binghamton
+Foreclosure,10 John St,Binghamton ,NY ,13903,36000,3,1,1368,binghamton
+House For Sale,18 Patricia St,Binghamton ,NY ,13905,184900,3,2,2234,binghamton
+Apartment For Sale,37 Park St,Binghamton ,NY ,13905,30000,,,,binghamton
+Foreclosure,2463 Bernice Blvd,Binghamton ,NY ,13903,57900,3,2,2056,binghamton
+House For Sale,365 Conklin Ave,Binghamton ,NY ,13903,263900,4,4,3352,binghamton
+Foreclosed,673 Park Ave,Binghamton ,NY ,13903,,,,,binghamton
+House For Sale,113 Gaylord St,Binghamton ,NY ,13904,29900,3,2,1274,binghamton
+House For Sale,153 Bevier St,Binghamton ,NY ,13904,79850,3,2,1296,binghamton
+House For Sale,5 Duane Ave,Binghamton ,NY ,13903,114850,4,2,1720,binghamton
+House For Sale,11 Campbell Rd Ct,Binghamton ,NY ,13905,379900,5,5,4333,binghamton
+Pre-Foreclosure (Auction),Aldrich Ave,Binghamton ,NY ,13903,,3,,1608,binghamton
+Apartment For Sale,37 Haendel St,Binghamton ,NY ,13905,129000,,,,binghamton
+Apartment For Sale,127 Laurel Ave,Binghamton ,NY ,13905,179000,,,,binghamton
+Lot/Land For Sale,3247& 3249 Hunters Landing Rd,Binghamton ,NY ,13903,55000,,,,binghamton
+For Sale by Owner,558 Hance Rd,Binghamton ,NY ,13903,750000,3,2,1800,binghamton
+House For Sale,41 Beethoven St,Binghamton ,NY ,13905,169900,3,3,2672,binghamton
+House For Sale,1425 Mill Rd,Binghamton ,NY ,13903,424900,5,4,3880,binghamton
+Lot/Land For Sale,1193 Hawleyton Rd,Binghamton ,NY ,13903,18900,,,,binghamton
+Pre-Foreclosure (Auction),Mildred St,Binghamton ,NY ,13903,,3,1,1176,binghamton
+House For Sale,44 Beethoven St,Binghamton ,NY ,13905,102900,4,1,2898,binghamton
+House For Sale,77 Helen St,Binghamton ,NY ,13905,135000,3,2,1288,binghamton
+House For Sale,4255 Renole Dr,Binghamton ,NY ,13903,262000,4,3,3613,binghamton
+Pre-Foreclosure (Auction),Beethoven St,Binghamton ,NY ,13905,,3,,2898,binghamton
+Pre-Foreclosure (Auction),Kennedy St,Binghamton ,NY ,13903,,2,1,836,binghamton
+Auction,3311 Jackson Rd,Binghamton ,NY ,13903,,3,,1082,binghamton
+House For Sale,68 Colfax Ave,Binghamton ,NY ,13905,29900,2,1,768,binghamton
+House For Sale,109 Morgan Rd,Binghamton ,NY ,13903,99900,3,2,852,binghamton
+House For Sale,628 Chenango St,Binghamton ,NY ,13901,59399,3,1,1644,binghamton
+Apartment For Sale,39 Charles St,Binghamton ,NY ,13905,85000,2,1,1800,binghamton
+House For Sale,300 Robinson St,Binghamton ,NY ,13904,55000,5,3,2660,binghamton
+Apartment For Sale,163 Oak St,Binghamton ,NY ,13905,180000,5,1,3045,binghamton
+Apartment For Sale,24 Rutherford St,Binghamton ,NY ,13901,88900,,,,binghamton
+Lot/Land For Sale,34 Midwood Dr,Binghamton ,NY ,13903,9000,,,,binghamton
+Foreclosure,16 Penny Ln,Binghamton ,NY ,13905,57500,3,2,1920,binghamton
+Apartment For Sale,49 Vine St,Binghamton ,NY ,13903,99000,,,,binghamton
+Pre-Foreclosure (Auction),Cedar St,Binghamton ,NY ,13905,,3,1,1498,binghamton
+Apartment For Sale,3 Judson Ave,Binghamton ,NY ,13905,100000,2,1,2200,binghamton
+House For Sale,5 Rotary Ave,Binghamton ,NY ,13905,165000,6,2,3293,binghamton
+House For Sale,5 Riverside Dr APT 201,Binghamton ,NY ,13905,64900,2,2,1180,binghamton
+House For Sale,22 Pearl Ave,Binghamton ,NY ,13903,97500,3,2,1440,binghamton
+House For Sale,19 Pierce St,Binghamton ,NY ,13903,69900,3,1,2170,binghamton
+House For Sale,3510 Brigham St,Binghamton ,NY ,13903,75000,2,1,935,binghamton
+Apartment For Sale,292 Robinson St,Binghamton ,NY ,13904,100000,2,1,1668,binghamton
+Apartment For Sale,5 Burr Ave,Binghamton ,NY ,13903,40000,2,1,1853,binghamton
+House For Sale,81 Leroy St,Binghamton ,NY ,13905,124900,3,3,2639,binghamton
+For Sale by Owner,2244 Pierce Creek Rd,Binghamton ,NY ,13903,94900,3,1,1284,binghamton
+Apartment For Sale,15 Highland Ave,Binghamton ,NY ,13905,181000,7,2,3875,binghamton
+House For Sale,29 Howard Ave,Binghamton ,NY ,13904,59900,4,,1606,binghamton
+House For Sale,81 Saratoga Ave,Binghamton ,NY ,13903,47900,4,2,2112,binghamton
+House For Sale,181 Hawley St,Binghamton ,NY ,13901,75000,6,2,3581,binghamton
+House For Sale,96 Crestmont Rd,Binghamton ,NY ,13905,149900,4,2,2035,binghamton
+House For Sale,3760 Mill St,Binghamton ,NY ,13903,299000,3,4,4882,binghamton
+Apartment For Sale,31 Mill St,Binghamton ,NY ,13903,75900,4,2,2290,binghamton
+Apartment For Sale,43 Mill St,Binghamton ,NY ,13903,75000,2,1,2426,binghamton
+House For Sale,36 Laurel Ave,Binghamton ,NY ,13905,275000,5,3,3123,binghamton
+House For Sale,3 Green St,Binghamton ,NY ,13901,49900,3,1,1581,binghamton
+House For Sale,126 Clifton Blvd,Binghamton ,NY ,13903,169900,4,3,1768,binghamton
+House For Sale,2063 Partridge Ln,Binghamton ,NY ,13903,185000,4,3,2405,binghamton
+House For Sale,2416 Theresa Blvd,Binghamton ,NY ,13903,179900,3,2,1649,binghamton
+Apartment For Sale,32 Cypress St,Binghamton ,NY ,13905,82000,,,,binghamton
+House For Sale,1 Rossmore Pl,Binghamton ,NY ,13904,59900,2,1,1045,binghamton
+House For Sale,97 Schubert St,Binghamton ,NY ,13905,79900,4,2,1630,binghamton
+House For Sale,75 Fairview Ave,Binghamton ,NY ,13904,48900,3,1,1237,binghamton
+Apartment For Sale,20 Cypress St,Binghamton ,NY ,13905,124900,2,1,2291,binghamton
+Apartment For Sale,17 Cypress St,Binghamton ,NY ,13905,194900,2,1,4700,binghamton
+For Sale by Owner,96 Chapin St,Binghamton ,NY ,13905,129900,6,2,2042,binghamton
+House For Sale,78 Mygatt St,Binghamton ,NY ,13905,58900,3,2,1324,binghamton
+Apartment For Sale,8.5 Vine St,Binghamton ,NY ,13903,55250,3,1,1608,binghamton
+House For Sale,24 Bennett Ave,Binghamton ,NY ,13905,160000,6,2,2578,binghamton
+Foreclosed,207 Robinson St,Binghamton ,NY ,13904,,,,,binghamton
+House For Sale,26 Linden St,Binghamton ,NY ,13901,69000,3,2,1408,binghamton
+Foreclosure,47 Hayes St,Binghamton ,NY ,13903,39346,3,,1362,binghamton
+For Sale by Owner,16 Elizabeth Ln,Binghamton ,NY ,13903,50000,3,3,1750,binghamton
+House For Sale,22 2nd St,Binghamton ,NY ,13903,42500,4,1,2390,binghamton
+House For Sale,1382 Reynolds Cir,Binghamton ,NY ,13903,299900,4,3,3360,binghamton
+House For Sale,1110 Vestal Ave,Binghamton ,NY ,13903,89900,3,2,1650,binghamton
+Apartment For Sale,13.5 Rutherford St,Binghamton ,NY ,13901,55000,2,1,1854,binghamton
+Apartment For Sale,12 Clarke St,Binghamton ,NY ,13905,120000,4,1,2350,binghamton
+House For Sale,44 Helen St,Binghamton ,NY ,13905,127900,2,1,1709,binghamton
+Foreclosed,20 Hancock St,Binghamton ,NY ,13903,,,,,binghamton
+For Sale by Owner,34 Rugby Rd,Binghamton ,NY ,13905,129500,3,2,1170,binghamton
+Auction,726 Park Ave,Binghamton ,NY ,13903,,3,1,936,binghamton
+House For Sale,46 George St,Binghamton ,NY ,13904,84900,3,1,1336,binghamton
+House For Sale,3239 Dogwood Dr,Binghamton ,NY ,13903,259900,4,4,2914,binghamton
+House For Sale,5 Chadwick Rd,Binghamton ,NY ,13903,159000,4,,2164,binghamton
+Apartment For Sale,35 Rotary Ave,Binghamton ,NY ,13905,108000,,,,binghamton
+House For Sale,19 Field St,Binghamton ,NY ,13905,129000,8,4,,binghamton
+Apartment For Sale,111 Schubert St,Binghamton ,NY ,13905,99000,,,,binghamton
+House For Sale,18 Macon St,Binghamton ,NY ,13903,97000,3,1,1496,binghamton
+Apartment For Sale,20 Oliver St # 22,Binghamton ,NY ,13904,94000,,,,binghamton
+House For Sale,9 Highland Ave,Binghamton ,NY ,13905,85000,3,1,1687,binghamton
+Foreclosed,75 Bigelow St,Binghamton ,NY ,13904,,,,,binghamton
+Apartment For Sale,534 Chenango St,Binghamton ,NY ,13901,189000,8,8,8139,binghamton
+For Sale by Owner,N Ely St,Binghamton ,NY ,13901,68000,,,,binghamton
+House For Sale,5 Moody St,Binghamton ,NY ,13904,66900,3,2,1192,binghamton
+Apartment For Sale,25 Downs Ave,Binghamton ,NY ,13905,61900,,,,binghamton
+Lot/Land For Sale,4144 Murphy Rd,Binghamton ,NY ,13903,15900,,,,binghamton
+Apartment For Sale,49 Howard Ave,Binghamton ,NY ,13904,87000,,,,binghamton
+House For Sale,114 Moore Ave,Binghamton ,NY ,13903,320000,3,3,2848,binghamton
+House For Sale,6 Brevity Ct,Binghamton ,NY ,13905,375000,3,2,3671,binghamton
+House For Sale,29 Holland St,Binghamton ,NY ,13905,79000,5,2,1886,binghamton
+Apartment For Sale,86 Murray St,Binghamton ,NY ,13905,280000,,,,binghamton
+Apartment For Sale,107 Laurel Ave,Binghamton ,NY ,13905,107850,,,,binghamton
+Apartment For Sale,35 North St,Binghamton ,NY ,13905,124900,,,,binghamton
+Apartment For Sale,7 2nd St,Binghamton ,NY ,13903,69900,,,,binghamton
+House For Sale,61 Belden St,Binghamton ,NY ,13903,37000,2,2,1156,binghamton
+House For Sale,103 Schubert St,Binghamton ,NY ,13905,94500,4,1,1548,binghamton
+House For Sale,416 Park Ave,Binghamton ,NY ,13903,89500,3,2,1223,binghamton
+Pre-Foreclosure (Auction),Lennox Dr,Binghamton ,NY ,13903,,4,,2256,binghamton
+Apartment For Sale,158 Henry St,Binghamton ,NY ,13901,199900,,,,binghamton
+House For Sale,17 Everett St,Binghamton ,NY ,13905,56000,2,1,1424,binghamton
+House For Sale,94 Grand Blvd,Binghamton ,NY ,13905,144900,3,3,2040,binghamton
+Apartment For Sale,64 Jackson St,Binghamton ,NY ,13903,110000,3,1,5490,binghamton
+House For Sale,3305 Gillespie Rd,Binghamton ,NY ,13903,89900,3,1,1108,binghamton
+Apartment For Sale,1212 Vestal Ave,Binghamton ,NY ,13903,90000,2,1,1904,binghamton
+Apartment For Sale,14 Clarke St,Binghamton ,NY ,13905,140000,1,1,2825,binghamton
+House For Sale,48 Clarke St,Binghamton ,NY ,13905,90000,4,2,1548,binghamton
+Apartment For Sale,128 Prospect Ave,Binghamton ,NY ,13901,99000,,,,binghamton
+House For Sale,3 Mason Ave,Binghamton ,NY ,13904,150000,4,,1704,binghamton
+House For Sale,27 Avon Rd,Binghamton ,NY ,13905,350000,4,4,5322,binghamton
+House For Sale,55 Ardsley Rd,Binghamton ,NY ,13904,99999,3,2,1611,binghamton
+Lot/Land For Sale,1487 Hawleyton Rd,Binghamton ,NY ,13903,19900,,,,binghamton
+House For Sale,51 Burr Ave,Binghamton ,NY ,13903,64999,3,1,968,binghamton
+Apartment For Sale,265 Main St,Binghamton ,NY ,13905,195000,9,3,3450,binghamton
+House For Sale,3900 Deer Run Ln,Binghamton ,NY ,13903,599000,4,2,4732,binghamton
+Apartment For Sale,151 Oak St,Binghamton ,NY ,13905,265000,,,,binghamton
+Apartment For Sale,193.5 Oak St,Binghamton ,NY ,13905,40000,3,1,2040,binghamton
+Apartment For Sale,46 North St,Binghamton ,NY ,13905,573000,,,,binghamton
+House For Sale,1 Fuller Hollow Rd,Binghamton ,NY ,13903,259900,4,3,3466,binghamton
+House For Sale,34 Bingham St,Binghamton ,NY ,13904,64450,3,1,1260,binghamton
+Auction,1/4 Park St,Binghamton ,NY ,13905,,3,2,1476,binghamton
+House For Sale,27 Bennett Ave,Binghamton ,NY ,13905,117500,4,2,2476,binghamton
+For Sale by Owner,123 Murray St,Binghamton ,NY ,13905,999999,8,5,3428,binghamton
+Lot/Land For Sale,11 Clearview Ave,Binghamton ,NY ,13903,7500,,,,binghamton
+House For Sale,28 High St,Binghamton ,NY ,13903,54900,3,,1337,binghamton
+House For Sale,58 Pine St,Binghamton ,NY ,13901,85900,4,2,2166,binghamton
+For Sale by Owner,38 Thorp St,Binghamton ,NY ,13905,25000,6,1,2160,binghamton
+Apartment For Sale,2 Florence St,Binghamton ,NY ,13905,127000,,,,binghamton
+Apartment For Sale,14 Cary St,Binghamton ,NY ,13901,85000,,,,binghamton
+House For Sale,121 Pennsylvania Ave,Binghamton ,NY ,13903,57900,2,1,1280,binghamton
+Apartment For Sale,28 Frederick St,Binghamton ,NY ,13901,310000,,,,binghamton
+Make Me Move®,9 Mather St,Binghamton ,NY ,13905,150000,6,2,2120,binghamton
+Apartment For Sale,34 Pearne St,Binghamton ,NY ,13901,35000,3,1,1999,binghamton
+For Sale by Owner,125 Murray St,Binghamton ,NY ,13905,999999,8,,,binghamton
+Condo For Sale,19 Front St # J,Binghamton ,NY ,13905,95000,2,2,1344,binghamton
+House For Sale,87 Highland Ave,Binghamton ,NY ,13905,329000,4,3,2306,binghamton
+House For Sale,3 Lillian Dr,Binghamton ,NY ,13903,55400,3,1,1008,binghamton
+House For Sale,7 Midwood Dr,Binghamton ,NY ,13903,199900,4,2,2900,binghamton
+Pre-Foreclosure (Auction),Winding Way,Binghamton ,NY ,13905,,4,2,2352,binghamton
+House For Sale,190 W End Ave,Binghamton ,NY ,13905,142000,4,2,3387,binghamton
+For Sale by Owner,6 Tracy St,Binghamton ,NY ,13905,75000,4,2,1650,binghamton
+Apartment For Sale,212 Court St,Binghamton ,NY ,13901,399000,,,,binghamton
+Apartment For Sale,39 North St,Binghamton ,NY ,13905,135000,,,,binghamton
+House For Sale,100 Woodland Ave,Binghamton ,NY ,13903,175000,4,3,2080,binghamton
+House For Sale,3904 Deer Run Ln,Binghamton ,NY ,13903,965000,5,7,5970,binghamton
+Foreclosure,171 Crary Ave,Binghamton ,NY ,13905,102660,4,2,2155,binghamton
+House For Sale,37 Nash St,Binghamton ,NY ,13904,79900,3,2,1448,binghamton
+House For Sale,2335 Oswego St,Binghamton ,NY ,13903,82500,3,1,1070,binghamton
+Pre-Foreclosure (Auction),Serrell Ave,Binghamton ,NY ,13905,,6,2,1856,binghamton
+Pre-Foreclosure (Auction),Julian St,Binghamton ,NY ,13905,,3,1,1428,binghamton
+House For Sale,133 1/2 S Washington St,Binghamton ,NY ,13903,119900,3,3,2280,binghamton
+Apartment For Sale,59 Griswold St,Binghamton ,NY ,13904,55000,,,,binghamton
+House For Sale,53 Gaylord St,Binghamton ,NY ,13904,60000,3,,1126,binghamton
+House For Sale,7 Mason Ave,Binghamton ,NY ,13904,70000,3,2,1615,binghamton
+Apartment For Sale,329-333 Conklin Ave,Binghamton ,NY ,13903,125900,3,2,3624,binghamton
+House For Sale,30 Bevier St,Binghamton ,NY ,13901,55900,3,2,1886,binghamton
+House For Sale,14 Indiana St,Binghamton ,NY ,13903,38000,2,1,1232,binghamton
+For Sale by Owner,179 Leroy St,Binghamton ,NY ,13905,165000,3,2,2489,binghamton
+House For Sale,5 Riverside Dr APT 605,Binghamton ,NY ,13905,75000,1,,900,binghamton
+House For Sale,80 Chestnut St,Binghamton ,NY ,13905,149000,3,3,2216,binghamton
+House For Sale,11 Schubert St,Binghamton ,NY ,13905,99000,5,2,2048,binghamton
+For Sale by Owner,21 Virgil St,Binghamton ,NY ,13901,33000,5,2,2002,binghamton
+House For Sale,1290 Vestal Ave,Binghamton ,NY ,13903,89900,4,2,2552,binghamton
+House For Sale,639 Conklin Rd,Binghamton ,NY ,13903,147900,3,2,1656,binghamton
+House For Sale,19 Tremont Ave,Binghamton ,NY ,13903,45000,3,2,1700,binghamton
+Apartment For Sale,24 Clarke St,Binghamton ,NY ,13905,89000,,,,binghamton
+Apartment For Sale,80 Walnut St,Binghamton ,NY ,13905,189000,,,,binghamton
+Apartment For Sale,24 Virgil St,Binghamton ,NY ,13901,37000,,,,binghamton
+Apartment For Sale,16 Emmett St,Binghamton ,NY ,13901,31000,6,2,2310,binghamton
+Apartment For Sale,5 Grace St,Binghamton ,NY ,13905,154000,,,,binghamton
+Apartment For Sale,55 Ely St,Binghamton ,NY ,13904,47000,,,,binghamton
+Apartment For Sale,99 Chestnut St,Binghamton ,NY ,13905,169000,,,,binghamton
+Apartment For Sale,18 Munsell St,Binghamton ,NY ,13901,39000,,,,binghamton
+Apartment For Sale,5 Grace St,Binghamton ,NY ,13905,154000,,,,binghamton
+Apartment For Sale,10 Cary St,Binghamton ,NY ,13901,37000,,,,binghamton
+Apartment For Sale,30 Edwards St,Binghamton ,NY ,13905,279000,,,,binghamton
+Apartment For Sale,16 Emmett St,Binghamton ,NY ,13901,31000,6,2,2310,binghamton
+Apartment For Sale,50 Clarke St,Binghamton ,NY ,13905,99000,,,,binghamton
+House For Sale,13 Pearl Ave,Binghamton ,NY ,13903,94900,4,1,1368,binghamton
+House For Sale,8 Lincoln Ave,Binghamton ,NY ,13905,99500,5,2,2336,binghamton
+House For Sale,85 Park St,Binghamton ,NY ,13905,185000,6,3,2776,binghamton
+House For Sale,43 Riverview Ave,Binghamton ,NY ,13904,89900,3,1,1608,binghamton
+For Sale by Owner,39 Allendale Rd,Binghamton ,NY ,13903,139000,4,3,1621,binghamton
+House For Sale,16 Timberland Dr,Binghamton ,NY ,13903,269900,4,3,2904,binghamton
+Apartment For Sale,3 Burr Ave,Binghamton ,NY ,13903,82000,4,2,2484,binghamton
+Lot/Land For Sale,17 Rexleigh St,Binghamton ,NY ,13903,3900,,,,binghamton
+Lot/Land For Sale,15 Rexleigh St,Binghamton ,NY ,13903,2850,,,,binghamton
+House For Sale,21 N Depot St SUITE 3W,Binghamton ,NY ,13901,165000,2,2,2400,binghamton
+House For Sale,465 Morgan Rd,Binghamton ,NY ,13903,40000,2,1,1050,binghamton
+House For Sale,1370 Hawleyton Rd,Binghamton ,NY ,13903,130000,4,2,2784,binghamton
+Apartment For Sale,24 Edwards St,Binghamton ,NY ,13905,205000,10,3,4100,binghamton
+Apartment For Sale,22 Edwards St,Binghamton ,NY ,13905,205000,10,4,3900,binghamton
+Apartment For Sale,260 Main St,Binghamton ,NY ,13905,109000,,,,binghamton
+House For Sale,105 Schubert St,Binghamton ,NY ,13905,104900,4,2,2171,binghamton
+House For Sale,39 Travis Ave,Binghamton ,NY ,13904,45000,3,1,1056,binghamton
+Apartment For Sale,118 Walnut St,Binghamton ,NY ,13905,45000,4,2,1870,binghamton
+Pre-Foreclosure (Auction),Saratoga Ave,Binghamton ,NY ,13903,,1,1,520,binghamton
+House For Sale,302 Park Ave,Binghamton ,NY ,13903,129900,3,2,1465,binghamton
+Apartment For Sale,6 Beman St,Binghamton ,NY ,13901,54900,4,2,1732,binghamton
+Apartment For Sale,52 Griswold St,Binghamton ,NY ,13904,49000,,,,binghamton
+Apartment For Sale,29 Winding Way,Binghamton ,NY ,13905,54000,4,,2880,binghamton
+Apartment For Sale,27 Winding Way,Binghamton ,NY ,13905,64000,9,3,2500,binghamton
+Apartment For Sale,16 Abbott St,Binghamton ,NY ,13904,54000,4,2,1069,binghamton
+Apartment For Sale,18 Abbott St,Binghamton ,NY ,13904,59000,4,3,1408,binghamton
+Apartment For Sale,202 Conklin Ave,Binghamton ,NY ,13903,110500,1,1,3900,binghamton
+Apartment For Sale,27 Charlotte St,Binghamton ,NY ,13905,210000,3,1,5952,binghamton
+Apartment For Sale,25 Charlotte St,Binghamton ,NY ,13905,360000,3,1,5655,binghamton
+Apartment For Sale,19 Seymour St,Binghamton ,NY ,13905,110500,2,1,3300,binghamton
+House For Sale,58 Rush Ave,Binghamton ,NY ,13903,56900,3,1,1365,binghamton
+Apartment For Sale,14 Allen St,Binghamton ,NY ,13901,44900,,,,binghamton
+Apartment For Sale,27 Rutherford St,Binghamton ,NY ,13901,51000,3,1,2168,binghamton
+Apartment For Sale,1 Arthur St,Binghamton ,NY ,13905,106250,2,1,3362,binghamton
+Apartment For Sale,55 Broad Ave,Binghamton ,NY ,13904,63750,1,1,2192,binghamton
+Apartment For Sale,57 Ely St,Binghamton ,NY ,13904,50150,1,1,2192,binghamton
+For Sale by Owner,17 Way St,Binghamton ,NY ,13901,32000,4,2,1968,binghamton
+Lot/Land For Sale,7 Fairview Ave,Binghamton ,NY ,13904,15000,,,,binghamton
+House For Sale,366 Park Ave,Binghamton ,NY ,13903,625000,3,3,3335,binghamton
+Pre-Foreclosure (Auction),Gaines St,Binghamton ,NY ,13905,,3,1,1096,binghamton
+Foreclosed,244 Robinson St,Binghamton ,NY ,13904,,,,,binghamton
+Apartment For Sale,35 Downs Ave,Binghamton ,NY ,13905,75000,3,1,2380,binghamton
+House For Sale,2057 Cheshire Rd,Binghamton ,NY ,13903,169900,4,,2850,binghamton
+Foreclosed,82 Holland St,Binghamton ,NY ,13905,,,,,binghamton
+For Sale by Owner,15 Seymour St,Binghamton ,NY ,13905,65000,3,1,1296,binghamton
+House For Sale,51 Lake Ave,Binghamton ,NY ,13905,28500,4,1,1456,binghamton
+House For Sale,17 Westmoor Pl,Binghamton ,NY ,13905,119000,3,2,2214,binghamton
+Apartment For Sale,13 Tremont Ave,Binghamton ,NY ,13903,57000,,,,binghamton
+Foreclosure,60 Jackson St,Binghamton ,NY ,13903,43350,4,,1350,binghamton
+House For Sale,105 Moore Ave,Binghamton ,NY ,13903,159000,4,2,1830,binghamton
+Apartment For Sale,297 Robinson St,Binghamton ,NY ,13904,95000,,,,binghamton
+Pre-Foreclosure (Auction),Jarvis St,Binghamton ,NY ,13905,,6,3,2460,binghamton
+Make Me Move®,23 Blanchard Ave,Binghamton ,NY ,13901,65000,4,2,2088,binghamton
+Foreclosed,1310 Vestal Ave,Binghamton ,NY ,13903,,,,,binghamton
+House For Sale,111 E Hamton Rd,Binghamton ,NY ,13903,229000,3,3,4102,binghamton
+Apartment For Sale,12 Birch St,Binghamton ,NY ,13903,69900,,,,binghamton
+Apartment For Sale,21 Way St,Binghamton ,NY ,13901,135990,6,2,2400,binghamton
+Pre-Foreclosure (Auction),Florence Ave,Binghamton ,NY ,13905,,3,1,1358,binghamton
+Pre-Foreclosure (Auction),Bevier St,Binghamton ,NY ,13904,,2,1,1181,binghamton
+Pre-Foreclosure (Auction),Kennedy St,Binghamton ,NY ,13903,,3,,1008,binghamton
+House For Sale,65 S Washington St,Binghamton ,NY ,13903,49900,2,1,950,binghamton
+Pre-Foreclosure (Auction),Mason Ave,Binghamton ,NY ,13904,,4,2,2344,binghamton
+Foreclosed,294 Woodside Ave,Binghamton ,NY ,13903,,,,,binghamton
+House For Sale,258 Stevens Rd,Binghamton ,NY ,13903,110000,3,2,1964,binghamton
+Foreclosed,33 Delmar St,Binghamton ,NY ,13903,,3,1,1184,binghamton
+Foreclosed,23 Stuyvesant St,Binghamton ,NY ,13901,,,,,binghamton
+Foreclosed,53 Broad Ave,Binghamton ,NY ,13904,,,,,binghamton
+Foreclosed,159 Bevier St,Binghamton ,NY ,13904,,,,,binghamton
+Foreclosed,160 Park Ave,Binghamton ,NY ,13903,,,,,binghamton
